@@ -1,0 +1,7 @@
+organism: Thiopseudomonas alkaliphila B4199 
+contigs: 1
+bases: 2494031
+CDS: 2360
+rRNA: 15
+tRNA: 54
+tmRNA: 1

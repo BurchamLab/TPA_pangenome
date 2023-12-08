@@ -1,0 +1,8 @@
+organism: Thiopseudomonas alkaliphila DF95-5 
+contigs: 60
+bases: 2475608
+CDS: 2317
+rRNA: 3
+repeat_region: 1
+tRNA: 46
+tmRNA: 1

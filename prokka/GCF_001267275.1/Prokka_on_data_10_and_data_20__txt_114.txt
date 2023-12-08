@@ -1,0 +1,8 @@
+organism: Thiopseudomonas alkaliphila E1086 
+contigs: 1
+bases: 2391994
+CDS: 2214
+rRNA: 13
+repeat_region: 1
+tRNA: 52
+tmRNA: 1

@@ -1,0 +1,346 @@
+[19:37:14] This is prokka 1.14.6
+[19:37:14] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[19:37:14] Homepage is https://github.com/tseemann/prokka
+[19:37:14] Local time is Fri Jul  7 19:37:14 2023
+[19:37:14] You are not telling me who you are!
+[19:37:14] Operating system is linux
+[19:37:14] You have BioPerl 1.7.8
+[19:37:14] System has 32 cores.
+[19:37:14] Will use maximum of 6 cores.
+[19:37:14] Annotating as >>> Bacteria <<<
+[19:37:14] Generating locus_tag from '/corral4/main/objects/b/1/4/dataset_b14f4446-ce1a-4c1f-9db5-4de52ae1cd5f.dat' contents.
+[19:37:14] Setting --locustag AAABECEJ from MD5 aaabece31302512b70edc445b65b4c9d
+[19:37:14] Creating new output folder: outdir
+[19:37:14] Running: mkdir -p outdir
+[19:37:14] Using filename prefix: prokka.XXX
+[19:37:14] Setting HMMER_NCPU=1
+[19:37:14] Writing log to: outdir/prokka.log
+[19:37:14] Command: /usr/local/bin/prokka --cpus 6 --quiet --outdir outdir --prefix prokka --increment 1 --gffver 3 --mincontig 200 --genus Thiopseudomonas --species alkaliphila --strain D3318 --kingdom Bacteria --gcode 11 --proteins /corral4/main/objects/d/9/6/dataset_d961d594-fa8b-49f4-a0dd-1af62fbb2857.dat --evalue 1e-06 /corral4/main/objects/b/1/4/dataset_b14f4446-ce1a-4c1f-9db5-4de52ae1cd5f.dat
+[19:37:14] Appending to PATH: /usr/local/bin
+[19:37:14] Looking for 'aragorn' - found /usr/local/bin/aragorn
+[19:37:14] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[19:37:14] Looking for 'barrnap' - found /usr/local/bin/barrnap
+[19:37:14] Determined barrnap version is 000009 from 'barrnap 0.9'
+[19:37:14] Looking for 'blastp' - found /usr/local/bin/blastp
+[19:37:15] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[19:37:15] Looking for 'cmpress' - found /usr/local/bin/cmpress
+[19:37:15] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[19:37:15] Looking for 'cmscan' - found /usr/local/bin/cmscan
+[19:37:15] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[19:37:15] Looking for 'egrep' - found /bin/egrep
+[19:37:15] Looking for 'find' - found /usr/bin/find
+[19:37:15] Looking for 'grep' - found /bin/grep
+[19:37:15] Looking for 'hmmpress' - found /usr/local/bin/hmmpress
+[19:37:15] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[19:37:15] Looking for 'hmmscan' - found /usr/local/bin/hmmscan
+[19:37:15] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[19:37:15] Looking for 'java' - found /usr/local/bin/java
+[19:37:15] Looking for 'makeblastdb' - found /usr/local/bin/makeblastdb
+[19:37:15] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[19:37:15] Looking for 'minced' - found /usr/local/bin/minced
+[19:37:15] Determined minced version is 004002 from 'minced 0.4.2'
+[19:37:15] Looking for 'parallel' - found /usr/local/bin/parallel
+[19:37:15] Determined parallel version is 20220222 from 'GNU parallel 20220222'
+[19:37:15] Looking for 'prodigal' - found /usr/local/bin/prodigal
+[19:37:15] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[19:37:15] Looking for 'prokka-genbank_to_fasta_db' - found /usr/local/bin/prokka-genbank_to_fasta_db
+[19:37:15] Looking for 'sed' - found /bin/sed
+[19:37:15] Looking for 'tbl2asn' - found /usr/local/bin/tbl2asn
+[19:37:16] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[19:37:16] Using genetic code table 11.
+[19:37:16] Loading and checking input file: /corral4/main/objects/b/1/4/dataset_b14f4446-ce1a-4c1f-9db5-4de52ae1cd5f.dat
+[19:37:16] Wrote 1 contigs totalling 2294397 bp.
+[19:37:16] Predicting tRNAs and tmRNAs
+[19:37:16] Running: aragorn -l -gc11  -w outdir\/prokka\.fna
+[19:37:17] 1 tRNA-Arg [259,335] 35 (cct)
+[19:37:17] 2 tRNA-Glu [67878,67953] 35 (ttc)
+[19:37:17] 3 tRNA-Gly [67960,68035] 34 (gcc)
+[19:37:17] 4 tRNA-Leu c[202040,202126] 35 (caa)
+[19:37:17] 5 tRNA-Ser [223569,223659] 35 (gct)
+[19:37:17] 6 tRNA-Arg [223743,223819] 35 (acg)
+[19:37:17] 7 tRNA-Arg [223880,223956] 35 (acg)
+[19:37:17] 8 tRNA-Gln c[246755,246829] 33 (ttg)
+[19:37:17] 9 tRNA-Val c[262219,262295] 35 (gac)
+[19:37:17] 10 tRNA-Leu [291727,291814] 35 (taa)
+[19:37:17] 11 tRNA-Met c[334449,334525] 35 (cat)
+[19:37:17] 12 tRNA-Arg [387391,387467] 35 (tct)
+[19:37:17] 13 tRNA-His [387510,387585] 34 (gtg)
+[19:37:17] 14 tRNA-Leu [387627,387711] 35 (tag)
+[19:37:17] 15 tRNA-Glu c[410304,410379] 35 (ttc)
+[19:37:17] 16 tRNA-Ala c[410416,410491] 34 (ggc)
+[19:37:17] 17 tRNA-Glu c[410534,410609] 35 (ttc)
+[19:37:17] 18 tRNA-Ala c[410666,410741] 34 (ggc)
+[19:37:17] 19 tRNA-Ser [556016,556105] 35 (gga)
+[19:37:17] 20 tRNA-Ala c[646697,646772] 34 (tgc)
+[19:37:17] 21 tRNA-Ile c[646913,646989] 35 (gat)
+[19:37:17] 22 tmRNA [671518,671910] 96,137 ANDETYGEYALAA*
+[19:37:17] 23 tRNA-Met c[692846,692922] 35 (cat)
+[19:37:17] 24 tRNA-Pro c[845598,845674] 35 (ggg)
+[19:37:17] 25 tRNA-Met c[930473,930549] 35 (cat)
+[19:37:17] 26 tRNA-Leu [952874,952960] 35 (cag)
+[19:37:17] 27 tRNA-Ser c[1031505,1031592] 35 (tga)
+[19:37:17] 28 tRNA-Arg c[1074944,1075020] 35 (cct)
+[19:37:17] 29 tRNA-Ala c[1078693,1078768] 34 (tgc)
+[19:37:17] 30 tRNA-Ile c[1078909,1078985] 35 (gat)
+[19:37:17] 31 tRNA-Val c[1223914,1223989] 34 (tac)
+[19:37:17] 32 tRNA-Asp c[1224029,1224105] 35 (gtc)
+[19:37:17] 33 tRNA-Val c[1224124,1224199] 34 (tac)
+[19:37:17] 34 tRNA-Lys c[1257825,1257899] 33 (ttt)
+[19:37:17] 35 tRNA-Lys c[1295570,1295644] 33 (ttt)
+[19:37:17] 36 tRNA-Pro c[1295650,1295726] 35 (tgg)
+[19:37:17] 37 tRNA-Asn c[1295729,1295804] 34 (gtt)
+[19:37:17] 38 tRNA-Thr c[1412678,1412753] 34 (tgt)
+[19:37:17] 39 tRNA-Arg [1453131,1453207] 35 (ccg)
+[19:37:17] 40 tRNA-Phe [1520797,1520872] 34 (gaa)
+[19:37:17] 41 tRNA-Gln [1520918,1520992] 33 (ttg)
+[19:37:17] 42 tRNA-Ala c[1672026,1672101] 34 (tgc)
+[19:37:17] 43 tRNA-Ile c[1672242,1672318] 35 (gat)
+[19:37:17] 44 tRNA-Ile [1888895,1888971] 35 (gat)
+[19:37:17] 45 tRNA-Ala [1889112,1889187] 34 (tgc)
+[19:37:17] 46 tRNA-Tyr [1895540,1895624] 35 (gta)
+[19:37:17] 47 tRNA-Gly [1895645,1895718] 33 (tcc)
+[19:37:17] 48 tRNA-Thr [1895746,1895821] 34 (ggt)
+[19:37:17] 49 tRNA-Trp [1897165,1897240] 34 (cca)
+[19:37:17] 50 tRNA-Met c[1979113,1979189] 35 (cat)
+[19:37:17] 51 tRNA-Cys c[2098016,2098089] 33 (gca)
+[19:37:17] 52 tRNA-Gly c[2098134,2098209] 34 (gcc)
+[19:37:17] 53 tRNA-Asp [2134174,2134250] 35 (gtc)
+[19:37:17] 54 tRNA-Leu [2225714,2225799] 35 (gag)
+[19:37:17] Found 54 tRNAs
+[19:37:17] Predicting Ribosomal RNAs
+[19:37:17] Running Barrnap with 6 threads
+[19:37:18] 1 NZ_CP012362.1 643272 5S ribosomal RNA
+[19:37:18] 2 NZ_CP012362.1 643541 23S ribosomal RNA
+[19:37:18] 3 NZ_CP012362.1 647080 16S ribosomal RNA
+[19:37:18] 4 NZ_CP012362.1 1075268 5S ribosomal RNA
+[19:37:18] 5 NZ_CP012362.1 1075537 23S ribosomal RNA
+[19:37:18] 6 NZ_CP012362.1 1079076 16S ribosomal RNA
+[19:37:18] 7 NZ_CP012362.1 1668601 5S ribosomal RNA
+[19:37:18] 8 NZ_CP012362.1 1668870 23S ribosomal RNA
+[19:37:18] 9 NZ_CP012362.1 1672409 16S ribosomal RNA
+[19:37:18] 10 NZ_CP012362.1 1887264 16S ribosomal RNA
+[19:37:18] 11 NZ_CP012362.1 1889455 23S ribosomal RNA
+[19:37:18] 12 NZ_CP012362.1 1892503 5S ribosomal RNA
+[19:37:18] Found 12 rRNAs
+[19:37:18] Skipping ncRNA search, enable with --rfam if desired.
+[19:37:18] Total of 65 tRNA + rRNA features
+[19:37:18] Searching for CRISPR repeats
+[19:37:19] Found 0 CRISPRs
+[19:37:19] Predicting coding sequences
+[19:37:19] Contigs total 2294397 bp, so using single mode
+[19:37:19] Running: prodigal -i outdir\/prokka\.fna -c -m -g 11 -p single -f sco -q
+[19:37:24] Excluding CDS which overlaps existing RNA (rRNA) at NZ_CP012362.1:647056..647277 on + strand
+[19:37:24] Excluding CDS which overlaps existing RNA (rRNA) at NZ_CP012362.1:1079052..1079273 on + strand
+[19:37:25] Excluding CDS which overlaps existing RNA (rRNA) at NZ_CP012362.1:1672385..1672606 on + strand
+[19:37:25] Excluding CDS which overlaps existing RNA (rRNA) at NZ_CP012362.1:1888607..1888828 on - strand
+[19:37:26] Found 2135 CDS
+[19:37:26] Connecting features back to sequences
+[19:37:26] Not using genus-specific database. Try --usegenus to enable it.
+[19:37:26] Preparing user-supplied primary BLAST annotation source: /corral4/main/objects/d/9/6/dataset_d961d594-fa8b-49f4-a0dd-1af62fbb2857.dat
+[19:37:26] Guessed source was in fasta format.
+[19:37:26] Running: makeblastdb -dbtype prot -in \/corral4\/main\/objects\/d\/9\/6\/dataset_d961d594\-fa8b\-49f4\-a0dd\-1af62fbb2857\.dat -out outdir\/proteins -logfile /dev/null
+[19:37:26] Using /inference source as 'dataset_d961d594-fa8b-49f4-a0dd-1af62fbb2857.dat'
+[19:37:26] Annotating CDS, please be patient.
+[19:37:26] Will use 6 CPUs for similarity searching.
+[19:37:28] There are still 2135 unannotated CDS left (started with 2135)
+[19:37:28] Will use blast to search against outdir/proteins with 6 CPUs
+[19:37:28] Running: cat outdir\/prokka\.proteins\.tmp\.1419450\.faa | parallel --gnu --plain -j 6 --block 58268 --recstart '>' --pipe blastp -query - -db outdir/proteins -evalue 1e-06 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > outdir\/prokka\.proteins\.tmp\.1419450\.blast 2> /dev/null
+[19:37:36] Modify product: DUF368 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: DUF4389 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: glutathione S-transferase N-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: DUF4892 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: DUF1285 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: MucB/RseB C-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: DUF883 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: DUF493 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: DUF3108 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:36] Modify product: DUF1244 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1653 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1543 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2007 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1883 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2069 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF3141 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF523 and DUF1722 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2489 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1016 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2288 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: SurA N-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2788 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF485 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2946 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF481 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: glutathione S-transferase N-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2789 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF2797 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1315 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1289 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1043 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:37] Modify product: DUF1456 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF2897 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF2062 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF389 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF4377 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: acetyl-CoA hydrolase/transferase C-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF4398 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF1852 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF3450 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF2333 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF853 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF934 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF1294 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF484 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF971 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF3299 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF2796 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF1289 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF924 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF262 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF3299 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: glutathione S-transferase N-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF3820 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: UPF0149 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF4442 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF3298 and DUF4163 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF4124 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF2868 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF3482 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF2892 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF4401 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:38] Modify product: DUF2157 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4105 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4282 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF6436 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF3360 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4878 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF2254 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF2059 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF423 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF3301 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF2218 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF167 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4426 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF748 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4198 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF2271 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: YiiD C-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF937 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: ParB/Srx family N-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: acyl-CoA dehydrogenase C-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF485 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: transketolase C-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4136 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: heme biosynthesis HemY N-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF2058 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF2798 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4197 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF4381 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF58 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: DUF1415 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:39] Modify product: Wzz/FepE/Etk N-terminal domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:40] Modify product: DUF4115 domain-containing protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:40] Modify product: DUF1820 family protein [Thiopseudomonas alkaliphila] => hypothetical protein
+[19:37:40] Cleaned 95 /product names
+[19:37:40] Deleting unwanted file: outdir/prokka.proteins.tmp.1419450.faa
+[19:37:40] Deleting unwanted file: outdir/prokka.proteins.tmp.1419450.blast
+[19:37:40] There are still 30 unannotated CDS left (started with 2135)
+[19:37:40] Will use blast to search against /usr/local/db/kingdom/Bacteria/IS with 6 CPUs
+[19:37:40] Running: cat outdir\/prokka\.IS\.tmp\.1419450\.faa | parallel --gnu --plain -j 6 --block 513 --recstart '>' --pipe blastp -query - -db /usr/local/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > outdir\/prokka\.IS\.tmp\.1419450\.blast 2> /dev/null
+[19:37:41] Deleting unwanted file: outdir/prokka.IS.tmp.1419450.faa
+[19:37:41] Deleting unwanted file: outdir/prokka.IS.tmp.1419450.blast
+[19:37:41] There are still 30 unannotated CDS left (started with 2135)
+[19:37:41] Will use blast to search against /usr/local/db/kingdom/Bacteria/AMR with 6 CPUs
+[19:37:41] Running: cat outdir\/prokka\.AMR\.tmp\.1419450\.faa | parallel --gnu --plain -j 6 --block 513 --recstart '>' --pipe blastp -query - -db /usr/local/db/kingdom/Bacteria/AMR -evalue 1e-300 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > outdir\/prokka\.AMR\.tmp\.1419450\.blast 2> /dev/null
+[19:37:42] Deleting unwanted file: outdir/prokka.AMR.tmp.1419450.faa
+[19:37:42] Deleting unwanted file: outdir/prokka.AMR.tmp.1419450.blast
+[19:37:42] There are still 30 unannotated CDS left (started with 2135)
+[19:37:42] Will use blast to search against /usr/local/db/kingdom/Bacteria/sprot with 6 CPUs
+[19:37:42] Running: cat outdir\/prokka\.sprot\.tmp\.1419450\.faa | parallel --gnu --plain -j 6 --block 513 --recstart '>' --pipe blastp -query - -db /usr/local/db/kingdom/Bacteria/sprot -evalue 1e-06 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > outdir\/prokka\.sprot\.tmp\.1419450\.blast 2> /dev/null
+[19:37:44] Deleting unwanted file: outdir/prokka.sprot.tmp.1419450.faa
+[19:37:44] Deleting unwanted file: outdir/prokka.sprot.tmp.1419450.blast
+[19:37:44] There are still 19 unannotated CDS left (started with 2135)
+[19:37:44] Will use hmmer3 to search against /usr/local/db/hmm/HAMAP.hmm with 6 CPUs
+[19:37:44] Running: cat outdir\/prokka\.HAMAP\.hmm\.tmp\.1419450\.faa | parallel --gnu --plain -j 6 --block 305 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /usr/local/db/hmm/HAMAP.hmm /dev/stdin > outdir\/prokka\.HAMAP\.hmm\.tmp\.1419450\.hmmer3 2> /dev/null
+[19:37:45] Deleting unwanted file: outdir/prokka.HAMAP.hmm.tmp.1419450.faa
+[19:37:45] Deleting unwanted file: outdir/prokka.HAMAP.hmm.tmp.1419450.hmmer3
+[19:37:45] Deleting unwanted file: outdir/proteins.psq
+[19:37:45] Deleting unwanted file: outdir/proteins.phr
+[19:37:45] Deleting unwanted file: outdir/proteins.pin
+[19:37:45] Labelling remaining 18 proteins as 'hypothetical protein'
+[19:37:45] Possible /pseudo 'extracellular solute-binding protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 48380
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 73538
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 76252
+[19:37:45] Possible /pseudo 'Alpha-ketoglutarate-dependent taurine dioxygenase' at NZ_CP012362.1 position 112044
+[19:37:45] Possible /pseudo 'ABC transporter ATP-binding protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 159453
+[19:37:45] Possible /pseudo 'branched-chain amino acid ABC transporter permease [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 162417
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 165737
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 166120
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 262347
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 329135
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 329814
+[19:37:45] Possible /pseudo 'MotA/TolQ/ExbB proton channel family protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 339484
+[19:37:45] Possible /pseudo 'C40 family peptidase [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 515708
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 583057
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 689079
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 823857
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 829685
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1029865
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1222262
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1247596
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1248153
+[19:37:45] Possible /pseudo 'ABC transporter permease [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1414725
+[19:37:45] Possible /pseudo 'iron ABC transporter permease [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1456601
+[19:37:45] Possible /pseudo 'Lin0512 family protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1471474
+[19:37:45] Possible /pseudo 'ABC transporter permease subunit [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1494264
+[19:37:45] Possible /pseudo 'polyamine ABC transporter substrate-binding protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1497574
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1544270
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1545552
+[19:37:45] Possible /pseudo 'pitrilysin family protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1648653
+[19:37:45] Possible /pseudo 'Lysine-specific permease' at NZ_CP012362.1 position 1656085
+[19:37:45] Possible /pseudo 'IS3 family transposase [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1667589
+[19:37:45] Possible /pseudo 'c-type cytochrome [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 1837703
+[19:37:45] Possible /pseudo 'Anhydro-N-acetylmuramic acid kinase' at NZ_CP012362.1 position 1883339
+[19:37:45] Possible /pseudo 'c-type cytochrome [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 2082333
+[19:37:45] Possible /pseudo 'VWA domain-containing protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 2115536
+[19:37:45] Possible /pseudo 'glycosyltransferase [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 2171117
+[19:37:45] Possible /pseudo 'lipopolysaccharide kinase InaA family protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 2177600
+[19:37:45] Possible /pseudo 'lipopolysaccharide kinase InaA family protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 2178346
+[19:37:45] Possible /pseudo 'hypothetical protein [Thiopseudomonas alkaliphila]' at NZ_CP012362.1 position 2191364
+[19:37:45] Found 9 unique /gene codes.
+[19:37:45] Fixed 2 duplicate /gene - anmK_1 anmK_2
+[19:37:45] Fixed 2 duplicate /gene - tauD_1 tauD_2
+[19:37:45] Fixed 2 duplicate /gene - lysP_1 lysP_2
+[19:37:45] Fixed 3 colliding /gene names.
+[19:37:45] Adding /locus_tag identifiers
+[19:37:45] Assigned 2201 locus_tags to CDS and RNA features.
+[19:37:45] Writing outputs to outdir/
+[19:37:48] Generating annotation statistics file
+[19:37:48] Generating Genbank and Sequin files
+[19:37:48] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z outdir\/prokka\.err -i outdir\/prokka\.fsa 2> /dev/null
+[19:37:54] Deleting unwanted file: outdir/errorsummary.val
+[19:37:54] Deleting unwanted file: outdir/prokka.dr
+[19:37:54] Deleting unwanted file: outdir/prokka.fixedproducts
+[19:37:54] Deleting unwanted file: outdir/prokka.ecn
+[19:37:54] Deleting unwanted file: outdir/prokka.val
+[19:37:54] Repairing broken .GBK output that tbl2asn produces...
+[19:37:54] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < outdir\/prokka\.gbf > outdir\/prokka\.gbk
+[19:37:54] Deleting unwanted file: outdir/prokka.gbf
+[19:37:54] Output files:
+[19:37:54] outdir/prokka.gff
+[19:37:54] outdir/prokka.tsv
+[19:37:54] outdir/prokka.fna
+[19:37:54] outdir/prokka.log
+[19:37:54] outdir/prokka.gbk
+[19:37:54] outdir/prokka.ffn
+[19:37:54] outdir/prokka.err
+[19:37:54] outdir/prokka.faa
+[19:37:54] outdir/prokka.tbl
+[19:37:54] outdir/prokka.fsa
+[19:37:54] outdir/prokka.txt
+[19:37:54] outdir/prokka.sqn
+[19:37:54] Annotation finished successfully.
+[19:37:54] Walltime used: 0.67 minutes
+[19:37:54] If you use this result please cite the Prokka paper:
+[19:37:54] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[19:37:54] Type 'prokka --citation' for more details.
+[19:37:54] Thank you, come again.

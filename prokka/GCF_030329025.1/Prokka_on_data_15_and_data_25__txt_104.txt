@@ -1,0 +1,7 @@
+organism: Thiopseudomonas alkaliphila DF92-3 
+contigs: 84
+bases: 2440383
+CDS: 2303
+rRNA: 5
+tRNA: 46
+tmRNA: 1

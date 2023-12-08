@@ -1,0 +1,7 @@
+organism: Thiopseudomonas alkaliphila DF46-2-2 
+contigs: 40
+bases: 2572910
+CDS: 2416
+rRNA: 3
+tRNA: 47
+tmRNA: 1
