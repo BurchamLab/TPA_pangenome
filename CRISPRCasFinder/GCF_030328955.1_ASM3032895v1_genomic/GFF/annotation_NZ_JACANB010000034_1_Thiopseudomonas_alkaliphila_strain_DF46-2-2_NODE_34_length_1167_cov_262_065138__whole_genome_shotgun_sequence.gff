@@ -1,0 +1,4 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=1167;seqhdr="NZ_JACANB010000034_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_34_length_1167_cov_262_065138__whole_genome_shotgun_sequence"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="34|Prochlorococcus_marinus_MIT_9313|B|50.7|11|0";gc_cont=50.70;transl_table=11;uses_sd=0
+NZ_JACANB010000034_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_34_length_1167_cov_262_065138__whole_genome_shotgun_sequence	Prodigal_v2.6.3	CDS	406	801	17.2	-	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.598;conf=98.12;score=17.21;cscore=19.60;sscore=-2.39;rscore=0.00;uscore=1.14;tscore=-3.53;

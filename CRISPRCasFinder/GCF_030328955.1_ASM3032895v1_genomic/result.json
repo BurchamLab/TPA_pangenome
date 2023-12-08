@@ -1,0 +1,613 @@
+{
+"Date":"10/7/2023_17:43:35",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"NZ_JACANB010000010_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_10_length_42712_cov_229_662038__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000010_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_10_length_42712_cov_229_662038__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.2827308484735,
+"Length":42712,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000011_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_11_length_35727_cov_212_291529__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000011_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_11_length_35727_cov_212_291529__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.3978783553055,
+"Length":35727,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000012_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_12_length_29597_cov_210_773137__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000012_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_12_length_29597_cov_210_773137__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":54.0899415481299,
+"Length":29597,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000013_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_13_length_27257_cov_214_063797__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000013_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_13_length_27257_cov_214_063797__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":56.0186374142422,
+"Length":27257,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000014_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_14_length_24373_cov_251_301902__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000014_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_14_length_24373_cov_251_301902__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.6514175522094,
+"Length":24373,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000015_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_15_length_15384_cov_261_248383__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000015_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_15_length_15384_cov_261_248383__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.6380655226209,
+"Length":15384,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000016_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_16_length_14981_cov_241_555354__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000016_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_16_length_14981_cov_241_555354__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":47.2398371270276,
+"Length":14981,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000017_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_17_length_13688_cov_228_314525__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000017_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_17_length_13688_cov_228_314525__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":54.697545295149,
+"Length":13688,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000018_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_18_length_11756_cov_222_002312__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000018_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_18_length_11756_cov_222_002312__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.8278325961211,
+"Length":11756,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000019_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_19_length_9820_cov_241_002155__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000019_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_19_length_9820_cov_241_002155__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":56.3747454175153,
+"Length":9820,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000001_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_1_length_592277_cov_232_402396__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000001_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_1_length_592277_cov_232_402396__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.0511517414993,
+"Length":592277,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "NZ_JACANB010000001_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_1_length_592277_cov_232_402396__whole_genome_shotgun_sequence_1",
+"Start": 34380,
+"End": 34506,
+"DR_Consensus": "GTGCATTGGGTCCTGAGATGCCGGACTGAATCCGGCACGAC",
+"Repeat_ID": "Unknown",
+"DR_Length": 41,
+"Spacers": 1,
+"Potential_Orientation": "+",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 97.5609756097561,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 34280,
+"End": 34379,
+"Sequence": "AACATAATCCTGAGTGGCAGGACCTTTATTTAAGCTTATTCAATTAACTGGCTTATTTAGCAACTGGGAATTGGGTTTGCTGTGCGTTGGGTTCGCAGCC",
+"Leader": 1,
+"AT": 57
+},
+ {
+"Type": "DR",
+"Start": 34380,
+"End": 34420,
+"Sequence": "GTGCATTGGGTCCTGAGATGCCGGACTGAATCCGGCACGAC"
+},
+{
+"Type": "Spacer",
+"Start": 34421,
+"End": 34465,
+"Sequence": "AGATTGGGGGTGGGTTTGAGTCTTGATGTGTTTGGGTTCACGGCT"
+},
+{
+"Type": "DR",
+"Start": 34466,
+"End": 34506,
+"Sequence": "GTGCATTGGGTCTTGAGATGCCGGACTGAATCCGGCACGAC"
+},
+{
+"Type": "RightFLANK",
+"Start": 34507,
+"End": 34606,
+"Sequence": "GGATTGAGAGTATGGCGGATTGGAAGAATGACGATTACTGAGCCATAAACACCACACTCCCCGTCTTCCCGGGCTTGACCCGGGATCCATGCGGATTTGA",
+"Leader": 0,
+"AT": 47
+}
+]
+},
+{
+"Name": "NZ_JACANB010000001_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_1_length_592277_cov_232_402396__whole_genome_shotgun_sequence_2",
+"Start": 349632,
+"End": 349748,
+"DR_Consensus": "TCCTGAGGTGCCGGACTAAATCCGGCACGAC",
+"Repeat_ID": "Unknown",
+"DR_Length": 31,
+"Spacers": 1,
+"Potential_Orientation": "-",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 96.7741935483871,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 349532,
+"End": 349631,
+"Sequence": "ACCCCGTCGTGCTGAACTTGTTTCAGCATCTCAGGCCGCACAGTACGGATAAATTCGTGGCAAGGCTTGGATGTGTTTAGGGTCACCGCCGTGCATTGGT",
+"Leader": 0,
+"AT": 46
+},
+ {
+"Type": "DR",
+"Start": 349632,
+"End": 349662,
+"Sequence": "TCCTGAGGTGCCGGACTAAATCCGGCACGAC"
+},
+{
+"Type": "Spacer",
+"Start": 349663,
+"End": 349717,
+"Sequence": "AGATTGGGGGTGGGTTTGGGGTTTGCTGTGTTTGGATTCACACCCGCGCATTGGC"
+},
+{
+"Type": "DR",
+"Start": 349718,
+"End": 349748,
+"Sequence": "TCCTGAGATGCCGGACTAAATCCGGCACGAC"
+},
+{
+"Type": "RightFLANK",
+"Start": 349749,
+"End": 349848,
+"Sequence": "GTAGTTTTACAGTAACTGAACAATACCCCTGCGTTAATGTCTGTAGCTCACCCATAAGGATGTGATAATAAATATCATTTACTCAAGGTTGGCTATCTAT",
+"Leader": 1,
+"AT": 64
+}
+]
+}]
+,
+"Cas":[]
+
+},
+{
+"Id":"NZ_JACANB010000020_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_20_length_9706_cov_208_220584__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000020_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_20_length_9706_cov_208_220584__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":50.8860498660622,
+"Length":9706,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000021_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_21_length_6899_cov_197_952507__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000021_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_21_length_6899_cov_197_952507__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":45.2384403536744,
+"Length":6899,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000022_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_22_length_6268_cov_197_339848__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000022_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_22_length_6268_cov_197_339848__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":43.0280791320996,
+"Length":6268,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000023_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_23_length_5318_cov_221_323984__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000023_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_23_length_5318_cov_221_323984__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":47.6871004136894,
+"Length":5318,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000024_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_24_length_5276_cov_222_853049__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000024_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_24_length_5276_cov_222_853049__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.2509476876422,
+"Length":5276,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000025_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_25_length_5120_cov_214_042832__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000025_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_25_length_5120_cov_214_042832__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.46875,
+"Length":5120,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000026_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_26_length_4973_cov_1076_194444__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000026_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_26_length_4973_cov_1076_194444__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":48.4616931429721,
+"Length":4973,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000027_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_27_length_3069_cov_238_100267__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000027_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_27_length_3069_cov_238_100267__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":54.0892798957315,
+"Length":3069,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000028_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_28_length_2442_cov_428_217759__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000028_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_28_length_2442_cov_428_217759__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":54.3816543816544,
+"Length":2442,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000029_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_29_length_2333_cov_255_353280__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000029_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_29_length_2333_cov_255_353280__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":58.2083154736391,
+"Length":2333,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000002_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_2_length_506379_cov_241_114933__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000002_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_2_length_506379_cov_241_114933__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.1176826053213,
+"Length":506379,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+
+},
+{
+"Id":"NZ_JACANB010000030_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_30_length_1765_cov_220_081161__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000030_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_30_length_1765_cov_220_081161__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":56.1473087818697,
+"Length":1765,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000031_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_31_length_1559_cov_227_354251__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000031_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_31_length_1559_cov_227_354251__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.7408595253368,
+"Length":1559,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000032_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_32_length_1344_cov_217_902131__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000032_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_32_length_1344_cov_217_902131__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":56.6964285714286,
+"Length":1344,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000033_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_33_length_1261_cov_423_152027__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000033_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_33_length_1261_cov_423_152027__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.8152260111023,
+"Length":1261,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000034_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_34_length_1167_cov_262_065138__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000034_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_34_length_1167_cov_262_065138__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":46.4438731790917,
+"Length":1167,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000035_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_35_length_1018_cov_490_771520__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000035_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_35_length_1018_cov_490_771520__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":57.4656188605108,
+"Length":1018,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000036_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_36_length_821_cov_475_657258__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000036_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_36_length_821_cov_475_657258__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":49.6954933008526,
+"Length":821,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000037_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_37_length_820_cov_980_912517__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000037_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_37_length_820_cov_980_912517__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":47.5609756097561,
+"Length":820,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000038_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_38_length_817_cov_393_585135__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000038_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_38_length_817_cov_393_585135__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.2019583843329,
+"Length":817,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000039_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_39_length_724_cov_1187_350850__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000039_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_39_length_724_cov_1187_350850__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":49.8618784530387,
+"Length":724,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000003_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_3_length_344762_cov_206_268265__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000003_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_3_length_344762_cov_206_268265__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.5513252620648,
+"Length":344762,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+
+},
+{
+"Id":"NZ_JACANB010000040_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_40_length_673_cov_1181_885906__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000040_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_40_length_673_cov_1181_885906__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":54.6805349182764,
+"Length":673,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000004_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_4_length_307507_cov_218_025960__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000004_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_4_length_307507_cov_218_025960__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.2710052128895,
+"Length":307507,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+
+},
+{
+"Id":"NZ_JACANB010000005_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_5_length_245381_cov_256_319228__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000005_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_5_length_245381_cov_256_319228__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.6797103280205,
+"Length":245381,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "NZ_JACANB010000005_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_5_length_245381_cov_256_319228__whole_genome_shotgun_sequence_1",
+"Start": 97397,
+"End": 97474,
+"DR_Consensus": "TTAAAAGTTAAAAGTTAAAAGTTAAAAG",
+"Repeat_ID": "Unknown",
+"DR_Length": 28,
+"Spacers": 1,
+"Potential_Orientation": "+",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 82.1428571428571,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 97297,
+"End": 97396,
+"Sequence": "GTGAAATTTAGCGATTTTAGCTAACAGGGTTATTTGTTATTTATGCAAGTAGTGTTTTATTTATTTATTTATTTATTTATTTATTTATTTATTTATTTGT",
+"Leader": 1,
+"AT": 82
+},
+ {
+"Type": "DR",
+"Start": 97397,
+"End": 97424,
+"Sequence": "TTGTTTATTAAAAGTTAAAAGTTAAAAG"
+},
+{
+"Type": "Spacer",
+"Start": 97425,
+"End": 97445,
+"Sequence": "TTAAAAGTTAAAAGTTAAAAG"
+},
+{
+"Type": "DR",
+"Start": 97446,
+"End": 97473,
+"Sequence": "TTAAAAGTTAAAAGTTAAAAGTTAAAAG"
+},
+{
+"Type": "RightFLANK",
+"Start": 97475,
+"End": 97574,
+"Sequence": "TAAAAGNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+"Leader": 0,
+"AT": 5
+}
+]
+},
+{
+"Name": "NZ_JACANB010000005_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_5_length_245381_cov_256_319228__whole_genome_shotgun_sequence_2",
+"Start": 97574,
+"End": 97650,
+"DR_Consensus": "TTAAAAGTTAAAAGTTAAAAGTTAAAAG",
+"Repeat_ID": "Unknown",
+"DR_Length": 28,
+"Spacers": 1,
+"Potential_Orientation": "-",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 75,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 97474,
+"End": 97573,
+"Sequence": "TTAAAAGNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+"Leader": 0,
+"AT": 6
+},
+ {
+"Type": "DR",
+"Start": 97574,
+"End": 97601,
+"Sequence": "NNNNNNNTTAAAAGTTAAAAGTTAAAAG"
+},
+{
+"Type": "Spacer",
+"Start": 97602,
+"End": 97622,
+"Sequence": "TTAAAAGTTAAAAGTTAAAAG"
+},
+{
+"Type": "DR",
+"Start": 97623,
+"End": 97650,
+"Sequence": "TTAAAAGTTAAAAGTTAAAAGTTAAAAG"
+},
+{
+"Type": "RightFLANK",
+"Start": 97651,
+"End": 97750,
+"Sequence": "TTAAAAGTTAAAAGTTAAAAGAGCTTGCGCCAGTTATTGTTGATATAATAACTGGCGCTTAGTTTAGTGGTTTATTTAGGGGGTTAATTTAAGTGACGAA",
+"Leader": 1,
+"AT": 68
+}
+]
+}]
+,
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000006_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_6_length_85024_cov_254_149670__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000006_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_6_length_85024_cov_254_149670__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.9309371471585,
+"Length":85024,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000007_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_7_length_82019_cov_216_643480__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000007_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_7_length_82019_cov_216_643480__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.2413221326766,
+"Length":82019,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000008_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_8_length_71837_cov_243_860549__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000008_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_8_length_71837_cov_243_860549__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.8187006695714,
+"Length":71837,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACANB010000009_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_9_length_49056_cov_258_387411__whole_genome_shotgun_sequence",
+"Version":"NZ_JACANB010000009_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_9_length_49056_cov_258_387411__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.271771037182,
+"Length":49056,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+}
+]
+}

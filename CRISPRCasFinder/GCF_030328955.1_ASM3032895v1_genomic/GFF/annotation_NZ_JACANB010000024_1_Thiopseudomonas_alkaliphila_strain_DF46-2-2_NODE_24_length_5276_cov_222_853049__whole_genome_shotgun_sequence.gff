@@ -1,0 +1,6 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=5276;seqhdr="NZ_JACANB010000024_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_24_length_5276_cov_222_853049__whole_genome_shotgun_sequence"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="20|Escherichia_coli_UMN026|B|50.7|11|1";gc_cont=50.70;transl_table=11;uses_sd=1
+NZ_JACANB010000024_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_24_length_5276_cov_222_853049__whole_genome_shotgun_sequence	Prodigal_v2.6.3	CDS	35	2170	209.0	-	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.494;conf=99.99;score=209.94;cscore=193.16;sscore=16.78;rscore=10.71;uscore=1.22;tscore=3.95;
+NZ_JACANB010000024_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_24_length_5276_cov_222_853049__whole_genome_shotgun_sequence	Prodigal_v2.6.3	CDS	2205	4055	254.1	-	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.528;conf=99.99;score=255.19;cscore=237.31;sscore=17.87;rscore=14.84;uscore=-2.04;tscore=3.95;
+NZ_JACANB010000024_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_24_length_5276_cov_222_853049__whole_genome_shotgun_sequence	Prodigal_v2.6.3	CDS	4070	4984	50.1	-	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.423;conf=100.00;score=50.09;cscore=34.70;sscore=15.39;rscore=11.19;uscore=0.25;tscore=3.95;

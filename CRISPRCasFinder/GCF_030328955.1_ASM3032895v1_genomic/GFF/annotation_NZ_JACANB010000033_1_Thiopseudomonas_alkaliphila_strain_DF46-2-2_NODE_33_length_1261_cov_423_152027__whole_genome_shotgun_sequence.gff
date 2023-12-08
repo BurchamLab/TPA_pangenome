@@ -1,0 +1,5 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=1261;seqhdr="NZ_JACANB010000033_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_33_length_1261_cov_423_152027__whole_genome_shotgun_sequence"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+NZ_JACANB010000033_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_33_length_1261_cov_423_152027__whole_genome_shotgun_sequence	Prodigal_v2.6.3	CDS	9	851	32.7	-	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.473;conf=99.96;score=33.68;cscore=35.88;sscore=-2.20;rscore=3.02;uscore=-0.21;tscore=-5.99;
+NZ_JACANB010000033_1_Thiopseudomonas_alkaliphila_strain_DF46-2-2_NODE_33_length_1261_cov_423_152027__whole_genome_shotgun_sequence	Prodigal_v2.6.3	CDS	878	1189	29.7	-	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.481;conf=99.89;score=29.73;cscore=24.21;sscore=5.52;rscore=3.02;uscore=-1.49;tscore=3.99;
