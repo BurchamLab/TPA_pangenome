@@ -1,0 +1,163 @@
+# macsyfinder 2.0
+# models : CONJScan-2.0.1-2.0.1
+# /usr/local/bin/macsyfinder --sequence-db /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/database/files/008/995/dataset_8995892.dat --db-type ordered_replicon --replicon-topology circular --models-dir /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/tool-data/macsyfinder_data --models CONJScan-2.0.1/Plasmids all --worker 1 --out-dir output_dir
+# Systems found:
+
+system id = UserReplicon_T4SS_typeF_3
+model = CONJScan-2.0.1/Plasmids/T4SS_typeF
+replicon = UserReplicon
+clusters = [('NZ_JACANE010000011.1_8', 'T4SS_T_virB1', 8), ('NZ_JACANE010000011.1_11', 'T4SS_F_traH', 11), ('NZ_JACANE010000011.1_12', 'T4SS_F_traF', 12), ('NZ_JACANE010000014.1_1', 'T4SS_MOBQ', 44), ('NZ_JACANE010000027.1_3', 'T4SS_MOBP1', 64), ('NZ_JACANE010000009.1_51', 'T4SS_MOBH', 117), ('NZ_JACANE010000009.1_52', 'T4SS_t4cp2', 118), ('NZ_JACANE010000009.1_54', 'T4SS_G_tfc7', 120), ('NZ_JACANE010000009.1_55', 'T4SS_F_traL', 121), ('NZ_JACANE010000009.1_56', 'T4SS_F_traE', 122), ('NZ_JACANE010000009.1_57', 'T4SS_F_traK', 123), ('NZ_JACANE010000009.1_58', 'T4SS_F_traB', 124), ('NZ_JACANE010000009.1_59', 'T4SS_F_traV', 125), ('NZ_JACANE010000009.1_63', 'T4SS_virb4', 129), ('NZ_JACANE010000009.1_67', 'T4SS_F_traW', 133), ('NZ_JACANE010000009.1_69', 'T4SS_F_traU', 135), ('NZ_JACANE010000009.1_70', 'T4SS_F_traN', 136)]
+occ = 1
+wholeness = 1.000
+loci nb = 1
+score = 7.600
+
+mandatory genes:
+	- T4SS_virb4: 1 (T4SS_virb4 [UserReplicon_MOB_2, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+	- T4SS_t4cp1: 1 (T4SS_t4cp2 [UserReplicon_MOB_2, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+	- T4SS_MOBB: 3 (T4SS_MOBQ [UserReplicon_MOB_1, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6], T4SS_MOBP1 [UserReplicon_MOB_1, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6], T4SS_MOBH [UserReplicon_MOB_2, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+
+accessory genes:
+	- T4SS_F_traB: 1 (T4SS_F_traB [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traE: 1 (T4SS_F_traE [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traF: 1 (T4SS_F_traF [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traH: 1 (T4SS_F_traH [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traK: 1 (T4SS_F_traK [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traL: 1 (T4SS_F_traL [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traN: 1 (T4SS_F_traN [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traU: 1 (T4SS_F_traU [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traV: 1 (T4SS_F_traV [UserReplicon_dCONJ_typeF_5])
+	- T4SS_F_traW: 1 (T4SS_F_traW [UserReplicon_dCONJ_typeF_5])
+
+neutral genes:
+	- T4SS_F_traG: 0 ()
+	- T4SS_F_trbC: 0 ()
+	- T4SS_T_virB1: 1 (T4SS_T_virB1 [UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+	- T4SS_G_tfc7: 1 (T4SS_G_tfc7 [UserReplicon_dCONJ_typeF_5])
+
+============================================================
+system id = UserReplicon_T4SS_typeT_4
+model = CONJScan-2.0.1/Plasmids/T4SS_typeT
+replicon = UserReplicon
+clusters = [('NZ_JACANE010000011.1_8', 'T4SS_T_virB1', 8), ('NZ_JACANE010000014.1_1', 'T4SS_MOBQ', 44), ('NZ_JACANE010000027.1_3', 'T4SS_MOBP1', 64), ('NZ_JACANE010000009.1_51', 'T4SS_MOBH', 117), ('NZ_JACANE010000009.1_52', 'T4SS_t4cp2', 118), ('NZ_JACANE010000009.1_60', 'T4SS_T_virB2', 126), ('NZ_JACANE010000009.1_63', 'T4SS_virb4', 129)]
+occ = 1
+wholeness = 0.417
+loci nb = 1
+score = 3.600
+
+mandatory genes:
+	- T4SS_virb4: 1 (T4SS_virb4 [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+	- T4SS_t4cp1: 1 (T4SS_t4cp2 [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+	- T4SS_MOBB: 3 (T4SS_MOBQ [UserReplicon_MOB_1, UserReplicon_T4SS_typeF_3, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6], T4SS_MOBP1 [UserReplicon_MOB_1, UserReplicon_T4SS_typeF_3, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6], T4SS_MOBH [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+
+accessory genes:
+	- T4SS_T_virB1: 1 (T4SS_T_virB1 [UserReplicon_T4SS_typeF_3, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+	- T4SS_T_virB10: 0 ()
+	- T4SS_T_virB11: 0 ()
+	- T4SS_T_virB2: 1 (T4SS_T_virB2 [UserReplicon_dCONJ_typeT_6])
+	- T4SS_T_virB3: 0 ()
+	- T4SS_T_virB5: 0 ()
+	- T4SS_T_virB6: 0 ()
+	- T4SS_T_virB8: 0 ()
+	- T4SS_T_virB9: 0 ()
+
+neutral genes:
+
+============================================================
+system id = UserReplicon_dCONJ_typeF_5
+model = CONJScan-2.0.1/Plasmids/dCONJ_typeF
+replicon = UserReplicon
+clusters = [('NZ_JACANE010000011.1_8', 'T4SS_T_virB1', 8), ('NZ_JACANE010000011.1_11', 'T4SS_F_traH', 11), ('NZ_JACANE010000011.1_12', 'T4SS_F_traF', 12), ('NZ_JACANE010000014.1_1', 'T4SS_MOBQ', 44), ('NZ_JACANE010000027.1_3', 'T4SS_MOBP1', 64), ('NZ_JACANE010000009.1_51', 'T4SS_MOBH', 117), ('NZ_JACANE010000009.1_52', 'T4SS_t4cp2', 118), ('NZ_JACANE010000009.1_54', 'T4SS_G_tfc7', 120), ('NZ_JACANE010000009.1_55', 'T4SS_F_traL', 121), ('NZ_JACANE010000009.1_56', 'T4SS_F_traE', 122), ('NZ_JACANE010000009.1_57', 'T4SS_F_traK', 123), ('NZ_JACANE010000009.1_58', 'T4SS_F_traB', 124), ('NZ_JACANE010000009.1_59', 'T4SS_F_traV', 125), ('NZ_JACANE010000009.1_63', 'T4SS_virb4', 129), ('NZ_JACANE010000009.1_67', 'T4SS_F_traW', 133), ('NZ_JACANE010000009.1_69', 'T4SS_F_traU', 135), ('NZ_JACANE010000009.1_70', 'T4SS_F_traN', 136)]
+occ = 3
+wholeness = 1.000
+loci nb = 1
+score = 6.300
+
+mandatory genes:
+	- T4SS_MOBB: 3 (T4SS_MOBQ [UserReplicon_MOB_1, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeT_6], T4SS_MOBP1 [UserReplicon_MOB_1, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeT_6], T4SS_MOBH [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeT_6])
+
+accessory genes:
+	- T4SS_virb4: 2 (T4SS_t4cp2 [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeT_6], T4SS_virb4 [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeT_6])
+	- T4SS_F_traB: 1 (T4SS_F_traB [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traE: 1 (T4SS_F_traE [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traF: 1 (T4SS_F_traF [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traH: 1 (T4SS_F_traH [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traK: 1 (T4SS_F_traK [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traL: 1 (T4SS_F_traL [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traN: 1 (T4SS_F_traN [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traU: 1 (T4SS_F_traU [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traV: 1 (T4SS_F_traV [UserReplicon_T4SS_typeF_3])
+	- T4SS_F_traW: 1 (T4SS_F_traW [UserReplicon_T4SS_typeF_3])
+
+neutral genes:
+	- T4SS_F_traG: 0 ()
+	- T4SS_F_trbC: 0 ()
+	- T4SS_T_virB1: 1 (T4SS_T_virB1 [UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeT_6])
+	- T4SS_G_tfc7: 1 (T4SS_G_tfc7 [UserReplicon_T4SS_typeF_3])
+
+============================================================
+system id = UserReplicon_dCONJ_typeT_6
+model = CONJScan-2.0.1/Plasmids/dCONJ_typeT
+replicon = UserReplicon
+clusters = [('NZ_JACANE010000011.1_8', 'T4SS_T_virB1', 8), ('NZ_JACANE010000014.1_1', 'T4SS_MOBQ', 44), ('NZ_JACANE010000027.1_3', 'T4SS_MOBP1', 64), ('NZ_JACANE010000009.1_51', 'T4SS_MOBH', 117), ('NZ_JACANE010000009.1_52', 'T4SS_t4cp2', 118), ('NZ_JACANE010000009.1_60', 'T4SS_T_virB2', 126), ('NZ_JACANE010000009.1_63', 'T4SS_virb4', 129)]
+occ = 3
+wholeness = 0.364
+loci nb = 1
+score = 2.300
+
+mandatory genes:
+	- T4SS_MOBB: 3 (T4SS_MOBQ [UserReplicon_MOB_1, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5], T4SS_MOBP1 [UserReplicon_MOB_1, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5], T4SS_MOBH [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5])
+
+accessory genes:
+	- T4SS_virb4: 2 (T4SS_t4cp2 [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5], T4SS_virb4 [UserReplicon_MOB_2, UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5])
+	- T4SS_T_virB1: 1 (T4SS_T_virB1 [UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5])
+	- T4SS_T_virB10: 0 ()
+	- T4SS_T_virB11: 0 ()
+	- T4SS_T_virB2: 1 (T4SS_T_virB2 [UserReplicon_T4SS_typeT_4])
+	- T4SS_T_virB3: 0 ()
+	- T4SS_T_virB5: 0 ()
+	- T4SS_T_virB6: 0 ()
+	- T4SS_T_virB8: 0 ()
+	- T4SS_T_virB9: 0 ()
+
+neutral genes:
+
+============================================================
+system id = UserReplicon_MOB_1
+model = CONJScan-2.0.1/Plasmids/MOB
+replicon = UserReplicon
+clusters = [('NZ_JACANE010000014.1_1', 'T4SS_MOBQ', 44), ('NZ_JACANE010000027.1_3', 'T4SS_MOBP1', 64)]
+occ = 2
+wholeness = 0.333
+loci nb = 1
+score = 0.800
+
+mandatory genes:
+	- T4SS_MOBB: 2 (T4SS_MOBQ [UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6], T4SS_MOBP1 [UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+
+accessory genes:
+	- T4SS_virb4: 0 ()
+	- T4SS_t4cp1: 0 ()
+
+neutral genes:
+
+============================================================
+system id = UserReplicon_MOB_2
+model = CONJScan-2.0.1/Plasmids/MOB
+replicon = UserReplicon
+clusters = [('NZ_JACANE010000009.1_51', 'T4SS_MOBH', 117), ('NZ_JACANE010000009.1_52', 'T4SS_t4cp2', 118), ('NZ_JACANE010000009.1_63', 'T4SS_virb4', 129)]
+occ = 1
+wholeness = 1.000
+loci nb = 1
+score = 1.700
+
+mandatory genes:
+	- T4SS_MOBB: 1 (T4SS_MOBH [UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+
+accessory genes:
+	- T4SS_virb4: 1 (T4SS_virb4 [UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+	- T4SS_t4cp1: 1 (T4SS_t4cp2 [UserReplicon_T4SS_typeF_3, UserReplicon_T4SS_typeT_4, UserReplicon_dCONJ_typeF_5, UserReplicon_dCONJ_typeT_6])
+
+neutral genes:
+
+============================================================

@@ -1,0 +1,11 @@
+# macsyfinder 2.0
+# models : CONJScan-2.0.1-2.0.1
+# /usr/local/bin/macsyfinder --sequence-db /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/database/files/008/995/dataset_8995893.dat --db-type ordered_replicon --replicon-topology circular --models-dir /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/tool-data/macsyfinder_data --models CONJScan-2.0.1/Plasmids all --worker 1 --out-dir output_dir
+# Systems found:
+replicon	hit_id	gene_name	hit_pos	model_fqn	sys_id	sys_loci	locus_num	sys_wholeness	sys_score	sys_occ	hit_gene_ref	hit_status	hit_seq_len	hit_i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match	counterpart	used_in
+UserReplicon	NZ_JACAND010000027.1_2	T4SS_t4cp2	2	CONJScan-2.0.1/Plasmids/MOB	UserReplicon_MOB_1	1	1	0.667	1.200	4	T4SS_t4cp1	accessory	565	4.7e-38	122.000	0.869	0.350	343	540		
+UserReplicon	NZ_JACAND010000027.1_13	T4SS_MOBP1	13	CONJScan-2.0.1/Plasmids/MOB	UserReplicon_MOB_1	1	1	0.667	1.200	4	T4SS_MOBB	mandatory	841	1.6e-39	127.600	0.957	0.284	1	239		
+UserReplicon	NZ_JACAND010000030.1_2	T4SS_MOBP1	20	CONJScan-2.0.1/Plasmids/MOB	UserReplicon_MOB_1	1	1	0.667	1.200	4	T4SS_MOBB	mandatory	1575	1.7e-25	81.700	0.867	0.124	999	1193		
+UserReplicon	NZ_JACAND010000035.1_2	T4SS_MOBQ	32	CONJScan-2.0.1/Plasmids/MOB	UserReplicon_MOB_1	1	1	0.667	1.200	4	T4SS_MOBB	mandatory	504	1e-88	288.100	1.000	0.409	1	206		
+UserReplicon	NZ_JACAND010000036.1_3	T4SS_MOBV	36	CONJScan-2.0.1/Plasmids/MOB	UserReplicon_MOB_1	1	1	0.667	1.200	4	T4SS_MOBB	mandatory	333	6.3e-50	161.400	0.980	0.571	5	194		
+

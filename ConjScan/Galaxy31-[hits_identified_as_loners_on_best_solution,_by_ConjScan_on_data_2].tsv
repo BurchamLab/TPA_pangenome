@@ -1,0 +1,4 @@
+# macsyfinder 2.0
+# models : CONJScan-2.0.1-2.0.1
+# /usr/local/bin/macsyfinder --sequence-db /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/database/files/008/995/dataset_8995893.dat --db-type ordered_replicon --replicon-topology circular --models-dir /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/tool-data/macsyfinder_data --models CONJScan-2.0.1/Plasmids all --worker 1 --out-dir output_dir
+# No Loners found

@@ -1,0 +1,101 @@
+# macsyfinder 2.0
+# models : CONJScan-2.0.1-2.0.1
+# /usr/local/bin/macsyfinder --sequence-db /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/database/files/008/995/dataset_8995893.dat --db-type ordered_replicon --replicon-topology circular --models-dir /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/tool-data/macsyfinder_data --models CONJScan-2.0.1/Plasmids all --worker 1 --out-dir output_dir
+# Rejected candidates found:
+candidate_id	replicon	model_fqn	cluster_id	hit_id	hit_pos	gene_name	function	reasons
+UserReplicon_T4SS_typeB_1	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeB	c4	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_t4cp1	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeB_1	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeB	c4	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBV	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeB_1	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeB	c4	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBV	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeB_1	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeB	c4	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBV	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeB_1	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeB	c4	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBV	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+
+UserReplicon_T4SS_typeC_2	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeC	c6	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_t4cp1	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeC_2	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeC	c6	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeC_2	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeC	c6	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeC_2	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeC	c6	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeC_2	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeC	c6	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+
+UserReplicon_T4SS_typeF_3	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeF	c8	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_t4cp1	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeF_3	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeF	c8	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeF_3	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeF	c8	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeF_3	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeF	c8	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeF_3	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeF	c8	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+
+UserReplicon_T4SS_typeFA_4	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFA	c10	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_tcpA	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (5) is not reached: 2
+UserReplicon_T4SS_typeFA_4	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFA	c10	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (5) is not reached: 2
+UserReplicon_T4SS_typeFA_4	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFA	c10	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (5) is not reached: 2
+UserReplicon_T4SS_typeFA_4	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFA	c10	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (5) is not reached: 2
+UserReplicon_T4SS_typeFA_4	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFA	c10	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (5) is not reached: 2
+
+UserReplicon_T4SS_typeFATA_5	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFATA	c12	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_t4cp1	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeFATA_5	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFATA	c12	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeFATA_5	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFATA	c12	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeFATA_5	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFATA	c12	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeFATA_5	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeFATA	c12	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+
+UserReplicon_T4SS_typeG_6	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeG	c14	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_t4cp1	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeG_6	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeG	c14	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeG_6	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeG	c14	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeG_6	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeG	c14	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeG_6	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeG	c14	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+
+UserReplicon_T4SS_typeI_7	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeI	c16	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_t4cp1	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeI_7	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeI	c16	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeI_7	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeI	c16	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeI_7	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeI	c16	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+UserReplicon_T4SS_typeI_7	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeI	c16	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (6) is not reached: 2
+
+UserReplicon_T4SS_typeT_8	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeT	c18	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_t4cp1	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeT_8	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeT	c18	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeT_8	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeT	c18	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeT_8	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeT	c18	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+UserReplicon_T4SS_typeT_8	UserReplicon	CONJScan-2.0.1/Plasmids/T4SS_typeT	c18	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of mandatory genes required (3) is not reached: 2/The quorum of genes required (4) is not reached: 2
+
+UserReplicon_dCONJ_typeB_9	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeB	c20	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeB_9	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeB	c20	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBV	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeB_9	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeB	c20	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBV	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeB_9	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeB	c20	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBV	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeB_9	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeB	c20	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBV	The quorum of genes required (3) is not reached: 2
+
+UserReplicon_dCONJ_typeC_10	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeC	c22	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeC_10	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeC	c22	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeC_10	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeC	c22	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeC_10	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeC	c22	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeC_10	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeC	c22	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+
+UserReplicon_dCONJ_typeF_11	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeF	c24	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeF_11	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeF	c24	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeF_11	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeF	c24	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeF_11	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeF	c24	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeF_11	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeF	c24	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+
+UserReplicon_dCONJ_typeFA_12	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFA	c26	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (4) is not reached: 2
+UserReplicon_dCONJ_typeFA_12	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFA	c26	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (4) is not reached: 2
+UserReplicon_dCONJ_typeFA_12	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFA	c26	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (4) is not reached: 2
+UserReplicon_dCONJ_typeFA_12	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFA	c26	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of genes required (4) is not reached: 2
+UserReplicon_dCONJ_typeFA_12	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFA	c26	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of genes required (4) is not reached: 2
+
+UserReplicon_dCONJ_typeFATA_13	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFATA	c28	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeFATA_13	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFATA	c28	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeFATA_13	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFATA	c28	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeFATA_13	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFATA	c28	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeFATA_13	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeFATA	c28	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+
+UserReplicon_dCONJ_typeG_14	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeG	c30	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeG_14	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeG	c30	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeG_14	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeG	c30	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeG_14	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeG	c30	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeG_14	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeG	c30	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+
+UserReplicon_dCONJ_typeI_15	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeI	c32	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeI_15	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeI	c32	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeI_15	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeI	c32	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeI_15	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeI	c32	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+UserReplicon_dCONJ_typeI_15	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeI	c32	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of genes required (5) is not reached: 2
+
+UserReplicon_dCONJ_typeT_16	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeT	c34	NZ_JACAND010000027.1_2	2	T4SS_t4cp2	T4SS_virb4	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeT_16	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeT	c34	NZ_JACAND010000027.1_13	13	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeT_16	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeT	c34	NZ_JACAND010000030.1_2	20	T4SS_MOBP1	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeT_16	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeT	c34	NZ_JACAND010000035.1_2	32	T4SS_MOBQ	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+UserReplicon_dCONJ_typeT_16	UserReplicon	CONJScan-2.0.1/Plasmids/dCONJ_typeT	c34	NZ_JACAND010000036.1_3	36	T4SS_MOBV	T4SS_MOBB	The quorum of genes required (3) is not reached: 2
+

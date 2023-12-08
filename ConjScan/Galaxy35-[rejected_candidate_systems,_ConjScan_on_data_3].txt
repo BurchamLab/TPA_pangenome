@@ -1,0 +1,125 @@
+# macsyfinder 2.0
+# models : CONJScan-2.0.1-2.0.1
+# /usr/local/bin/macsyfinder --sequence-db /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/database/files/008/995/dataset_8995895.dat --db-type ordered_replicon --replicon-topology circular --models-dir /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/tool-data/macsyfinder_data --models CONJScan-2.0.1/Plasmids all --worker 1 --out-dir output_dir
+# Rejected candidates:
+
+Cluster:
+- model = T4SS_typeB
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (4) is not reached: 1
+============================================================
+Cluster:
+- model = T4SS_typeC
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (4) is not reached: 1
+============================================================
+Cluster:
+- model = T4SS_typeF
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (6) is not reached: 1
+============================================================
+Cluster:
+- model = T4SS_typeFA
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (5) is not reached: 1
+============================================================
+Cluster:
+- model = T4SS_typeFATA
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (4) is not reached: 1
+============================================================
+Cluster:
+- model = T4SS_typeG
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (6) is not reached: 1
+============================================================
+Cluster:
+- model = T4SS_typeI
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (6) is not reached: 1
+============================================================
+Cluster:
+- model = T4SS_typeT
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of mandatory genes required (3) is not reached: 1
+	- The quorum of genes required (4) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeB
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (3) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeC
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (3) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeF
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (5) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeFA
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (4) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeFATA
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (3) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeG
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (5) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeI
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (5) is not reached: 1
+============================================================
+Cluster:
+- model = dCONJ_typeT
+- replicon = UserReplicon
+- hits = (NZ_JACANB010000016.1_2, T4SS_MOBP1, 20)
+This candidate has been rejected because:
+	- The quorum of genes required (3) is not reached: 1
+============================================================

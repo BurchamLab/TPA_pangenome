@@ -1,0 +1,5 @@
+# macsyfinder 2.0
+# models : CONJScan-2.0.1-2.0.1
+# /usr/local/bin/macsyfinder --sequence-db /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/database/files/008/995/dataset_8995895.dat --db-type ordered_replicon --replicon-topology circular --models-dir /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/tool-data/macsyfinder_data --models CONJScan-2.0.1/Plasmids all --worker 1 --out-dir output_dir
+replicon	CONJScan-2.0.1/Plasmids/MOB	CONJScan-2.0.1/Plasmids/T4SS_typeB	CONJScan-2.0.1/Plasmids/T4SS_typeC	CONJScan-2.0.1/Plasmids/T4SS_typeF	CONJScan-2.0.1/Plasmids/T4SS_typeFA	CONJScan-2.0.1/Plasmids/T4SS_typeFATA	CONJScan-2.0.1/Plasmids/T4SS_typeG	CONJScan-2.0.1/Plasmids/T4SS_typeI	CONJScan-2.0.1/Plasmids/T4SS_typeT	CONJScan-2.0.1/Plasmids/dCONJ_typeB	CONJScan-2.0.1/Plasmids/dCONJ_typeC	CONJScan-2.0.1/Plasmids/dCONJ_typeF	CONJScan-2.0.1/Plasmids/dCONJ_typeFA	CONJScan-2.0.1/Plasmids/dCONJ_typeFATA	CONJScan-2.0.1/Plasmids/dCONJ_typeG	CONJScan-2.0.1/Plasmids/dCONJ_typeI	CONJScan-2.0.1/Plasmids/dCONJ_typeT
+UserReplicon	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

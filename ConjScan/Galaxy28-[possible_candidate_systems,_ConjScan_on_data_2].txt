@@ -1,0 +1,24 @@
+# macsyfinder 2.0
+# models : CONJScan-2.0.1-2.0.1
+# /usr/local/bin/macsyfinder --sequence-db /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/database/files/008/995/dataset_8995893.dat --db-type ordered_replicon --replicon-topology circular --models-dir /pasteur/zeus/projets/p00/galaxy-prod/galaxy-dist/tool-data/macsyfinder_data --models CONJScan-2.0.1/Plasmids all --worker 1 --out-dir output_dir
+# Systems found:
+
+system id = UserReplicon_MOB_1
+model = CONJScan-2.0.1/Plasmids/MOB
+replicon = UserReplicon
+clusters = [('NZ_JACAND010000027.1_2', 'T4SS_t4cp2', 2), ('NZ_JACAND010000027.1_13', 'T4SS_MOBP1', 13), ('NZ_JACAND010000030.1_2', 'T4SS_MOBP1', 20), ('NZ_JACAND010000035.1_2', 'T4SS_MOBQ', 32), ('NZ_JACAND010000036.1_3', 'T4SS_MOBV', 36)]
+occ = 4
+wholeness = 0.667
+loci nb = 1
+score = 1.200
+
+mandatory genes:
+	- T4SS_MOBB: 4 (T4SS_MOBP1, T4SS_MOBP1, T4SS_MOBQ, T4SS_MOBV)
+
+accessory genes:
+	- T4SS_virb4: 0 ()
+	- T4SS_t4cp1: 1 (T4SS_t4cp2)
+
+neutral genes:
+
+============================================================
