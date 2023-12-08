@@ -1,0 +1,1415 @@
+{
+"Date":"10/7/2023_17:44:19",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"NZ_JACAND010000010_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_10_length_61806_cov_214_321518__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000010_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_10_length_61806_cov_214_321518__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.6212018250655,
+"Length":61806,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000011_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_11_length_61778_cov_245_010648__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000011_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_11_length_61778_cov_245_010648__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.1807439541584,
+"Length":61778,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[{
+"Type": "CAS",
+"Start": 5102,
+"End": 7180,
+"Genes": [
+{
+"Sub_type": "cas3_TypeI",
+"Start": 5102,
+"End": 7180,
+"Orientation": "+"
+},
+{
+"Sub_type": "cas3_TypeI",
+"Start": 5102,
+"End": 7180,
+"Orientation": "+"
+}]}]
+
+},
+{
+"Id":"NZ_JACAND010000012_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_12_length_57437_cov_251_448257__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000012_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_12_length_57437_cov_251_448257__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.8098090081306,
+"Length":57437,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000013_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_13_length_56470_cov_211_113170__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000013_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_13_length_56470_cov_211_113170__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.4992031166991,
+"Length":56470,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000014_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_14_length_55469_cov_245_525563__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000014_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_14_length_55469_cov_245_525563__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.6239881735744,
+"Length":55469,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000015_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_15_length_50762_cov_245_779244__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000015_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_15_length_50762_cov_245_779244__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.408533942713,
+"Length":50762,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000016_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_16_length_50569_cov_209_897766__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000016_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_16_length_50569_cov_209_897766__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.4847238426704,
+"Length":50569,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000017_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_17_length_49154_cov_231_255537__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000017_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_17_length_49154_cov_231_255537__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.5430280343411,
+"Length":49154,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000018_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_18_length_46166_cov_247_821129__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000018_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_18_length_46166_cov_247_821129__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.7112160464411,
+"Length":46166,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000019_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_19_length_45944_cov_249_509865__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000019_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_19_length_45944_cov_249_509865__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.4585582448198,
+"Length":45944,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000001_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_1_length_348742_cov_229_938821__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000001_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_1_length_348742_cov_229_938821__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.7359537996571,
+"Length":348742,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000020_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_20_length_44123_cov_227_641171__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000020_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_20_length_44123_cov_227_641171__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":50.8555628583732,
+"Length":44123,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000021_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_21_length_39890_cov_232_212544__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000021_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_21_length_39890_cov_232_212544__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.0428678866884,
+"Length":39890,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000022_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_22_length_39881_cov_247_396066__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000022_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_22_length_39881_cov_247_396066__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.503222085705,
+"Length":39881,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000023_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_23_length_25131_cov_230_615032__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000023_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_23_length_25131_cov_230_615032__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.2382714575624,
+"Length":25131,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000024_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_24_length_19944_cov_226_922082__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000024_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_24_length_19944_cov_226_922082__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":57.1149217809868,
+"Length":19944,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000025_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_25_length_17635_cov_227_060542__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000025_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_25_length_17635_cov_227_060542__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.3013892826765,
+"Length":17635,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000026_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_26_length_15177_cov_214_878344__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000026_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_26_length_15177_cov_214_878344__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":54.4639915661857,
+"Length":15177,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000027_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_27_length_15105_cov_310_204285__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000027_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_27_length_15105_cov_310_204285__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":45.1307514068189,
+"Length":15105,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000028_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_28_length_10914_cov_213_825782__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000028_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_28_length_10914_cov_213_825782__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.0432472054242,
+"Length":10914,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000029_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_29_length_10216_cov_203_350725__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000029_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_29_length_10216_cov_203_350725__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.2039937353172,
+"Length":10216,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000002_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_2_length_295036_cov_221_470099__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000002_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_2_length_295036_cov_221_470099__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.6065836033569,
+"Length":295036,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+
+},
+{
+"Id":"NZ_JACAND010000030_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_30_length_7671_cov_217_865420__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000030_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_30_length_7671_cov_217_865420__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":42.3152131403989,
+"Length":7671,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000031_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_31_length_5537_cov_1054_549817__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000031_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_31_length_5537_cov_1054_549817__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":49.1421347299982,
+"Length":5537,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000032_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_32_length_5276_cov_242_543951__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000032_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_32_length_5276_cov_242_543951__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.2319939347991,
+"Length":5276,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000033_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_33_length_4782_cov_361_904357__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000033_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_33_length_4782_cov_361_904357__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":58.6992890004182,
+"Length":4782,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000034_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_34_length_4060_cov_211_029124__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000034_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_34_length_4060_cov_211_029124__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.5615763546798,
+"Length":4060,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000035_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_35_length_3566_cov_72_811407__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000035_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_35_length_3566_cov_72_811407__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":44.1390914189568,
+"Length":3566,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000036_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_36_length_3484_cov_6880_787203__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000036_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_36_length_3484_cov_6880_787203__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":50.48794489093,
+"Length":3484,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000037_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_37_length_2681_cov_205_247696__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000037_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_37_length_2681_cov_205_247696__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":40.544572920552,
+"Length":2681,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000038_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_38_length_2623_cov_244_115082__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000038_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_38_length_2623_cov_244_115082__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":63.4388105223027,
+"Length":2623,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000039_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_39_length_2332_cov_240_505100__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000039_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_39_length_2332_cov_240_505100__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":58.2332761578045,
+"Length":2332,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000003_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_3_length_214592_cov_239_176999__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000003_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_3_length_214592_cov_239_176999__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.7023001789442,
+"Length":214592,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+
+},
+{
+"Id":"NZ_JACAND010000040_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_41_length_1599_cov_237_938239__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000040_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_41_length_1599_cov_237_938239__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.9712320200125,
+"Length":1599,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000041_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_42_length_1559_cov_260_433873__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000041_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_42_length_1559_cov_260_433873__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.7408595253368,
+"Length":1559,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000042_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_43_length_1473_cov_667_462034__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000042_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_43_length_1473_cov_667_462034__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":50.7807196198235,
+"Length":1473,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000043_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_44_length_1245_cov_1094_739726__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000043_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_44_length_1245_cov_1094_739726__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":50.7630522088353,
+"Length":1245,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000044_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_45_length_1129_cov_222_606464__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000044_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_45_length_1129_cov_222_606464__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":50.044286979628,
+"Length":1129,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000045_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_46_length_1116_cov_253_241578__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000045_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_46_length_1116_cov_253_241578__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.2544802867383,
+"Length":1116,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000046_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_47_length_1065_cov_462_200405__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000046_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_47_length_1065_cov_462_200405__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":56.3380281690141,
+"Length":1065,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000047_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_48_length_1028_cov_1076_646688__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000047_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_48_length_1028_cov_1076_646688__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":49.2217898832685,
+"Length":1028,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000048_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_49_length_1006_cov_820_945102__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000048_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_49_length_1006_cov_820_945102__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.0695825049702,
+"Length":1006,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000004_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_4_length_183486_cov_238_628541__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000004_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_4_length_183486_cov_238_628541__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":50.4240105512137,
+"Length":183486,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000049_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_50_length_979_cov_450_087583__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000049_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_50_length_979_cov_450_087583__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.0561797752809,
+"Length":979,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000050_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_51_length_923_cov_519_248227__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000050_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_51_length_923_cov_519_248227__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":56.3380281690141,
+"Length":923,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000051_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_53_length_857_cov_244_161538__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000051_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_53_length_857_cov_244_161538__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":59.50991831972,
+"Length":857,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000052_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_54_length_822_cov_657_891275__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000052_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_54_length_822_cov_657_891275__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":47.5669099756691,
+"Length":822,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000053_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_55_length_773_cov_314_834770__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000053_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_55_length_773_cov_314_834770__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":54.0750323415265,
+"Length":773,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000054_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_56_length_700_cov_189_398074__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000054_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_56_length_700_cov_189_398074__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":38.1428571428571,
+"Length":700,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000055_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_57_length_620_cov_959_263352__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000055_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_57_length_620_cov_959_263352__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":46.7741935483871,
+"Length":620,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000056_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_59_length_572_cov_859_165657__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000056_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_59_length_572_cov_859_165657__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":47.7272727272727,
+"Length":572,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000005_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_5_length_175685_cov_208_668905__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000005_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_5_length_175685_cov_208_668905__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.8866152488829,
+"Length":175685,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000057_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_60_length_546_cov_393_893390__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000057_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_60_length_546_cov_393_893390__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":47.6190476190476,
+"Length":546,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000058_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_61_length_507_cov_0_569767__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000058_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_61_length_507_cov_0_569767__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":57.396449704142,
+"Length":507,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000059_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_62_length_502_cov_0_432941__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000059_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_62_length_502_cov_0_432941__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.3784860557769,
+"Length":502,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000060_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_63_length_501_cov_0_667453__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000060_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_63_length_501_cov_0_667453__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":55.4890219560878,
+"Length":501,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000006_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_6_length_170055_cov_218_303869__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000006_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_6_length_170055_cov_218_303869__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.7861868219106,
+"Length":170055,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+
+},
+{
+"Id":"NZ_JACAND010000007_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_7_length_90062_cov_257_641607__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000007_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_7_length_90062_cov_257_641607__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":53.1811418800382,
+"Length":90062,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+},
+{
+"Id":"NZ_JACAND010000008_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_8_length_82870_cov_245_223847__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000008_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_8_length_82870_cov_245_223847__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":51.5735489320623,
+"Length":82870,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "NZ_JACAND010000008_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_8_length_82870_cov_245_223847__whole_genome_shotgun_sequence_1",
+"Start": 12469,
+"End": 16036,
+"DR_Consensus": "TTTCTGAGCTGCCTATGCGGCAGTGAAC",
+"Repeat_ID": "R8778",
+"DR_Length": 28,
+"Spacers": 59,
+"Potential_Orientation": "-",
+"CRISPRDirection": "-",
+"Evidence_Level": 4,
+"Conservation_DRs": 97.3794657770848,
+"Conservation_Spacers": 0,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 12369,
+"End": 12468,
+"Sequence": "GATTTGCTTGGGCGAGTTTAACCCCGAGTTTCTTCAGCAATGCGAAGAGTTAGGCTTATCCATGGCCGCCAGTTTAGAGGCGGGGATTATTTAATAGCCT",
+"Leader": 0,
+"AT": 52
+},
+ {
+"Type": "DR",
+"Start": 12469,
+"End": 12496,
+"Sequence": "GTTACTTACTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12497,
+"End": 12528,
+"Sequence": "CTACTAAAACCCAAACCGACACTTATAAAGAC"
+},
+{
+"Type": "DR",
+"Start": 12529,
+"End": 12556,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12557,
+"End": 12588,
+"Sequence": "ATGCTTAATCTGATTCGCAGCCTCGTTTGCTA"
+},
+{
+"Type": "DR",
+"Start": 12589,
+"End": 12616,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12617,
+"End": 12648,
+"Sequence": "CTGGCCGATAGAATGCAGCCTGCGCGCTTGGT"
+},
+{
+"Type": "DR",
+"Start": 12649,
+"End": 12676,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12677,
+"End": 12708,
+"Sequence": "CAAAACCTAGGAATGTCTCTGCAATTAAACGT"
+},
+{
+"Type": "DR",
+"Start": 12709,
+"End": 12736,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12737,
+"End": 12768,
+"Sequence": "AGATGGTATTTGACCATGACTGTTTTCTGTTA"
+},
+{
+"Type": "DR",
+"Start": 12769,
+"End": 12796,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12797,
+"End": 12828,
+"Sequence": "CCCACGTTGTACAGGTACGCTTCTGGGTGGCT"
+},
+{
+"Type": "DR",
+"Start": 12829,
+"End": 12856,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12857,
+"End": 12888,
+"Sequence": "GCGATTGATGGCACACGAGCAGTTAAGGATAT"
+},
+{
+"Type": "DR",
+"Start": 12889,
+"End": 12916,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12917,
+"End": 12948,
+"Sequence": "AGTGGGCGTAACGCAGCTTTTACACTGCTTAC"
+},
+{
+"Type": "DR",
+"Start": 12949,
+"End": 12976,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 12977,
+"End": 13008,
+"Sequence": "ATCTTGCTAAACATATTGCGCTAGAACGCATT"
+},
+{
+"Type": "DR",
+"Start": 13009,
+"End": 13036,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13037,
+"End": 13068,
+"Sequence": "TTTCTTTAAGCCGCTCTCAAGCTCTTGCCACC"
+},
+{
+"Type": "DR",
+"Start": 13069,
+"End": 13096,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13097,
+"End": 13128,
+"Sequence": "ATCGGCAGCAAGAACCTTTAGCGCGCCCCATG"
+},
+{
+"Type": "DR",
+"Start": 13129,
+"End": 13156,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13157,
+"End": 13188,
+"Sequence": "GCGAACTGATCTCAACTGCGGTTACATTGCTA"
+},
+{
+"Type": "DR",
+"Start": 13189,
+"End": 13216,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13217,
+"End": 13248,
+"Sequence": "AGATCGTACTGGCTCAAGAAAGCCCAGGCATC"
+},
+{
+"Type": "DR",
+"Start": 13249,
+"End": 13276,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13277,
+"End": 13308,
+"Sequence": "ATAAACCGCTTACCGAAACCCTCAGGCTGGTT"
+},
+{
+"Type": "DR",
+"Start": 13309,
+"End": 13336,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13337,
+"End": 13368,
+"Sequence": "ATCGGACTCCACGATCCCAGCCAATCAGCCTT"
+},
+{
+"Type": "DR",
+"Start": 13369,
+"End": 13396,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13397,
+"End": 13428,
+"Sequence": "AACGTCATGTCGTGCCGCTCAAGATACTCGTC"
+},
+{
+"Type": "DR",
+"Start": 13429,
+"End": 13456,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13457,
+"End": 13488,
+"Sequence": "TTAACTGCAAGCCAAGAGCGCGGGATTAGCTT"
+},
+{
+"Type": "DR",
+"Start": 13489,
+"End": 13516,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13517,
+"End": 13548,
+"Sequence": "TAGCTCGCGCTGCTGGTTTAGCCGCTGCTACG"
+},
+{
+"Type": "DR",
+"Start": 13549,
+"End": 13576,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13577,
+"End": 13608,
+"Sequence": "GCTGACTTGGACATGCCCGTATTACGAAACTT"
+},
+{
+"Type": "DR",
+"Start": 13609,
+"End": 13636,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13637,
+"End": 13668,
+"Sequence": "TTTGGCGGCAATACCGCTAAGATGATTGACTG"
+},
+{
+"Type": "DR",
+"Start": 13669,
+"End": 13696,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13697,
+"End": 13728,
+"Sequence": "GGCGTGCGCGACCTGATAAGAGTATCAAGCAA"
+},
+{
+"Type": "DR",
+"Start": 13729,
+"End": 13756,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13757,
+"End": 13788,
+"Sequence": "ATATTGATGGCGATAGGATCGAGTCTGAGTAT"
+},
+{
+"Type": "DR",
+"Start": 13789,
+"End": 13816,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13817,
+"End": 13848,
+"Sequence": "CTGACGTAGTTAGTCAGTCTCAAGATAGAGAT"
+},
+{
+"Type": "DR",
+"Start": 13849,
+"End": 13876,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13877,
+"End": 13908,
+"Sequence": "AGCCACTGACTTTGCGGCCAAGCTATGAATCT"
+},
+{
+"Type": "DR",
+"Start": 13909,
+"End": 13936,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13937,
+"End": 13968,
+"Sequence": "ATTAGGACGCCAAACTTTCTGCCCTGCTTTCT"
+},
+{
+"Type": "DR",
+"Start": 13969,
+"End": 13996,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 13997,
+"End": 14028,
+"Sequence": "TGGCTTCTAACGGCACAATGGAAATGGGCGGC"
+},
+{
+"Type": "DR",
+"Start": 14029,
+"End": 14056,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14057,
+"End": 14088,
+"Sequence": "GCAAGTCCATCTCTGCTTTTGCTACAGAGTTT"
+},
+{
+"Type": "DR",
+"Start": 14089,
+"End": 14116,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14117,
+"End": 14148,
+"Sequence": "TATTCGTGACGTTATCCCACCACTAAAGAAGT"
+},
+{
+"Type": "DR",
+"Start": 14149,
+"End": 14176,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14177,
+"End": 14208,
+"Sequence": "GGCTTGGTTACGCTGCTGGCGTATCATCATAT"
+},
+{
+"Type": "DR",
+"Start": 14209,
+"End": 14236,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14237,
+"End": 14268,
+"Sequence": "CCTAAGCACGCTGCGATTATGGATTATTTGCT"
+},
+{
+"Type": "DR",
+"Start": 14269,
+"End": 14296,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14297,
+"End": 14328,
+"Sequence": "GACTTAATGGCCGCAGCGGTAAGCATTGCAGA"
+},
+{
+"Type": "DR",
+"Start": 14329,
+"End": 14356,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14357,
+"End": 14388,
+"Sequence": "ACGCCTACGCAGCGTTCTGAGCTCGTTTATTA"
+},
+{
+"Type": "DR",
+"Start": 14389,
+"End": 14416,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14417,
+"End": 14448,
+"Sequence": "GCTAACCCCACAAAAGCTTTCATCGACTTAAT"
+},
+{
+"Type": "DR",
+"Start": 14449,
+"End": 14476,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14477,
+"End": 14508,
+"Sequence": "GCGTTGAGTGGTTAAGTTTTTCTGATTCGTTT"
+},
+{
+"Type": "DR",
+"Start": 14509,
+"End": 14536,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14537,
+"End": 14568,
+"Sequence": "TTGTACTCAAGCTTTTCACTGCCTTGGGCATT"
+},
+{
+"Type": "DR",
+"Start": 14569,
+"End": 14596,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14597,
+"End": 14628,
+"Sequence": "GTGGCCGCGGAACATCATCATGATGATAGCCA"
+},
+{
+"Type": "DR",
+"Start": 14629,
+"End": 14656,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14657,
+"End": 14688,
+"Sequence": "ACAGACCGCAGAATGGTTTGAAAAGCGTAAAG"
+},
+{
+"Type": "DR",
+"Start": 14689,
+"End": 14716,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14717,
+"End": 14748,
+"Sequence": "GCAGTTAAGCTTGCATTTGAGCCAACTGCAAT"
+},
+{
+"Type": "DR",
+"Start": 14749,
+"End": 14776,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14777,
+"End": 14808,
+"Sequence": "GTCGATTACCTCTGTTGCTTTCTCTTGCTCAG"
+},
+{
+"Type": "DR",
+"Start": 14809,
+"End": 14836,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14837,
+"End": 14868,
+"Sequence": "TAATCTCGGCAAGGTTCTCGTGGTGCTTGATC"
+},
+{
+"Type": "DR",
+"Start": 14869,
+"End": 14896,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14897,
+"End": 14928,
+"Sequence": "AACAAGGAATTAGCCCCTGAGAATTTTTTAAA"
+},
+{
+"Type": "DR",
+"Start": 14929,
+"End": 14956,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 14957,
+"End": 14988,
+"Sequence": "GCCAGTCTGTACAGTGCGACTGGTATCAGTCG"
+},
+{
+"Type": "DR",
+"Start": 14989,
+"End": 15016,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15017,
+"End": 15048,
+"Sequence": "CTCTGCACTCGGAACGTGCGACTCCCCCTGCT"
+},
+{
+"Type": "DR",
+"Start": 15049,
+"End": 15076,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15077,
+"End": 15108,
+"Sequence": "CCGCCGTTATGTTGACGATCAGCCTGAATACT"
+},
+{
+"Type": "DR",
+"Start": 15109,
+"End": 15136,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15137,
+"End": 15168,
+"Sequence": "CCGCCGTTATGTTGACGATCAGCCTGAATACT"
+},
+{
+"Type": "DR",
+"Start": 15169,
+"End": 15196,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15197,
+"End": 15228,
+"Sequence": "CTTCAATTGCAAAGAATACGAAAGACTTCAAT"
+},
+{
+"Type": "DR",
+"Start": 15229,
+"End": 15256,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15257,
+"End": 15288,
+"Sequence": "GCGTAGTGCTGGCAGTGGTTGCGCGTTTTGGT"
+},
+{
+"Type": "DR",
+"Start": 15289,
+"End": 15316,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15317,
+"End": 15348,
+"Sequence": "ACAATGGCGCGAGCATTGCTGGAAGTGTCCAA"
+},
+{
+"Type": "DR",
+"Start": 15349,
+"End": 15376,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15377,
+"End": 15408,
+"Sequence": "GGGCTAATGCGCCTGGCAACCGATACCGGTCA"
+},
+{
+"Type": "DR",
+"Start": 15409,
+"End": 15436,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15437,
+"End": 15468,
+"Sequence": "GAGTTAATCTCTAATGCAGCTATATCCATCTG"
+},
+{
+"Type": "DR",
+"Start": 15469,
+"End": 15496,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15497,
+"End": 15528,
+"Sequence": "CAACGACACAAGGTCGCTTGGTGTATCTACTA"
+},
+{
+"Type": "DR",
+"Start": 15529,
+"End": 15556,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15557,
+"End": 15588,
+"Sequence": "ACCTTGTGCCGTGTAGCGCAGTTCTGCGTCTC"
+},
+{
+"Type": "DR",
+"Start": 15589,
+"End": 15616,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15617,
+"End": 15648,
+"Sequence": "GAGATTAATGGGGAGCGTCTTTTCTTGTCAGA"
+},
+{
+"Type": "DR",
+"Start": 15649,
+"End": 15676,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15677,
+"End": 15708,
+"Sequence": "CTGGGTTAAAGCAATGTCGCGTACCGATGTGT"
+},
+{
+"Type": "DR",
+"Start": 15709,
+"End": 15736,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15737,
+"End": 15768,
+"Sequence": "CTTGGTTACGACAACCCAGAGGGCGCGCTAAA"
+},
+{
+"Type": "DR",
+"Start": 15769,
+"End": 15796,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15797,
+"End": 15828,
+"Sequence": "CCGCAGAATGGATCAATGTTATTCACGCGTAA"
+},
+{
+"Type": "DR",
+"Start": 15829,
+"End": 15856,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15857,
+"End": 15888,
+"Sequence": "CTGTGTGAGCTTTCCAGCGACCTTGTGAGTAA"
+},
+{
+"Type": "DR",
+"Start": 15889,
+"End": 15916,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15917,
+"End": 15948,
+"Sequence": "TTGGTTCATTTTGTTACCCCTTATCGCTCACT"
+},
+{
+"Type": "DR",
+"Start": 15949,
+"End": 15976,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "Spacer",
+"Start": 15977,
+"End": 16008,
+"Sequence": "CCAGTGATAATGAAGATAAACCAATCTTTGTT"
+},
+{
+"Type": "DR",
+"Start": 16009,
+"End": 16036,
+"Sequence": "TTTCTGAGCTGCCTATGCGGCAGTGAAC"
+},
+{
+"Type": "RightFLANK",
+"Start": 16037,
+"End": 16136,
+"Sequence": "AAGCAGATTTTACGCTAAAACCTTTATTTTTAAAGAGCTACAGCTAAATTGCTTATTTTTCCCCTTTTTTATACAGCAAGCGTAAGTCATTGATTTACTT",
+"Leader": 1,
+"AT": 70
+}
+]
+}]
+,
+"Cas":[{
+"Type": "CAS-TypeIF",
+"Start": 16165,
+"End": 24484,
+"Genes": [
+{
+"Sub_type": "cas1_TypeIF",
+"Start": 23507,
+"End": 24484,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas3-cas2_TypeIF",
+"Start": 20160,
+"End": 23510,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas6_TypeIF",
+"Start": 16165,
+"End": 16728,
+"Orientation": "-"
+},
+{
+"Sub_type": "csy1_TypeIF",
+"Start": 18746,
+"End": 20110,
+"Orientation": "-"
+},
+{
+"Sub_type": "csy2_TypeIF",
+"Start": 17781,
+"End": 18749,
+"Orientation": "-"
+},
+{
+"Sub_type": "csy3_TypeIF",
+"Start": 16733,
+"End": 17761,
+"Orientation": "-"
+}]}]
+
+},
+{
+"Id":"NZ_JACAND010000009_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_9_length_79975_cov_211_717415__whole_genome_shotgun_sequence",
+"Version":"NZ_JACAND010000009_1_Thiopseudomonas_alkaliphila_strain_DF95-5_NODE_9_length_79975_cov_211_717415__whole_genome_shotgun_sequence",
+"Description":"Unknown",
+"AT":52.6251953735542,
+"Length":79975,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+}
+]
+}
