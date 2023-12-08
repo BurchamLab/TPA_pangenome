@@ -1,0 +1,2 @@
+contig_id	contig_length	viral_length	aai_expected_length	aai_completeness	aai_confidence	aai_error	aai_num_hits	aai_top_hit	aai_id	aai_af	hmm_completeness_lower	hmm_completeness_upper	hmm_num_hits	kmer_freq
+NZ_CP012365.1|provirus_2347740_2396545	48806	NA	48098.54674414446	100.0	medium	7.78352135796864	17	GCA_022401945.1	43.67	29.33	70.42532316202104	88.13375836155274	31	1.01

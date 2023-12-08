@@ -1,0 +1,2 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+NZ_JACAND010000026.1	15177	No terminal repeats	NA	18	11	0.8923	NA	4	9.6490	Viruses

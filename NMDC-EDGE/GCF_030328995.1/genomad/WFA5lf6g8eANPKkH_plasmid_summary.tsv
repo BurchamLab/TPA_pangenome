@@ -1,0 +1,8 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+NZ_JACAND010000035.1	3566	No terminal repeats	3	11	0.9961	NA	3	4.4682	MOBQ	NA
+NZ_JACAND010000027.1	15105	DTR	18	11	0.9934	NA	3	5.4196	MOBP1	NA
+NZ_JACAND010000036.1	3484	No terminal repeats	4	11	0.9861	NA	0	0.6275	NA	NA
+NZ_JACAND010000037.1	2681	No terminal repeats	4	11	0.8319	NA	0	0.7742	NA	NF012174
+NZ_JACAND010000032.1	5276	No terminal repeats	3	11	0.8172	NA	0	0.0000	NA	NA
+NZ_JACAND010000033.1	4782	No terminal repeats	5	11	0.8154	NA	0	2.4015	NA	NA
+NZ_JACAND010000030.1	7671	No terminal repeats	4	11	0.7571	NA	0	1.4533	NA	NF000107

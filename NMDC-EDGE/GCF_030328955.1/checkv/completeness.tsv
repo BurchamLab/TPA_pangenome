@@ -1,0 +1,3 @@
+contig_id	contig_length	viral_length	aai_expected_length	aai_completeness	aai_confidence	aai_error	aai_num_hits	aai_top_hit	aai_id	aai_af	hmm_completeness_lower	hmm_completeness_upper	hmm_num_hits	kmer_freq
+NZ_JACANB010000003.1|provirus_245263_253142	7880	NA	8508.665164419157	92.61147133808888	medium	7.03932723083913	6	GCA_003719275.1	51.3	33.79	63.57568370642036	80.01909157121958	3	1.0
+NZ_JACANB010000008.1|provirus_23582_71415	47834	NA	46565.04961592662	100.0	medium	7.35080622818197	55	DTR_648799	32.88	24.2	74.08286491026126	100.00000000000001	25	1.0

@@ -1,0 +1,2238 @@
+Contig	Contig_ID	ORF	ORF_ID	ARG	ARG_SNPs	AMR_category	AMR_sub_class	Resistance_mechanism	Database	MGE_prediction
+GCF_001267275_contig1	0000000001	1_1	0000000001	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_10	0000000010	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_100	0000000100	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_101	0000000101	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_102	0000000102	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_103	0000000103	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_104	0000000104	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_105	0000000105	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_106	0000000106	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_107	0000000107	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_108	0000000108	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_109	0000000109	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_11	0000000011	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_110	0000000110	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_111	0000000111	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_112	0000000112	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_113	0000000113	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_114	0000000114	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_115	0000000115	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_116	0000000116	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_117	0000000117	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_118	0000000118	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_119	0000000119	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_12	0000000012	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_120	0000000120	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_121	0000000121	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_122	0000000122	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_123	0000000123	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_124	0000000124	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_125	0000000125	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_126	0000000126	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_127	0000000127	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_128	0000000128	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_129	0000000129	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_13	0000000013	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_130	0000000130	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_131	0000000131	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_132	0000000132	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_133	0000000133	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_134	0000000134	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_135	0000000135	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_136	0000000136	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_137	0000000137	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_138	0000000138	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_139	0000000139	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_14	0000000014	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_140	0000000140	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_141	0000000141	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_142	0000000142	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_143	0000000143	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_144	0000000144	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_145	0000000145	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_146	0000000146	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_147	0000000147	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_148	0000000148	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_149	0000000149	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_15	0000000015	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_150	0000000150	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_151	0000000151	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_152	0000000152	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_153	0000000153	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_154	0000000154	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_155	0000000155	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_156	0000000156	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_157	0000000157	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_158	0000000158	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_159	0000000159	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_16	0000000016	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_160	0000000160	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_161	0000000161	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_162	0000000162	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_163	0000000163	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_164	0000000164	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_165	0000000165	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_166	0000000166	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_167	0000000167	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_168	0000000168	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_169	0000000169	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_17	0000000017	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_170	0000000170	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_171	0000000171	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_172	0000000172	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_173	0000000173	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_174	0000000174	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_175	0000000175	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_176	0000000176	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_177	0000000177	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_178	0000000178	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_179	0000000179	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_18	0000000018	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_180	0000000180	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_181	0000000181	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_182	0000000182	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_183	0000000183	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_184	0000000184	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_185	0000000185	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_186	0000000186	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_187	0000000187	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_188	0000000188	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_189	0000000189	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_19	0000000019	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_190	0000000190	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_191	0000000191	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_192	0000000192	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_193	0000000193	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_194	0000000194	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_195	0000000195	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_196	0000000196	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_197	0000000197	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_198	0000000198	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_199	0000000199	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_2	0000000002	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_20	0000000020	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_200	0000000200	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_201	0000000201	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_202	0000000202	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_203	0000000203	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_204	0000000204	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_205	0000000205	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_206	0000000206	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_207	0000000207	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_208	0000000208	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_209	0000000209	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_21	0000000021	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_210	0000000210	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_211	0000000211	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_212	0000000212	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_213	0000000213	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_214	0000000214	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_215	0000000215	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_216	0000000216	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_217	0000000217	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_218	0000000218	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_219	0000000219	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_22	0000000022	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_220	0000000220	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_221	0000000221	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_222	0000000222	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_223	0000000223	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_224	0000000224	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_225	0000000225	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_226	0000000226	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_227	0000000227	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_228	0000000228	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_229	0000000229	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_23	0000000023	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_230	0000000230	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_231	0000000231	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_232	0000000232	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_233	0000000233	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_234	0000000234	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_235	0000000235	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_236	0000000236	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_237	0000000237	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_238	0000000238	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_239	0000000239	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_24	0000000024	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_240	0000000240	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_241	0000000241	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_242	0000000242	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_243	0000000243	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_244	0000000244	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_245	0000000245	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_246	0000000246	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_247	0000000247	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_248	0000000248	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_249	0000000249	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_25	0000000025	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_250	0000000250	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_251	0000000251	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_252	0000000252	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_253	0000000253	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_254	0000000254	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_255	0000000255	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_256	0000000256	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_257	0000000257	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_258	0000000258	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_259	0000000259	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_26	0000000026	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_260	0000000260	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_261	0000000261	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_262	0000000262	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_263	0000000263	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_264	0000000264	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_265	0000000265	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_266	0000000266	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_267	0000000267	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_268	0000000268	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_269	0000000269	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_27	0000000027	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_270	0000000270	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_271	0000000271	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_272	0000000272	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_273	0000000273	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_274	0000000274	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_275	0000000275	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_276	0000000276	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_277	0000000277	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_278	0000000278	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_279	0000000279	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_28	0000000028	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_280	0000000280	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_281	0000000281	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_282	0000000282	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_283	0000000283	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_284	0000000284	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_285	0000000285	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_286	0000000286	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_287	0000000287	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_288	0000000288	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_289	0000000289	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_29	0000000029	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_290	0000000290	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_291	0000000291	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_292	0000000292	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_293	0000000293	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_294	0000000294	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_295	0000000295	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_296	0000000296	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_297	0000000297	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_298	0000000298	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_299	0000000299	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_3	0000000003	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_30	0000000030	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_300	0000000300	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_301	0000000301	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_302	0000000302	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_303	0000000303	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_304	0000000304	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_305	0000000305	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_306	0000000306	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_307	0000000307	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_308	0000000308	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_309	0000000309	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_31	0000000031	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_310	0000000310	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_311	0000000311	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_312	0000000312	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_313	0000000313	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_314	0000000314	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_315	0000000315	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_316	0000000316	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_317	0000000317	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_318	0000000318	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_319	0000000319	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_32	0000000032	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_320	0000000320	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_321	0000000321	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_322	0000000322	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_323	0000000323	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_324	0000000324	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_325	0000000325	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_326	0000000326	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_327	0000000327	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_328	0000000328	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_329	0000000329	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_33	0000000033	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_330	0000000330	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_331	0000000331	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_332	0000000332	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_333	0000000333	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_334	0000000334	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_335	0000000335	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_336	0000000336	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_337	0000000337	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_338	0000000338	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_339	0000000339	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_34	0000000034	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_340	0000000340	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_341	0000000341	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_342	0000000342	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_343	0000000343	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_344	0000000344	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_345	0000000345	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_346	0000000346	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_347	0000000347	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_348	0000000348	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_349	0000000349	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_35	0000000035	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_350	0000000350	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_351	0000000351	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_352	0000000352	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_353	0000000353	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_354	0000000354	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_355	0000000355	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_356	0000000356	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_357	0000000357	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_358	0000000358	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_359	0000000359	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_36	0000000036	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_360	0000000360	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_361	0000000361	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_362	0000000362	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_363	0000000363	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_364	0000000364	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_365	0000000365	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_366	0000000366	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_367	0000000367	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_368	0000000368	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_369	0000000369	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_37	0000000037	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_370	0000000370	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_371	0000000371	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_372	0000000372	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_373	0000000373	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_374	0000000374	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_375	0000000375	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_376	0000000376	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_377	0000000377	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_378	0000000378	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_379	0000000379	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_38	0000000038	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_380	0000000380	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_381	0000000381	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_382	0000000382	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_383	0000000383	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_384	0000000384	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_385	0000000385	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_386	0000000386	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_387	0000000387	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_388	0000000388	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_389	0000000389	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_39	0000000039	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_390	0000000390	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_391	0000000391	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_392	0000000392	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_393	0000000393	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_394	0000000394	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_395	0000000395	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_396	0000000396	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_397	0000000397	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_398	0000000398	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_399	0000000399	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_4	0000000004	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_40	0000000040	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_400	0000000400	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_401	0000000401	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_402	0000000402	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_403	0000000403	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_404	0000000404	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_405	0000000405	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_406	0000000406	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_407	0000000407	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_408	0000000408	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_409	0000000409	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_41	0000000041	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_410	0000000410	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_411	0000000411	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_412	0000000412	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_413	0000000413	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_414	0000000414	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_415	0000000415	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_416	0000000416	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_417	0000000417	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_418	0000000418	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_419	0000000419	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_42	0000000042	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_420	0000000420	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_421	0000000421	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_422	0000000422	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_423	0000000423	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_424	0000000424	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_425	0000000425	MEXA	n/a	multidrug	aminocoumarin antibiotic;carbapenem;cephalosporin;cephamycin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic	antibiotic efflux	DeepARG	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_426	0000000426	MEXB	n/a	multidrug	aminocoumarin antibiotic;carbapenem;cephalosporin;cephamycin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic	antibiotic efflux	DeepARG	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_427	0000000427	OPRM	n/a	multidrug	acridine dye;aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic	antibiotic efflux	DeepARG	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_428	0000000428	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_429	0000000429	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_43	0000000043	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_430	0000000430	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_431	0000000431	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_432	0000000432	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_433	0000000433	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_434	0000000434	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_435	0000000435	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_436	0000000436	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_437	0000000437	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_438	0000000438	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_439	0000000439	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_44	0000000044	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_440	0000000440	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_441	0000000441	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_442	0000000442	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_443	0000000443	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_444	0000000444	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_445	0000000445	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_446	0000000446	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_447	0000000447	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_448	0000000448	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_449	0000000449	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_45	0000000045	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_450	0000000450	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_451	0000000451	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_452	0000000452	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_453	0000000453	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_454	0000000454	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_455	0000000455	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_456	0000000456	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_457	0000000457	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_458	0000000458	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_459	0000000459	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_46	0000000046	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_460	0000000460	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_461	0000000461	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_462	0000000462	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_463	0000000463	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_464	0000000464	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_465	0000000465	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_466	0000000466	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_467	0000000467	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_468	0000000468	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_469	0000000469	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_47	0000000047	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_470	0000000470	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_471	0000000471	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_472	0000000472	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_473	0000000473	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_474	0000000474	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_475	0000000475	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_476	0000000476	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_477	0000000477	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_478	0000000478	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_479	0000000479	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_48	0000000048	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_480	0000000480	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_481	0000000481	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_482	0000000482	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_483	0000000483	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_484	0000000484	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_485	0000000485	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_486	0000000486	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_487	0000000487	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_488	0000000488	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_489	0000000489	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_49	0000000049	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_490	0000000490	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_491	0000000491	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_492	0000000492	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_493	0000000493	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_494	0000000494	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_495	0000000495	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_496	0000000496	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_497	0000000497	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_498	0000000498	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_499	0000000499	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_5	0000000005	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_50	0000000050	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_500	0000000500	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_501	0000000501	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_502	0000000502	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_503	0000000503	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_504	0000000504	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_505	0000000505	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_506	0000000506	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_507	0000000507	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_508	0000000508	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_509	0000000509	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_51	0000000051	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_510	0000000510	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_511	0000000511	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_512	0000000512	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_513	0000000513	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_514	0000000514	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_515	0000000515	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_516	0000000516	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_517	0000000517	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_518	0000000518	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_519	0000000519	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_52	0000000052	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_520	0000000520	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_521	0000000521	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_522	0000000522	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_523	0000000523	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_524	0000000524	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_525	0000000525	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_526	0000000526	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_527	0000000527	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_528	0000000528	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_529	0000000529	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_53	0000000053	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_530	0000000530	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_531	0000000531	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_532	0000000532	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_533	0000000533	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_534	0000000534	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_535	0000000535	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_536	0000000536	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_537	0000000537	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_538	0000000538	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_539	0000000539	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_54	0000000054	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_540	0000000540	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_541	0000000541	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_542	0000000542	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_543	0000000543	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_544	0000000544	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_545	0000000545	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_546	0000000546	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_547	0000000547	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_548	0000000548	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_549	0000000549	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_55	0000000055	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_550	0000000550	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_551	0000000551	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_552	0000000552	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_553	0000000553	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_554	0000000554	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_56	0000000056	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_57	0000000057	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_58	0000000058	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_59	0000000059	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_6	0000000006	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_60	0000000060	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_61	0000000061	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_62	0000000062	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_63	0000000063	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_64	0000000064	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_65	0000000065	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_66	0000000066	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_67	0000000067	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_68	0000000068	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_69	0000000069	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_7	0000000007	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_70	0000000070	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_71	0000000071	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_72	0000000072	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_73	0000000073	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_74	0000000074	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_75	0000000075	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_76	0000000076	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_77	0000000077	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_78	0000000078	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_79	0000000079	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_8	0000000008	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_80	0000000080	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_81	0000000081	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_82	0000000082	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_83	0000000083	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_84	0000000084	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_85	0000000085	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_86	0000000086	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_87	0000000087	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_88	0000000088	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_89	0000000089	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_9	0000000009	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_90	0000000090	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_91	0000000091	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_92	0000000092	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_93	0000000093	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_94	0000000094	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_95	0000000095	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_96	0000000096	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_97	0000000097	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_98	0000000098	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig1	0000000001	1_99	0000000099	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig2	0000000002	2_1	0000000555	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_10	0000000564	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_100	0000000654	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_101	0000000655	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_102	0000000656	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_103	0000000657	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_104	0000000658	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_105	0000000659	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_106	0000000660	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_107	0000000661	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_108	0000000662	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_109	0000000663	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_11	0000000565	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_110	0000000664	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_111	0000000665	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_112	0000000666	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_113	0000000667	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_114	0000000668	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_115	0000000669	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_116	0000000670	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_117	0000000671	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_118	0000000672	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_119	0000000673	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_12	0000000566	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_120	0000000674	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_121	0000000675	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_122	0000000676	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_123	0000000677	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_124	0000000678	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_125	0000000679	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_126	0000000680	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_127	0000000681	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_128	0000000682	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_129	0000000683	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_13	0000000567	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_130	0000000684	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_131	0000000685	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_132	0000000686	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_133	0000000687	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_134	0000000688	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_135	0000000689	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_136	0000000690	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_137	0000000691	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_138	0000000692	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_139	0000000693	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_14	0000000568	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_140	0000000694	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_141	0000000695	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_142	0000000696	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_143	0000000697	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_144	0000000698	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_145	0000000699	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_146	0000000700	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_147	0000000701	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_148	0000000702	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_149	0000000703	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_15	0000000569	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_150	0000000704	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_151	0000000705	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_152	0000000706	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_153	0000000707	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_154	0000000708	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_155	0000000709	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_156	0000000710	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_157	0000000711	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_158	0000000712	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_159	0000000713	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_16	0000000570	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_160	0000000714	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_161	0000000715	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_162	0000000716	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_163	0000000717	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_164	0000000718	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_165	0000000719	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_166	0000000720	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_167	0000000721	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_168	0000000722	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_169	0000000723	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_17	0000000571	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_170	0000000724	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_171	0000000725	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_172	0000000726	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_173	0000000727	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_174	0000000728	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_175	0000000729	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_176	0000000730	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_177	0000000731	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_178	0000000732	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_179	0000000733	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_18	0000000572	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_180	0000000734	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_181	0000000735	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_182	0000000736	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_183	0000000737	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_184	0000000738	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_185	0000000739	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_186	0000000740	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_187	0000000741	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_188	0000000742	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_189	0000000743	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_19	0000000573	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_190	0000000744	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_191	0000000745	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_192	0000000746	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_193	0000000747	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_194	0000000748	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_195	0000000749	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_196	0000000750	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_197	0000000751	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_198	0000000752	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_199	0000000753	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_2	0000000556	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_20	0000000574	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_200	0000000754	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_201	0000000755	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_202	0000000756	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_203	0000000757	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_204	0000000758	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_205	0000000759	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_206	0000000760	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_207	0000000761	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_208	0000000762	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_209	0000000763	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_21	0000000575	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_210	0000000764	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_211	0000000765	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_212	0000000766	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_213	0000000767	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_214	0000000768	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_215	0000000769	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_216	0000000770	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_217	0000000771	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_218	0000000772	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_219	0000000773	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_22	0000000576	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_220	0000000774	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_221	0000000775	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_222	0000000776	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_223	0000000777	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_224	0000000778	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_225	0000000779	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_226	0000000780	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_227	0000000781	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_228	0000000782	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_229	0000000783	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_23	0000000577	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_230	0000000784	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_231	0000000785	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_232	0000000786	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_233	0000000787	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_234	0000000788	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_235	0000000789	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_236	0000000790	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_237	0000000791	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_238	0000000792	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_239	0000000793	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_24	0000000578	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_240	0000000794	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_241	0000000795	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_242	0000000796	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_243	0000000797	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_244	0000000798	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_245	0000000799	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_246	0000000800	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_247	0000000801	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_248	0000000802	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_249	0000000803	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_25	0000000579	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_250	0000000804	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_251	0000000805	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_252	0000000806	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_253	0000000807	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_254	0000000808	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_255	0000000809	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_256	0000000810	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_257	0000000811	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_258	0000000812	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_259	0000000813	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_26	0000000580	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_260	0000000814	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_261	0000000815	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_262	0000000816	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_263	0000000817	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_264	0000000818	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_265	0000000819	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_266	0000000820	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_267	0000000821	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_268	0000000822	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_269	0000000823	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_27	0000000581	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_270	0000000824	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_271	0000000825	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_272	0000000826	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_273	0000000827	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_274	0000000828	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_275	0000000829	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_276	0000000830	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_277	0000000831	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_278	0000000832	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_279	0000000833	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_28	0000000582	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_280	0000000834	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_281	0000000835	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_282	0000000836	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_283	0000000837	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_284	0000000838	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_285	0000000839	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_286	0000000840	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_287	0000000841	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_288	0000000842	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_289	0000000843	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_29	0000000583	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_290	0000000844	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_291	0000000845	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_292	0000000846	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_293	0000000847	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_294	0000000848	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_295	0000000849	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_296	0000000850	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_297	0000000851	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_298	0000000852	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_299	0000000853	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_3	0000000557	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_30	0000000584	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_300	0000000854	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_301	0000000855	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_302	0000000856	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_303	0000000857	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_304	0000000858	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_305	0000000859	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_306	0000000860	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_307	0000000861	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_308	0000000862	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_309	0000000863	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_31	0000000585	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_310	0000000864	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_311	0000000865	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_312	0000000866	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_313	0000000867	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_314	0000000868	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_315	0000000869	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_316	0000000870	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_317	0000000871	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_318	0000000872	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_319	0000000873	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_32	0000000586	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_320	0000000874	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_321	0000000875	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_322	0000000876	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_323	0000000877	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_324	0000000878	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_325	0000000879	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_326	0000000880	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_327	0000000881	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_328	0000000882	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_329	0000000883	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_33	0000000587	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_330	0000000884	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_331	0000000885	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_332	0000000886	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_333	0000000887	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_334	0000000888	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_335	0000000889	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_336	0000000890	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_337	0000000891	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_338	0000000892	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_339	0000000893	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_34	0000000588	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_340	0000000894	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_341	0000000895	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_342	0000000896	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_343	0000000897	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_344	0000000898	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_345	0000000899	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_346	0000000900	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_347	0000000901	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_348	0000000902	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_349	0000000903	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_35	0000000589	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_350	0000000904	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_351	0000000905	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_352	0000000906	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_353	0000000907	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_354	0000000908	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_355	0000000909	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_356	0000000910	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_357	0000000911	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_358	0000000912	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_359	0000000913	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_36	0000000590	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_360	0000000914	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_361	0000000915	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_362	0000000916	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_363	0000000917	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_364	0000000918	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_365	0000000919	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_366	0000000920	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_367	0000000921	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_368	0000000922	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_369	0000000923	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_37	0000000591	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_370	0000000924	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_371	0000000925	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_372	0000000926	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_373	0000000927	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_374	0000000928	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_375	0000000929	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_376	0000000930	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_377	0000000931	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_378	0000000932	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_379	0000000933	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_38	0000000592	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_380	0000000934	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_381	0000000935	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_382	0000000936	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_383	0000000937	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_384	0000000938	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_385	0000000939	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_386	0000000940	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_387	0000000941	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_388	0000000942	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_389	0000000943	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_39	0000000593	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_390	0000000944	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_391	0000000945	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_392	0000000946	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_393	0000000947	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_394	0000000948	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_395	0000000949	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_396	0000000950	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_397	0000000951	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_398	0000000952	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_399	0000000953	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_4	0000000558	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_40	0000000594	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_400	0000000954	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_401	0000000955	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_402	0000000956	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_403	0000000957	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_404	0000000958	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_405	0000000959	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_406	0000000960	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_407	0000000961	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_408	0000000962	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_409	0000000963	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_41	0000000595	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_410	0000000964	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_411	0000000965	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_412	0000000966	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_413	0000000967	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_414	0000000968	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_415	0000000969	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_416	0000000970	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_417	0000000971	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_418	0000000972	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_419	0000000973	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_42	0000000596	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_420	0000000974	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_421	0000000975	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_422	0000000976	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_423	0000000977	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_424	0000000978	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_425	0000000979	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_426	0000000980	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_427	0000000981	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_428	0000000982	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_429	0000000983	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_43	0000000597	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_430	0000000984	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_431	0000000985	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_432	0000000986	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_433	0000000987	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_434	0000000988	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_435	0000000989	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_436	0000000990	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_437	0000000991	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_438	0000000992	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_439	0000000993	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_44	0000000598	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_440	0000000994	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_441	0000000995	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_442	0000000996	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_443	0000000997	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_444	0000000998	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_445	0000000999	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_446	0000001000	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_447	0000001001	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_448	0000001002	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_449	0000001003	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_45	0000000599	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_450	0000001004	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_451	0000001005	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_452	0000001006	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_453	0000001007	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_454	0000001008	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_455	0000001009	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_456	0000001010	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_457	0000001011	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_458	0000001012	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_459	0000001013	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_46	0000000600	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_460	0000001014	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_461	0000001015	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_462	0000001016	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_463	0000001017	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_464	0000001018	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_465	0000001019	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_466	0000001020	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_467	0000001021	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_468	0000001022	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_469	0000001023	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_47	0000000601	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_470	0000001024	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_471	0000001025	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_472	0000001026	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_473	0000001027	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_474	0000001028	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_475	0000001029	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_476	0000001030	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_477	0000001031	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_478	0000001032	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_479	0000001033	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_48	0000000602	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_480	0000001034	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_481	0000001035	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_482	0000001036	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_483	0000001037	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_484	0000001038	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_485	0000001039	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_486	0000001040	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_487	0000001041	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_488	0000001042	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_489	0000001043	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_49	0000000603	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_490	0000001044	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_491	0000001045	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_492	0000001046	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_493	0000001047	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_494	0000001048	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_495	0000001049	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_496	0000001050	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_497	0000001051	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_498	0000001052	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_499	0000001053	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_5	0000000559	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_50	0000000604	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_500	0000001054	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_501	0000001055	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_502	0000001056	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_503	0000001057	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_504	0000001058	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_505	0000001059	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_506	0000001060	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_507	0000001061	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_508	0000001062	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_509	0000001063	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_51	0000000605	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_510	0000001064	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_511	0000001065	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_512	0000001066	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_513	0000001067	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_514	0000001068	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_515	0000001069	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_516	0000001070	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_517	0000001071	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_518	0000001072	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_519	0000001073	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_52	0000000606	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_520	0000001074	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_521	0000001075	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_522	0000001076	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_523	0000001077	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_524	0000001078	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_525	0000001079	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_526	0000001080	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_527	0000001081	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_528	0000001082	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_529	0000001083	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_53	0000000607	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_530	0000001084	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_531	0000001085	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_532	0000001086	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_533	0000001087	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_534	0000001088	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_535	0000001089	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_536	0000001090	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_537	0000001091	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_538	0000001092	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_539	0000001093	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_54	0000000608	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_540	0000001094	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_541	0000001095	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_542	0000001096	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_543	0000001097	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_544	0000001098	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_545	0000001099	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_546	0000001100	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_547	0000001101	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_548	0000001102	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_55	0000000609	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_56	0000000610	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_57	0000000611	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_58	0000000612	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_59	0000000613	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_6	0000000560	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_60	0000000614	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_61	0000000615	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_62	0000000616	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_63	0000000617	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_64	0000000618	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_65	0000000619	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_66	0000000620	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_67	0000000621	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_68	0000000622	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_69	0000000623	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_7	0000000561	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_70	0000000624	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_71	0000000625	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_72	0000000626	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_73	0000000627	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_74	0000000628	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_75	0000000629	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_76	0000000630	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_77	0000000631	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_78	0000000632	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_79	0000000633	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_8	0000000562	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_80	0000000634	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_81	0000000635	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_82	0000000636	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_83	0000000637	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_84	0000000638	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_85	0000000639	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_86	0000000640	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_87	0000000641	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_88	0000000642	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_89	0000000643	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_9	0000000563	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_90	0000000644	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_91	0000000645	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_92	0000000646	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_93	0000000647	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_94	0000000648	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_95	0000000649	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_96	0000000650	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_97	0000000651	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_98	0000000652	-	-	-	-	-	-	chromosome
+GCF_001267275_contig2	0000000002	2_99	0000000653	-	-	-	-	-	-	chromosome
+GCF_001267275_contig3	0000000003	3_1	0000001103	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_10	0000001112	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_100	0000001202	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_101	0000001203	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_102	0000001204	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_103	0000001205	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_104	0000001206	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_105	0000001207	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_106	0000001208	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_107	0000001209	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_108	0000001210	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_109	0000001211	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_11	0000001113	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_110	0000001212	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_111	0000001213	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_112	0000001214	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_113	0000001215	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_114	0000001216	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_115	0000001217	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_116	0000001218	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_117	0000001219	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_118	0000001220	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_119	0000001221	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_12	0000001114	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_120	0000001222	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_121	0000001223	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_122	0000001224	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_123	0000001225	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_124	0000001226	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_125	0000001227	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_126	0000001228	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_127	0000001229	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_128	0000001230	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_129	0000001231	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_13	0000001115	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_130	0000001232	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_131	0000001233	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_132	0000001234	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_133	0000001235	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_134	0000001236	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_135	0000001237	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_136	0000001238	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_137	0000001239	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_138	0000001240	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_139	0000001241	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_14	0000001116	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_140	0000001242	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_141	0000001243	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_142	0000001244	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_143	0000001245	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_144	0000001246	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_145	0000001247	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_146	0000001248	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_147	0000001249	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_148	0000001250	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_149	0000001251	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_15	0000001117	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_150	0000001252	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_151	0000001253	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_152	0000001254	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_153	0000001255	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_154	0000001256	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_155	0000001257	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_156	0000001258	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_157	0000001259	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_158	0000001260	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_159	0000001261	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_16	0000001118	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_160	0000001262	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_161	0000001263	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_162	0000001264	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_163	0000001265	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_164	0000001266	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_165	0000001267	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_166	0000001268	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_167	0000001269	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_168	0000001270	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_169	0000001271	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_17	0000001119	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_170	0000001272	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_171	0000001273	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_172	0000001274	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_173	0000001275	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_174	0000001276	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_175	0000001277	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_176	0000001278	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_177	0000001279	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_178	0000001280	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_179	0000001281	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_18	0000001120	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_180	0000001282	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_181	0000001283	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_182	0000001284	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_183	0000001285	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_184	0000001286	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_185	0000001287	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_186	0000001288	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_187	0000001289	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_188	0000001290	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_189	0000001291	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_19	0000001121	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_190	0000001292	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_191	0000001293	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_192	0000001294	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_193	0000001295	GOLS	n/a	multidrug	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem;phenicol antibiotic	antibiotic efflux	DeepARG	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_194	0000001296	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_195	0000001297	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_196	0000001298	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_197	0000001299	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_198	0000001300	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_199	0000001301	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_2	0000001104	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_20	0000001122	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_200	0000001302	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_201	0000001303	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_202	0000001304	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_203	0000001305	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_204	0000001306	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_205	0000001307	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_206	0000001308	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_207	0000001309	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_208	0000001310	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_209	0000001311	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_21	0000001123	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_210	0000001312	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_211	0000001313	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_212	0000001314	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_213	0000001315	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_214	0000001316	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_215	0000001317	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_216	0000001318	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_217	0000001319	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_218	0000001320	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_219	0000001321	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_22	0000001124	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_220	0000001322	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_221	0000001323	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_222	0000001324	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_223	0000001325	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_224	0000001326	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_225	0000001327	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_226	0000001328	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_227	0000001329	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_228	0000001330	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_229	0000001331	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_23	0000001125	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_230	0000001332	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_231	0000001333	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_232	0000001334	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_233	0000001335	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_234	0000001336	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_235	0000001337	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_236	0000001338	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_237	0000001339	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_238	0000001340	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_239	0000001341	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_24	0000001126	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_240	0000001342	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_241	0000001343	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_242	0000001344	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_243	0000001345	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_244	0000001346	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_245	0000001347	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_246	0000001348	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_247	0000001349	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_248	0000001350	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_249	0000001351	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_25	0000001127	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_250	0000001352	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_251	0000001353	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_252	0000001354	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_253	0000001355	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_254	0000001356	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_255	0000001357	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_256	0000001358	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_257	0000001359	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_258	0000001360	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_259	0000001361	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_26	0000001128	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_260	0000001362	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_261	0000001363	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_262	0000001364	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_263	0000001365	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_264	0000001366	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_265	0000001367	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_266	0000001368	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_267	0000001369	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_268	0000001370	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_269	0000001371	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_27	0000001129	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_270	0000001372	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_271	0000001373	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_272	0000001374	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_273	0000001375	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_274	0000001376	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_275	0000001377	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_276	0000001378	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_277	0000001379	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_278	0000001380	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_279	0000001381	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_28	0000001130	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_280	0000001382	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_281	0000001383	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_282	0000001384	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_283	0000001385	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_284	0000001386	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_285	0000001387	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_286	0000001388	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_287	0000001389	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_288	0000001390	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_289	0000001391	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_29	0000001131	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_290	0000001392	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_291	0000001393	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_292	0000001394	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_293	0000001395	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_294	0000001396	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_295	0000001397	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_296	0000001398	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_297	0000001399	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_298	0000001400	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_299	0000001401	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_3	0000001105	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_30	0000001132	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_300	0000001402	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_301	0000001403	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_302	0000001404	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_303	0000001405	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_304	0000001406	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_305	0000001407	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_306	0000001408	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_307	0000001409	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_308	0000001410	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_309	0000001411	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_31	0000001133	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_310	0000001412	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_311	0000001413	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_312	0000001414	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_313	0000001415	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_314	0000001416	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_315	0000001417	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_316	0000001418	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_317	0000001419	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_318	0000001420	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_319	0000001421	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_32	0000001134	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_320	0000001422	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_321	0000001423	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_322	0000001424	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_323	0000001425	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_324	0000001426	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_325	0000001427	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_326	0000001428	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_327	0000001429	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_328	0000001430	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_329	0000001431	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_33	0000001135	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_330	0000001432	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_331	0000001433	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_332	0000001434	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_333	0000001435	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_334	0000001436	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_335	0000001437	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_336	0000001438	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_337	0000001439	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_338	0000001440	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_339	0000001441	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_34	0000001136	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_340	0000001442	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_341	0000001443	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_342	0000001444	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_343	0000001445	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_344	0000001446	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_345	0000001447	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_346	0000001448	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_347	0000001449	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_348	0000001450	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_349	0000001451	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_35	0000001137	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_350	0000001452	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_351	0000001453	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_352	0000001454	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_353	0000001455	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_354	0000001456	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_355	0000001457	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_356	0000001458	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_357	0000001459	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_358	0000001460	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_359	0000001461	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_36	0000001138	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_360	0000001462	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_361	0000001463	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_362	0000001464	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_363	0000001465	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_364	0000001466	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_365	0000001467	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_366	0000001468	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_367	0000001469	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_368	0000001470	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_369	0000001471	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_37	0000001139	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_370	0000001472	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_371	0000001473	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_372	0000001474	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_373	0000001475	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_374	0000001476	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_375	0000001477	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_376	0000001478	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_377	0000001479	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_378	0000001480	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_379	0000001481	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_38	0000001140	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_380	0000001482	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_381	0000001483	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_382	0000001484	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_383	0000001485	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_384	0000001486	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_385	0000001487	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_386	0000001488	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_387	0000001489	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_388	0000001490	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_389	0000001491	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_39	0000001141	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_390	0000001492	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_391	0000001493	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_392	0000001494	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_393	0000001495	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_394	0000001496	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_395	0000001497	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_396	0000001498	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_397	0000001499	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_398	0000001500	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_399	0000001501	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_4	0000001106	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_40	0000001142	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_400	0000001502	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_401	0000001503	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_402	0000001504	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_403	0000001505	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_404	0000001506	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_405	0000001507	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_406	0000001508	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_407	0000001509	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_408	0000001510	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_409	0000001511	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_41	0000001143	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_410	0000001512	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_411	0000001513	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_412	0000001514	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_413	0000001515	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_414	0000001516	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_415	0000001517	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_416	0000001518	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_417	0000001519	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_418	0000001520	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_419	0000001521	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_42	0000001144	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_420	0000001522	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_421	0000001523	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_422	0000001524	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_423	0000001525	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_424	0000001526	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_425	0000001527	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_426	0000001528	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_427	0000001529	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_428	0000001530	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_429	0000001531	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_43	0000001145	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_430	0000001532	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_431	0000001533	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_432	0000001534	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_433	0000001535	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_434	0000001536	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_435	0000001537	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_436	0000001538	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_437	0000001539	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_438	0000001540	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_439	0000001541	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_44	0000001146	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_440	0000001542	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_441	0000001543	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_442	0000001544	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_443	0000001545	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_444	0000001546	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_445	0000001547	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_446	0000001548	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_447	0000001549	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_448	0000001550	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_449	0000001551	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_45	0000001147	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_450	0000001552	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_451	0000001553	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_452	0000001554	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_453	0000001555	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_454	0000001556	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_455	0000001557	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_456	0000001558	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_457	0000001559	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_458	0000001560	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_459	0000001561	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_46	0000001148	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_460	0000001562	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_461	0000001563	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_462	0000001564	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_463	0000001565	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_464	0000001566	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_465	0000001567	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_466	0000001568	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_467	0000001569	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_468	0000001570	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_469	0000001571	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_47	0000001149	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_470	0000001572	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_471	0000001573	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_472	0000001574	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_473	0000001575	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_474	0000001576	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_475	0000001577	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_476	0000001578	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_477	0000001579	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_478	0000001580	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_479	0000001581	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_48	0000001150	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_480	0000001582	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_481	0000001583	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_482	0000001584	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_483	0000001585	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_484	0000001586	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_485	0000001587	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_486	0000001588	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_487	0000001589	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_488	0000001590	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_489	0000001591	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_49	0000001151	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_490	0000001592	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_491	0000001593	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_492	0000001594	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_493	0000001595	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_494	0000001596	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_495	0000001597	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_496	0000001598	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_497	0000001599	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_498	0000001600	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_499	0000001601	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_5	0000001107	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_50	0000001152	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_500	0000001602	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_501	0000001603	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_502	0000001604	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_503	0000001605	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_504	0000001606	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_505	0000001607	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_506	0000001608	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_507	0000001609	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_508	0000001610	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_509	0000001611	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_51	0000001153	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_510	0000001612	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_511	0000001613	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_512	0000001614	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_513	0000001615	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_514	0000001616	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_515	0000001617	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_516	0000001618	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_517	0000001619	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_518	0000001620	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_519	0000001621	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_52	0000001154	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_520	0000001622	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_521	0000001623	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_522	0000001624	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_523	0000001625	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_524	0000001626	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_525	0000001627	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_526	0000001628	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_527	0000001629	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_528	0000001630	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_529	0000001631	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_53	0000001155	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_530	0000001632	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_531	0000001633	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_532	0000001634	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_533	0000001635	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_534	0000001636	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_535	0000001637	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_536	0000001638	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_537	0000001639	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_538	0000001640	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_539	0000001641	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_54	0000001156	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_540	0000001642	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_541	0000001643	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_542	0000001644	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_543	0000001645	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_544	0000001646	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_545	0000001647	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_546	0000001648	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_547	0000001649	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_548	0000001650	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_549	0000001651	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_55	0000001157	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_550	0000001652	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_56	0000001158	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_57	0000001159	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_58	0000001160	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_59	0000001161	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_6	0000001108	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_60	0000001162	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_61	0000001163	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_62	0000001164	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_63	0000001165	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_64	0000001166	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_65	0000001167	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_66	0000001168	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_67	0000001169	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_68	0000001170	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_69	0000001171	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_7	0000001109	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_70	0000001172	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_71	0000001173	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_72	0000001174	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_73	0000001175	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_74	0000001176	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_75	0000001177	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_76	0000001178	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_77	0000001179	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_78	0000001180	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_79	0000001181	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_8	0000001110	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_80	0000001182	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_81	0000001183	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_82	0000001184	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_83	0000001185	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_84	0000001186	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_85	0000001187	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_86	0000001188	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_87	0000001189	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_88	0000001190	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_89	0000001191	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_9	0000001111	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_90	0000001192	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_91	0000001193	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_92	0000001194	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_93	0000001195	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_94	0000001196	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_95	0000001197	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_96	0000001198	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_97	0000001199	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_98	0000001200	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig3	0000000003	3_99	0000001201	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_1	0000001653	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_10	0000001662	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_100	0000001752	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_101	0000001753	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_102	0000001754	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_103	0000001755	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_104	0000001756	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_105	0000001757	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_106	0000001758	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_107	0000001759	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_108	0000001760	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_109	0000001761	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_11	0000001663	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_110	0000001762	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_111	0000001763	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_112	0000001764	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_113	0000001765	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_114	0000001766	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_115	0000001767	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_116	0000001768	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_117	0000001769	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_118	0000001770	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_119	0000001771	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_12	0000001664	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_120	0000001772	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_121	0000001773	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_122	0000001774	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_123	0000001775	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_124	0000001776	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_125	0000001777	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_126	0000001778	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_127	0000001779	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_128	0000001780	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_129	0000001781	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_13	0000001665	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_130	0000001782	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_131	0000001783	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_132	0000001784	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_133	0000001785	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_134	0000001786	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_135	0000001787	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_136	0000001788	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_137	0000001789	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_138	0000001790	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_139	0000001791	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_14	0000001666	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_140	0000001792	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_141	0000001793	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_142	0000001794	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_143	0000001795	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_144	0000001796	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_145	0000001797	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_146	0000001798	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_147	0000001799	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_148	0000001800	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_149	0000001801	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_15	0000001667	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_150	0000001802	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_151	0000001803	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_152	0000001804	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_153	0000001805	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_154	0000001806	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_155	0000001807	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_156	0000001808	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_157	0000001809	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_158	0000001810	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_159	0000001811	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_16	0000001668	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_160	0000001812	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_161	0000001813	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_162	0000001814	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_163	0000001815	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_164	0000001816	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_165	0000001817	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_166	0000001818	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_167	0000001819	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_168	0000001820	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_169	0000001821	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_17	0000001669	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_170	0000001822	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_171	0000001823	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_172	0000001824	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_173	0000001825	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_174	0000001826	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_175	0000001827	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_176	0000001828	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_177	0000001829	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_178	0000001830	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_179	0000001831	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_18	0000001670	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_180	0000001832	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_181	0000001833	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_182	0000001834	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_183	0000001835	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_184	0000001836	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_185	0000001837	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_186	0000001838	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_187	0000001839	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_188	0000001840	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_189	0000001841	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_19	0000001671	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_190	0000001842	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_191	0000001843	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_192	0000001844	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_193	0000001845	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_194	0000001846	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_195	0000001847	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_196	0000001848	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_197	0000001849	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_198	0000001850	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_199	0000001851	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_2	0000001654	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_20	0000001672	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_200	0000001852	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_201	0000001853	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_202	0000001854	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_203	0000001855	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_204	0000001856	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_205	0000001857	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_206	0000001858	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_207	0000001859	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_208	0000001860	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_209	0000001861	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_21	0000001673	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_210	0000001862	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_211	0000001863	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_212	0000001864	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_213	0000001865	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_214	0000001866	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_215	0000001867	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_216	0000001868	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_217	0000001869	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_218	0000001870	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_219	0000001871	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_22	0000001674	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_220	0000001872	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_221	0000001873	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_222	0000001874	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_223	0000001875	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_224	0000001876	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_225	0000001877	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_226	0000001878	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_227	0000001879	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_228	0000001880	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_229	0000001881	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_23	0000001675	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_230	0000001882	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_231	0000001883	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_232	0000001884	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_233	0000001885	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_234	0000001886	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_235	0000001887	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_236	0000001888	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_237	0000001889	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_238	0000001890	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_239	0000001891	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_24	0000001676	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_240	0000001892	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_241	0000001893	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_242	0000001894	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_243	0000001895	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_244	0000001896	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_245	0000001897	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_246	0000001898	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_247	0000001899	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_248	0000001900	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_249	0000001901	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_25	0000001677	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_250	0000001902	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_251	0000001903	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_252	0000001904	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_253	0000001905	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_254	0000001906	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_255	0000001907	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_256	0000001908	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_257	0000001909	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_258	0000001910	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_259	0000001911	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_26	0000001678	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_260	0000001912	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_261	0000001913	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_262	0000001914	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_263	0000001915	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_264	0000001916	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_265	0000001917	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_266	0000001918	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_267	0000001919	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_268	0000001920	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_269	0000001921	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_27	0000001679	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_270	0000001922	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_271	0000001923	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_272	0000001924	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_273	0000001925	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_274	0000001926	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_275	0000001927	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_276	0000001928	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_277	0000001929	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_278	0000001930	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_279	0000001931	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_28	0000001680	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_280	0000001932	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_281	0000001933	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_282	0000001934	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_283	0000001935	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_284	0000001936	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_285	0000001937	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_286	0000001938	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_287	0000001939	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_288	0000001940	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_289	0000001941	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_29	0000001681	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_290	0000001942	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_291	0000001943	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_292	0000001944	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_293	0000001945	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_294	0000001946	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_295	0000001947	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_296	0000001948	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_297	0000001949	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_298	0000001950	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_299	0000001951	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_3	0000001655	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_30	0000001682	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_300	0000001952	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_301	0000001953	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_302	0000001954	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_303	0000001955	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_304	0000001956	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_305	0000001957	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_306	0000001958	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_307	0000001959	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_308	0000001960	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_309	0000001961	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_31	0000001683	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_310	0000001962	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_311	0000001963	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_312	0000001964	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_313	0000001965	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_314	0000001966	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_315	0000001967	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_316	0000001968	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_317	0000001969	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_318	0000001970	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_319	0000001971	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_32	0000001684	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_320	0000001972	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_321	0000001973	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_322	0000001974	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_323	0000001975	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_324	0000001976	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_325	0000001977	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_326	0000001978	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_327	0000001979	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_328	0000001980	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_329	0000001981	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_33	0000001685	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_330	0000001982	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_331	0000001983	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_332	0000001984	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_333	0000001985	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_334	0000001986	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_335	0000001987	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_336	0000001988	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_337	0000001989	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_338	0000001990	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_339	0000001991	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_34	0000001686	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_340	0000001992	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_341	0000001993	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_342	0000001994	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_343	0000001995	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_344	0000001996	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_345	0000001997	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_346	0000001998	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_347	0000001999	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_348	0000002000	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_349	0000002001	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_35	0000001687	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_350	0000002002	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_351	0000002003	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_352	0000002004	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_353	0000002005	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_354	0000002006	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_355	0000002007	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_356	0000002008	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_357	0000002009	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_358	0000002010	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_359	0000002011	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_36	0000001688	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_360	0000002012	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_361	0000002013	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_362	0000002014	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_363	0000002015	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_364	0000002016	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_365	0000002017	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_366	0000002018	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_367	0000002019	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_368	0000002020	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_369	0000002021	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_37	0000001689	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_370	0000002022	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_371	0000002023	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_372	0000002024	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_373	0000002025	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_374	0000002026	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_375	0000002027	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_376	0000002028	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_377	0000002029	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_378	0000002030	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_379	0000002031	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_38	0000001690	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_380	0000002032	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_381	0000002033	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_382	0000002034	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_383	0000002035	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_384	0000002036	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_385	0000002037	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_386	0000002038	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_387	0000002039	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_388	0000002040	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_389	0000002041	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_39	0000001691	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_390	0000002042	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_391	0000002043	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_392	0000002044	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_393	0000002045	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_394	0000002046	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_395	0000002047	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_396	0000002048	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_397	0000002049	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_398	0000002050	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_399	0000002051	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_4	0000001656	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_40	0000001692	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_400	0000002052	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_401	0000002053	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_402	0000002054	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_403	0000002055	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_404	0000002056	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_405	0000002057	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_406	0000002058	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_407	0000002059	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_408	0000002060	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_409	0000002061	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_41	0000001693	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_410	0000002062	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_411	0000002063	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_412	0000002064	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_413	0000002065	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_414	0000002066	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_415	0000002067	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_416	0000002068	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_417	0000002069	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_418	0000002070	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_419	0000002071	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_42	0000001694	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_420	0000002072	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_421	0000002073	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_422	0000002074	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_423	0000002075	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_424	0000002076	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_425	0000002077	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_426	0000002078	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_427	0000002079	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_428	0000002080	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_429	0000002081	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_43	0000001695	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_430	0000002082	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_431	0000002083	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_432	0000002084	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_433	0000002085	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_434	0000002086	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_435	0000002087	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_436	0000002088	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_437	0000002089	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_438	0000002090	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_439	0000002091	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_44	0000001696	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_440	0000002092	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_441	0000002093	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_442	0000002094	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_443	0000002095	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_444	0000002096	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_445	0000002097	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_446	0000002098	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_447	0000002099	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_448	0000002100	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_449	0000002101	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_45	0000001697	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_450	0000002102	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_451	0000002103	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_452	0000002104	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_453	0000002105	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_454	0000002106	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_455	0000002107	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_456	0000002108	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_457	0000002109	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_458	0000002110	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_459	0000002111	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_46	0000001698	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_460	0000002112	BACA	n/a	bacitracin	peptide antibiotic	antibiotic target alteration	DeepARG	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_461	0000002113	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_462	0000002114	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_463	0000002115	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_464	0000002116	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_465	0000002117	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_466	0000002118	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_467	0000002119	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_468	0000002120	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_469	0000002121	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_47	0000001699	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_470	0000002122	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_471	0000002123	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_472	0000002124	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_473	0000002125	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_474	0000002126	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_475	0000002127	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_476	0000002128	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_477	0000002129	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_478	0000002130	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_479	0000002131	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_48	0000001700	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_480	0000002132	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_481	0000002133	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_482	0000002134	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_483	0000002135	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_484	0000002136	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_485	0000002137	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_486	0000002138	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_487	0000002139	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_488	0000002140	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_489	0000002141	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_49	0000001701	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_490	0000002142	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_491	0000002143	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_492	0000002144	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_493	0000002145	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_494	0000002146	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_495	0000002147	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_496	0000002148	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_497	0000002149	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_498	0000002150	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_499	0000002151	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_5	0000001657	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_50	0000001702	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_500	0000002152	KASUGAMYCIN_RESISTANCE_PROTEIN_KSGA	n/a	aminoglycoside	aminoglycoside antibiotic	-	DeepARG	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_501	0000002153	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_502	0000002154	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_503	0000002155	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_504	0000002156	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_505	0000002157	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_506	0000002158	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_507	0000002159	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_508	0000002160	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_509	0000002161	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_51	0000001703	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_510	0000002162	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_511	0000002163	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_512	0000002164	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_513	0000002165	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_514	0000002166	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_515	0000002167	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_516	0000002168	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_517	0000002169	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_518	0000002170	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_519	0000002171	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_52	0000001704	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_520	0000002172	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_521	0000002173	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_522	0000002174	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_523	0000002175	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_524	0000002176	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_525	0000002177	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_526	0000002178	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_527	0000002179	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_528	0000002180	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_529	0000002181	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_53	0000001705	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_530	0000002182	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_531	0000002183	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_532	0000002184	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_533	0000002185	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_534	0000002186	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_535	0000002187	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_536	0000002188	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_537	0000002189	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_538	0000002190	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_539	0000002191	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_54	0000001706	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_540	0000002192	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_541	0000002193	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_542	0000002194	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_543	0000002195	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_544	0000002196	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_545	0000002197	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_546	0000002198	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_547	0000002199	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_548	0000002200	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_549	0000002201	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_55	0000001707	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_550	0000002202	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_551	0000002203	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_552	0000002204	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_553	0000002205	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_554	0000002206	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_555	0000002207	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_556	0000002208	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_557	0000002209	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_558	0000002210	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_559	0000002211	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_56	0000001708	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_560	0000002212	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_561	0000002213	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_562	0000002214	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_563	0000002215	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_564	0000002216	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_565	0000002217	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_566	0000002218	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_567	0000002219	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_568	0000002220	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_569	0000002221	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_57	0000001709	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_570	0000002222	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_571	0000002223	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_572	0000002224	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_573	0000002225	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_574	0000002226	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_575	0000002227	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_576	0000002228	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_577	0000002229	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_578	0000002230	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_579	0000002231	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_58	0000001710	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_580	0000002232	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_581	0000002233	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_582	0000002234	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_583	0000002235	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_584	0000002236	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_585	0000002237	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_59	0000001711	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_6	0000001658	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_60	0000001712	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_61	0000001713	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_62	0000001714	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_63	0000001715	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_64	0000001716	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_65	0000001717	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_66	0000001718	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_67	0000001719	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_68	0000001720	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_69	0000001721	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_7	0000001659	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_70	0000001722	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_71	0000001723	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_72	0000001724	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_73	0000001725	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_74	0000001726	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_75	0000001727	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_76	0000001728	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_77	0000001729	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_78	0000001730	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_79	0000001731	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_8	0000001660	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_80	0000001732	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_81	0000001733	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_82	0000001734	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_83	0000001735	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_84	0000001736	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_85	0000001737	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_86	0000001738	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_87	0000001739	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_88	0000001740	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_89	0000001741	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_9	0000001661	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_90	0000001742	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_91	0000001743	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_92	0000001744	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_93	0000001745	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_94	0000001746	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_95	0000001747	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_96	0000001748	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_97	0000001749	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_98	0000001750	-	-	-	-	-	-	ambiguous (phage/chromosome)
+GCF_001267275_contig4	0000000004	4_99	0000001751	-	-	-	-	-	-	ambiguous (phage/chromosome)

@@ -1,0 +1,3 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+NZ_JACANB010000003.1|provirus_245263_253142	7880	Provirus	245263-253142	13	11	0.9585	NA	4	11.8922	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+NZ_JACANB010000008.1|provirus_23582_71415	47834	Provirus	23582-71415	64	11	0.9563	NA	11	55.7967	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes

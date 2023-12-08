@@ -1,0 +1,2 @@
+contig_id	contig_length	viral_length	aai_expected_length	aai_completeness	aai_confidence	aai_error	aai_num_hits	aai_top_hit	aai_id	aai_af	hmm_completeness_lower	hmm_completeness_upper	hmm_num_hits	kmer_freq
+NZ_JACAND010000026.1	15177	NA	302416.8126541153	5.018570186889201	medium	8.19045947082916	93	DTR_315631	40.9	27.56	79.3107736533739	85.99222028141055	3	1.0

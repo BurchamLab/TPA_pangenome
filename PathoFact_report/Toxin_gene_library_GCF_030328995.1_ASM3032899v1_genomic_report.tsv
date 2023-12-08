@@ -1,0 +1,40 @@
+ORF_ID	ORF	HMM_Name	Score	Significance_evalue	NAME	Alternative_name	Database	Description
+0000000103	2_50	K10816_8	43.9	1.5e-12	hcnC	-	KEGG	hydrogen cyanide synthase HcnC [EC:1.4.99.5]
+0000000194	4_25	PF00675.15	103	1.8e-30	Peptidase_M16	-	PFAM	Insulinase (Peptidase family M16)
+0000000345	7_18	PF00903.20	92.1	3.9e-27	Glyoxalase	-	PFAM	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+0000000471	9_41	PF03372.18	63.9	3.2e-18	Exo_endo_phos	-	PFAM	Endonuclease/Exonuclease/phosphatase family
+0000000487	10_15	PF00675.15	79.1	4.2e-23	Peptidase_M16	-	PFAM	Insulinase (Peptidase family M16)
+0000000487	10_15	K06972_355	53.9	8.8e-16	PITRM1, PreP, CYM1	-	KEGG	presequence protease [EC:3.4.24.-]
+0000000487	10_15	PF05193.16	110.8	9.4e-33	Peptidase_M16_C	-	PFAM	Peptidase M16 inactive domain
+0000000488	10_16	K06972_355	60.6	8.4e-18	PITRM1, PreP, CYM1	-	KEGG	presequence protease [EC:3.4.24.-]
+0000000488	10_16	PF05193.16	117.2	9.9e-35	Peptidase_M16_C	-	PFAM	Peptidase M16 inactive domain
+0000000488	10_16	PF00675.15	40.3	3.9e-11	Peptidase_M16	-	PFAM	Insulinase (Peptidase family M16)
+0000000766	11_256	PF00873.14	538.5	3.5e-162	ACR_tran	-	PFAM	AcrB/AcrD/AcrF family
+0000000784	11_274	K11022_5	113.6	6e-34	rtxA1	-	KEGG	structural toxin protein (hemagglutinin\/hemolysin) RtxA
+0000000864	12_29	K03699_483	259.4	5.8e-78	tlyC	-	KEGG	putative hemolysin
+0000000867	12_32	K12340_892	413.5	1.1e-124	tolC	-	KEGG	outer membrane protein
+0000001026	18_4	K10954_66	183	1.7e-54	zot	-	KEGG	zona occludens toxin
+0000001097	22_16	PF13091.1	119.4	1.1e-35	PLDc_2	-	PFAM	PLD-like domain
+0000001226	22_145	K03699_483	350.8	1.1e-105	tlyC	-	KEGG	putative hemolysin
+0000001298	22_217	PF13950.1	109.8	6.7e-33	Epimerase_Csub	-	PFAM	UDP-glucose 4-epimerase C-term subunit
+0000001303	22_222	PF00881.19	77.8	1.3e-22	Nitroreductase	-	PFAM	Nitroreductase family
+0000001361	23_3	PF01636.18	84.7	1.2e-24	APH	-	PFAM	Phosphotransferase enzyme family
+0000001391	33_1	PF00881.19	82.1	5.9e-24	Nitroreductase	-	PFAM	Nitroreductase family
+0000001499	33_109	PF01636.18	101.6	8.4e-30	APH	-	PFAM	Phosphotransferase enzyme family
+0000001569	33_179	PF13091.1	51.6	1.1e-14	PLDc_2	-	PFAM	PLD-like domain
+0000001594	35_1	PF01636.18	111.7	6.6e-33	APH	-	PFAM	Phosphotransferase enzyme family
+0000001601	39_1	PF01909.18	42.1	1.3e-11	NTP_transf_2	-	PFAM	Nucleotidyltransferase domain
+0000001609	43_3	K12340_892	164.5	4.1e-49	tolC	-	KEGG	outer membrane protein
+0000001755	43_149	K12340_892	125.7	2.5e-37	tolC	-	KEGG	outer membrane protein
+0000001812	52_40	PF00717.18	77.7	6e-23	Peptidase_S24	-	PFAM	Peptidase S24-like
+0000001874	52_102	PF00717.18	65.4	4e-19	Peptidase_S24	-	PFAM	Peptidase S24-like
+0000001887	52_115	PF03372.18	101.9	8.2e-30	Exo_endo_phos	-	PFAM	Endonuclease/Exonuclease/phosphatase family
+0000001965	57_18	PF00873.14	1359.5	0	ACR_tran	-	PFAM	AcrB/AcrD/AcrF family
+0000001966	57_19	K12340_892	186	1.3e-55	tolC	-	KEGG	outer membrane protein
+0000002091	57_144	K11068_1278_95_625	232.9	3.4e-70	hlyIII	-	KEGG	hemolysin III
+0000002093	57_146	PF13091.1	123.3	7.2e-37	PLDc_2	-	PFAM	PLD-like domain
+0000002107	57_160	PF00881.19	108.5	4.6e-32	Nitroreductase	-	PFAM	Nitroreductase family
+0000002143	58_30	PF01636.18	122.6	3.2e-36	APH	-	PFAM	Phosphotransferase enzyme family
+0000002302	60_35	K12340_892	202.7	1.1e-60	tolC	-	KEGG	outer membrane protein
+0000002303	60_36	PF00873.14	1023.3	0	ACR_tran	-	PFAM	AcrB/AcrD/AcrF family
+0000002304	60_37	PF00873.14	1060.4	0	ACR_tran	-	PFAM	AcrB/AcrD/AcrF family

@@ -1,0 +1,2441 @@
+ORF	ORF_ID	Virulence_HMM_prediction	Virulence_classifier_prediction	Virulence_prediction	Signal_peptide	Virulence_confidence_level				Virulence_confidence_level	count
+1_2	2	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor				4: Potential Non-secreted Virulence factor	944
+1_3	3	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor				3: Potential Secreted Virulence factor	172
+1_4	4	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor				2: Non-secreted Virulence factor	404
+1_5	5	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor				1: Secreted Virulence factor	146
+1_7	7	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor				-	
+1_9	9	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+1_19	19	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+1_20	20	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+1_24	24	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+1_31	31	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+1_35	35	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_1	39	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_3	41	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_4	42	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_8	46	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_9	47	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_11	49	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_12	50	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_13	51	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_14	52	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_15	53	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_17	55	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_18	56	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_19	57	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_20	58	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_21	59	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_22	60	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_26	64	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+2_27	65	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+3_1	66	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+3_4	69	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+3_6	71	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+3_12	77	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+3_15	80	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+3_16	81	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+3_23	88	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+4_1	90	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+4_2	91	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+4_5	94	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+4_10	99	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+4_14	103	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+4_15	104	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+4_16	105	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_1	108	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_4	111	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_6	113	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_7	114	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_9	116	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_10	117	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_11	118	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_17	124	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_22	129	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+5_25	132	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+6_12	160	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+7_1	162	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+7_9	170	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+7_11	172	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+7_12	173	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+8_3	176	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+8_4	177	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+8_10	183	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_1	185	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_3	187	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_4	188	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_8	192	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_11	195	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_13	197	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_14	198	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_15	199	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+9_16	200	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+10_1	201	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+10_6	206	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+10_8	208	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+10_10	210	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_7	217	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_8	218	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_11	221	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_12	222	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_14	224	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_15	225	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_24	234	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_25	235	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_26	236	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_27	237	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_28	238	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_32	242	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_34	244	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_35	245	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_40	250	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_41	251	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_43	253	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_44	254	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_47	257	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_48	258	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_49	259	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_50	260	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_51	261	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_52	262	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_60	270	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_62	272	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_63	273	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_64	274	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_76	286	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_78	288	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_84	294	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_86	296	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_89	299	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_90	300	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_97	307	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_101	311	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_102	312	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_104	314	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_105	315	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_110	320	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_113	323	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_114	324	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_116	326	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_117	327	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_119	329	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_122	332	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_123	333	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_132	342	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_136	346	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_144	354	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_146	356	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_147	357	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_150	360	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_153	363	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_154	364	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_155	365	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_158	368	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_159	369	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_165	375	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_168	378	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_169	379	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_170	380	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_171	381	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_174	384	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_178	388	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_180	390	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_183	393	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_188	398	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_189	399	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_190	400	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_192	402	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_198	408	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_199	409	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_200	410	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_207	417	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_209	419	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_212	422	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_216	426	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_217	427	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_218	428	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_219	429	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_225	435	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_229	439	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_238	448	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_241	451	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_243	453	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_244	454	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_245	455	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_246	456	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_247	457	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_251	461	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_256	466	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_257	467	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_261	471	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_262	472	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_266	476	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_269	479	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_276	486	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_277	487	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_281	491	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_283	493	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_284	494	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_287	497	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_293	503	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_296	506	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_299	509	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_301	511	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_302	512	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_304	514	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_309	519	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_310	520	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_311	521	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_312	522	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_316	526	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_318	528	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_319	529	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_320	530	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_321	531	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_322	532	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_326	536	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_327	537	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_329	539	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_333	543	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_338	548	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_340	550	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_346	556	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_348	558	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_352	562	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_353	563	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_354	564	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_360	570	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_361	571	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_363	573	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_364	574	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_366	576	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_367	577	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_369	579	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_375	585	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_376	586	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_378	588	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_379	589	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_387	597	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_388	598	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_390	600	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_392	602	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_393	603	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_401	611	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_402	612	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_407	617	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_409	619	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_413	623	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_416	626	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_417	627	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_419	629	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_424	634	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_433	643	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_435	645	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_437	647	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_438	648	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_439	649	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_440	650	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_442	652	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_445	655	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_448	658	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_449	659	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_452	662	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_455	665	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_456	666	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_459	669	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_462	672	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_464	674	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_467	677	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_475	685	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_479	689	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_480	690	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_481	691	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_484	694	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_488	698	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_495	705	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_496	706	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_502	712	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_509	719	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_511	721	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_512	722	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_519	729	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_520	730	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_521	731	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_526	736	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_528	738	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_539	749	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_540	750	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_541	751	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_542	752	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_543	753	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_545	755	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_549	759	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_551	761	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+11_552	762	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+12_1	766	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+12_2	767	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+12_3	768	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+12_4	769	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+12_6	771	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+12_7	772	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+13_3	777	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+13_4	778	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+13_5	779	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+14_5	784	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+17_1	792	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+17_4	795	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+19_2	798	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+20_3	803	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+21_2	805	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_5	810	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_15	820	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_20	825	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_28	833	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_29	834	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_30	835	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_36	841	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_37	842	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_40	845	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_41	846	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_45	850	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_47	852	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_48	853	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_49	854	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_52	857	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_54	859	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_63	868	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_64	869	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_65	870	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_68	873	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_70	875	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_71	876	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_72	877	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_75	880	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_76	881	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_77	882	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_80	885	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_84	889	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_85	890	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_91	896	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_93	898	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_96	901	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_97	902	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_99	904	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_100	905	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_101	906	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_102	907	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_103	908	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_104	909	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_105	910	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_106	911	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_108	913	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_109	914	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_115	920	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_116	921	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_117	922	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_118	923	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_119	924	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_123	928	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_126	931	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_128	933	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_130	935	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_134	939	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_135	940	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_142	947	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_143	948	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_145	950	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_146	951	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_149	954	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_150	955	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_152	957	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_155	960	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_158	963	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_162	967	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_163	968	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_168	973	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_170	975	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_177	982	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_190	995	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_193	998	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_197	1002	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_198	1003	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_200	1005	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_202	1007	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_203	1008	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_209	1014	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_210	1015	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_214	1019	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_217	1022	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_221	1026	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_222	1027	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_229	1034	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_230	1035	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_232	1037	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_233	1038	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_234	1039	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_238	1043	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_242	1047	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_243	1048	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_248	1053	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_251	1056	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_254	1059	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_257	1062	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_259	1064	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_260	1065	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_264	1069	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_268	1073	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_275	1080	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_276	1081	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_278	1083	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_280	1085	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_282	1087	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_284	1089	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_286	1091	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_291	1096	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_294	1099	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_295	1100	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_296	1101	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_306	1111	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_307	1112	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_320	1125	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_321	1126	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_322	1127	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_323	1128	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_324	1129	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_325	1130	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_327	1132	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_330	1135	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_331	1136	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_339	1144	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_340	1145	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_342	1147	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_343	1148	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_346	1151	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_349	1154	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_350	1155	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_352	1157	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_354	1159	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_359	1164	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_360	1165	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_361	1166	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_365	1170	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_368	1173	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_370	1175	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_374	1179	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_379	1184	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_381	1186	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_386	1191	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_387	1192	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_388	1193	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_389	1194	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_391	1196	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_395	1200	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_396	1201	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_397	1202	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_399	1204	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_401	1206	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_403	1208	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_405	1210	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_407	1212	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_409	1214	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_416	1221	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_418	1223	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_423	1228	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_424	1229	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_427	1232	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_431	1236	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_434	1239	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_437	1242	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_439	1244	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_441	1246	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_442	1247	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_445	1250	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_446	1251	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_447	1252	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_448	1253	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_451	1256	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_452	1257	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_455	1260	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_458	1263	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_463	1268	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_464	1269	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_466	1271	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_470	1275	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_471	1276	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+22_473	1278	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+24_1	1283	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+26_1	1287	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+26_2	1288	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+27_1	1289	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+28_1	1290	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+30_1	1293	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_1	1296	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_6	1301	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_11	1306	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_13	1308	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_17	1312	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_21	1316	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_25	1320	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_31	1326	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_32	1327	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_39	1334	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_40	1335	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_42	1337	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_43	1338	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_45	1340	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_46	1341	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_47	1342	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_49	1344	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_54	1349	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_55	1350	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_56	1351	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_57	1352	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_61	1356	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_65	1360	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_72	1367	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_73	1368	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_74	1369	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_80	1375	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_87	1382	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_88	1383	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_90	1385	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_91	1386	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_92	1387	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_93	1388	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_94	1389	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_97	1392	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_101	1396	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_103	1398	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_105	1400	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_108	1403	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_110	1405	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_111	1406	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_114	1409	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_115	1410	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_117	1412	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_118	1413	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_120	1415	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_121	1416	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_122	1417	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_123	1418	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_124	1419	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_125	1420	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_128	1423	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_130	1425	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_131	1426	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_132	1427	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_135	1430	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_137	1432	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_140	1435	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_141	1436	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_143	1438	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_148	1443	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_149	1444	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_150	1445	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_151	1446	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_155	1450	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_158	1453	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_160	1455	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_169	1464	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_172	1467	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_175	1470	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_177	1472	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_178	1473	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_179	1474	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_185	1480	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_189	1484	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_190	1485	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_194	1489	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_195	1490	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_197	1492	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_203	1498	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_204	1499	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_207	1502	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_208	1503	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_210	1505	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_211	1506	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_213	1508	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_215	1510	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_219	1514	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_220	1515	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_223	1518	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_231	1526	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_237	1532	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_238	1533	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_239	1534	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_241	1536	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_242	1537	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_243	1538	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_247	1542	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_248	1543	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_250	1545	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_251	1546	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_252	1547	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_253	1548	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_256	1551	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_257	1552	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_259	1554	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_261	1556	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_264	1559	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_266	1561	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_273	1568	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_276	1571	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_287	1582	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_288	1583	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_291	1586	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_292	1587	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_293	1588	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_295	1590	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_298	1593	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_299	1594	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_300	1595	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_301	1596	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_307	1602	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_308	1603	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_309	1604	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_312	1607	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_313	1608	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_314	1609	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_315	1610	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_316	1611	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_317	1612	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_318	1613	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_326	1621	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_327	1622	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_329	1624	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+33_330	1625	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_1	1628	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_3	1630	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_8	1635	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_12	1639	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_13	1640	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_14	1641	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_19	1646	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_20	1647	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_23	1650	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_24	1651	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_28	1655	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_29	1656	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_32	1659	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_33	1660	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_43	1670	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_45	1672	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_48	1675	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_49	1676	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_51	1678	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_52	1679	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_55	1682	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_63	1690	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_64	1691	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_65	1692	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_69	1696	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_71	1698	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_72	1699	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_73	1700	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_74	1701	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_75	1702	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_77	1704	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_79	1706	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_81	1708	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_82	1709	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_83	1710	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_84	1711	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_87	1714	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_88	1715	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_90	1717	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_92	1719	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_100	1727	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_103	1730	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_107	1734	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_111	1738	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_114	1741	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_115	1742	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_119	1746	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_121	1748	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_122	1749	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_123	1750	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_127	1754	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_135	1762	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_141	1768	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_143	1770	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_148	1775	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_150	1777	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_153	1780	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_156	1783	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_164	1791	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_165	1792	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_169	1796	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_170	1797	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_176	1803	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_178	1805	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_180	1807	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_181	1808	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_183	1810	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_184	1811	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_187	1814	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_188	1815	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_189	1816	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_190	1817	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_191	1818	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_192	1819	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_194	1821	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_195	1822	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_196	1823	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_197	1824	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_200	1827	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_201	1828	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_202	1829	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_203	1830	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_204	1831	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_207	1834	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_210	1837	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_211	1838	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_212	1839	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_218	1845	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_221	1848	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_222	1849	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_226	1853	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_227	1854	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_232	1859	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_233	1860	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_234	1861	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_235	1862	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_239	1866	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_241	1868	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_242	1869	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_244	1871	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_248	1875	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_249	1876	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_251	1878	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_252	1879	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_256	1883	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_257	1884	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_259	1886	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_260	1887	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_261	1888	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_268	1895	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_270	1897	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_271	1898	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_272	1899	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_274	1901	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_277	1904	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_279	1906	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_281	1908	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_284	1911	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_285	1912	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_288	1915	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+35_289	1916	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_6	1922	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_8	1924	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_9	1925	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_10	1926	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_11	1927	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_15	1931	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_16	1932	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_17	1933	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_18	1934	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_19	1935	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_20	1936	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_21	1937	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_22	1938	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_25	1941	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_26	1942	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_28	1944	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_31	1947	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_32	1948	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_33	1949	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_36	1952	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_37	1953	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_40	1956	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_41	1957	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_45	1961	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_48	1964	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_50	1966	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_51	1967	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_54	1970	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_57	1973	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_60	1976	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_61	1977	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_63	1979	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_66	1982	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_67	1983	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_71	1987	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_73	1989	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_74	1990	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_78	1994	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_80	1996	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_84	2000	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_86	2002	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_87	2003	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_89	2005	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_90	2006	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_91	2007	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_93	2009	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_94	2010	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_95	2011	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_97	2013	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_99	2015	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_101	2017	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_103	2019	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_108	2024	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_110	2026	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_117	2033	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_118	2034	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_119	2035	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_122	2038	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_130	2046	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_131	2047	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_132	2048	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_136	2052	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_137	2053	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_138	2054	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_139	2055	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_141	2057	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_143	2059	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_145	2061	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_146	2062	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_148	2064	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_150	2066	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_151	2067	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_155	2071	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_157	2073	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_163	2079	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_164	2080	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_167	2083	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_168	2084	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_169	2085	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_174	2090	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_176	2092	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_185	2101	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_188	2104	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_189	2105	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_191	2107	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_200	2116	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_202	2118	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_209	2125	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_210	2126	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_212	2128	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_214	2130	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_218	2134	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_221	2137	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_222	2138	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_224	2140	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_226	2142	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_227	2143	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_228	2144	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_230	2146	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_232	2148	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+36_234	2150	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_1	2153	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_3	2155	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_5	2157	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_6	2158	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_7	2159	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_8	2160	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_9	2161	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_10	2162	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_11	2163	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_12	2164	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_13	2165	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_15	2167	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_16	2168	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_18	2170	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_19	2171	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_20	2172	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_21	2173	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_27	2179	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_29	2181	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_32	2184	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_35	2187	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_36	2188	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_38	2190	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_39	2191	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_40	2192	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_42	2194	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_47	2199	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_48	2200	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_49	2201	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_53	2205	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_55	2207	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_60	2212	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_62	2214	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_63	2215	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_65	2217	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_67	2219	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_73	2225	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_74	2226	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_76	2228	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_79	2231	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_80	2232	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_82	2234	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+37_83	2235	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_1	2239	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_5	2243	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_7	2245	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_15	2253	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_19	2257	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_21	2259	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_23	2261	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_24	2262	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_25	2263	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_27	2265	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_29	2267	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_30	2268	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_32	2270	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_34	2272	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_35	2273	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_36	2274	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_38	2276	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_42	2280	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_44	2282	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_45	2283	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_46	2284	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_48	2286	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_50	2288	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_51	2289	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_56	2294	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_59	2297	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_63	2301	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_65	2303	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_68	2306	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_69	2307	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_70	2308	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_71	2309	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_72	2310	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_75	2313	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+38_76	2314	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_11	2325	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_15	2329	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_20	2334	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_21	2335	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_22	2336	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_27	2341	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_28	2342	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_29	2343	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_30	2344	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_31	2345	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_32	2346	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_36	2350	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_37	2351	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_38	2352	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_40	2354	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_42	2356	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_45	2359	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_52	2366	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_57	2371	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_59	2373	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_61	2375	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_67	2381	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_68	2382	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_69	2383	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_75	2389	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_78	2392	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_79	2393	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_80	2394	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_86	2400	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+39_87	2401	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_1	2402	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_6	2407	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_14	2415	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_17	2418	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_27	2428	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_28	2429	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_30	2431	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_33	2434	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_35	2436	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor					
+40_36	2437	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor					
+1_15	15	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+1_29	29	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+1_30	30	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+1_33	33	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+3_13	78	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+3_19	84	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+3_21	86	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+4_3	92	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+4_13	102	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+8_8	181	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+9_7	191	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_17	227	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_18	228	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_19	229	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_54	264	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_56	266	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_58	268	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_59	269	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_70	280	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_103	313	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_125	335	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_163	373	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_184	394	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_197	407	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_213	423	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_231	441	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_232	442	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_236	446	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_237	447	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_248	458	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_267	477	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_290	500	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_303	513	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_308	518	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_325	535	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_337	547	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_357	567	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_371	581	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_372	582	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_384	594	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_385	595	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_396	606	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_398	608	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_399	609	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_400	610	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_486	696	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_493	703	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_494	704	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+11_500	710	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_537	747	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_538	748	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_546	756	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_554	764	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+11_555	765	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+14_3	782	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_2	807	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_17	822	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_51	856	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_86	891	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_87	892	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_89	894	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_112	917	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_129	934	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_147	952	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_160	965	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_166	971	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_167	972	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_185	990	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_199	1004	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_205	1010	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_213	1018	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_215	1020	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_240	1045	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_241	1046	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_256	1061	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_258	1063	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_272	1077	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_285	1090	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_289	1094	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_290	1095	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_298	1103	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_303	1108	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_312	1117	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_316	1121	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_344	1149	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_362	1167	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_378	1183	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_390	1195	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_402	1207	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_420	1225	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_428	1233	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_430	1235	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+22_457	1262	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_459	1264	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+22_465	1270	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_18	1313	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_41	1336	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+33_53	1348	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_63	1358	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_77	1372	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+33_89	1384	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_104	1399	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_126	1421	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+33_127	1422	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_145	1440	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_161	1456	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_164	1459	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_165	1460	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+33_166	1461	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_167	1462	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_184	1479	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_227	1522	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_235	1530	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+33_245	1540	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_254	1549	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_258	1553	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_260	1555	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_271	1566	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+33_277	1572	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_290	1585	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+33_310	1605	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+33_322	1617	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_30	1657	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_67	1694	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_78	1705	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+35_80	1707	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+35_136	1763	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_138	1765	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+35_142	1769	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+35_152	1779	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_167	1794	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+35_185	1812	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+35_198	1825	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_208	1835	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_237	1864	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+35_238	1865	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+35_265	1892	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+36_12	1928	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+36_35	1951	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_38	1954	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_43	1959	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_49	1965	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_59	1975	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_76	1992	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_83	1999	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_85	2001	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+36_100	2016	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_104	2020	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_115	2031	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+36_123	2039	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+36_152	2068	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_181	2097	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+36_194	2110	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_195	2111	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_196	2112	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_198	2114	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+36_223	2139	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+37_2	2154	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+37_26	2178	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+37_30	2182	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+37_34	2186	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+37_46	2198	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+37_59	2211	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+37_68	2220	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+37_69	2221	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+38_10	2248	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+38_28	2266	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor					
+39_18	2332	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+39_24	2338	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+40_12	2413	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+40_22	2423	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+40_25	2426	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor					
+1_8	8	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_13	13	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_16	16	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_17	17	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_23	23	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_28	28	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_36	36	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_37	37	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+2_23	61	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+2_24	62	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+3_3	68	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+3_7	72	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+3_11	76	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+3_14	79	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+3_24	89	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+4_4	93	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+4_6	95	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+4_7	96	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+4_8	97	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+4_9	98	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+4_11	100	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+4_12	101	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+5_2	109	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+5_3	110	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+7_2	163	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+7_7	168	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+7_8	169	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+8_2	175	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+8_9	182	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+9_2	186	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+9_12	196	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+10_2	202	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_2	212	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_10	220	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_33	243	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_39	249	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_42	252	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_45	255	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_46	256	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_53	263	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_57	267	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_67	277	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_69	279	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_71	281	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_81	291	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_85	295	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_96	306	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_98	308	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_106	316	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_111	321	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_112	322	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_115	325	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_118	328	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_130	340	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_131	341	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_133	343	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_135	345	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_137	347	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_139	349	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_140	350	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_143	353	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_145	355	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_148	358	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_164	374	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_166	376	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_172	382	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_175	385	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_177	387	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_185	395	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_191	401	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_195	405	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_201	411	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_206	416	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_208	418	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_211	421	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_224	434	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_227	437	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_235	445	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_250	460	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_259	469	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_263	473	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_264	474	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_265	475	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_268	478	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_271	481	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_278	488	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_282	492	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_285	495	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_286	496	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_288	498	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_306	516	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_314	524	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_315	525	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_323	533	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_330	540	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_331	541	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_332	542	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_335	545	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_336	546	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_342	552	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_345	555	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_350	560	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_351	561	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_355	565	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_356	566	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_365	575	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_374	584	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_380	590	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_381	591	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_382	592	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_383	593	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_389	599	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_395	605	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_404	614	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_420	630	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_421	631	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_422	632	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_423	633	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_426	636	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_427	637	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_428	638	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_430	640	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_432	642	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_446	656	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_451	661	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_458	668	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_460	670	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_461	671	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_463	673	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_468	678	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_469	679	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_470	680	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_471	681	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_482	692	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_498	708	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_504	714	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_506	716	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_518	728	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_524	734	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_525	735	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_529	739	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+11_533	743	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+12_5	770	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+12_8	773	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+13_2	776	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+15_1	785	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+16_3	791	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+17_2	793	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+17_3	794	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+19_4	800	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+20_1	801	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_3	808	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_9	814	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_12	817	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_13	818	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_19	824	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_31	836	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_32	837	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_34	839	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_35	840	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_69	874	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_78	883	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_90	895	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_113	918	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_125	930	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_127	932	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_131	936	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_137	942	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_138	943	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_144	949	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_148	953	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_157	962	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_164	969	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_171	976	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_173	978	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_174	979	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_186	991	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_188	993	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_195	1000	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_201	1006	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_208	1013	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_211	1016	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_219	1024	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_226	1031	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_231	1036	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_237	1042	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_239	1044	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_244	1049	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_245	1050	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_246	1051	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_250	1055	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_255	1060	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_262	1067	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_263	1068	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_269	1074	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_281	1086	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_297	1102	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_299	1104	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_304	1109	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_305	1110	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_314	1119	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_315	1120	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_328	1133	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_333	1138	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_335	1140	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_336	1141	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_341	1146	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_345	1150	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_357	1162	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_358	1163	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_363	1168	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_364	1169	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_366	1171	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_369	1174	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_375	1180	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_376	1181	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_382	1187	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_385	1190	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_392	1197	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_400	1205	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_406	1211	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_415	1220	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_417	1222	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_419	1224	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_422	1227	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_432	1237	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_435	1240	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_450	1255	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_456	1261	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_467	1272	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_468	1273	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_469	1274	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+22_474	1279	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_2	1297	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_20	1315	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_24	1319	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_28	1323	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_29	1324	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_35	1330	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_66	1361	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_67	1362	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_82	1377	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_83	1378	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_85	1380	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_86	1381	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_95	1390	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_102	1397	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_107	1402	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_139	1434	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_142	1437	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_152	1447	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_153	1448	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_154	1449	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_159	1454	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_162	1457	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_170	1465	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_171	1466	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_173	1468	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_174	1469	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_180	1475	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_182	1477	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_188	1483	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_191	1486	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_200	1495	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_202	1497	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_206	1501	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_217	1512	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_218	1513	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_221	1516	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_225	1520	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_230	1525	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_244	1539	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_267	1562	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_272	1567	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_274	1569	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_275	1570	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_283	1578	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_289	1584	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+33_306	1601	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_2	1629	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_15	1642	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_35	1662	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_37	1664	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_38	1665	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_44	1671	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_58	1685	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_59	1686	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_60	1687	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_61	1688	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_66	1693	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_68	1695	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_70	1697	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_91	1718	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_98	1725	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_102	1729	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_104	1731	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_118	1745	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_124	1751	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_125	1752	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_128	1755	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_130	1757	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_131	1758	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_134	1761	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_137	1764	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_140	1767	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_144	1771	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_145	1772	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_146	1773	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_155	1782	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_160	1787	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_168	1795	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_174	1801	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_199	1826	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_213	1840	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_214	1841	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_216	1843	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_217	1844	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_223	1850	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_236	1863	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_245	1872	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_247	1874	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+35_262	1889	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_27	1943	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_30	1946	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_39	1955	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_42	1958	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_46	1962	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_52	1968	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_62	1978	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_68	1984	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_69	1985	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_77	1993	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_79	1995	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_81	1997	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_82	1998	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_88	2004	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_92	2008	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_96	2012	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_98	2014	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_102	2018	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_105	2021	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_112	2028	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_113	2029	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_116	2032	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_124	2040	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_125	2041	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_126	2042	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_127	2043	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_128	2044	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_129	2045	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_133	2049	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_140	2056	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_142	2058	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_144	2060	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_147	2063	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_153	2069	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_154	2070	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_158	2074	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_175	2091	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_178	2094	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_179	2095	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_183	2099	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_184	2100	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_186	2102	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_187	2103	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_199	2115	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_201	2117	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_203	2119	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_205	2121	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_215	2131	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+36_219	2135	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_25	2177	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_28	2180	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_31	2183	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_41	2193	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_44	2196	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_57	2209	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_58	2210	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_70	2222	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_71	2223	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_72	2224	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+37_75	2227	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_37	2275	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_39	2277	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_41	2279	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_52	2290	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_54	2292	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_55	2293	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_66	2304	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_67	2305	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+38_73	2311	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_8	2322	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_9	2323	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_10	2324	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_16	2330	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_17	2331	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_33	2347	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_60	2374	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+39_66	2380	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+40_7	2408	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+40_23	2424	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+40_26	2427	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+40_29	2430	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+40_31	2432	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor					
+1_22	22	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+3_2	67	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+3_5	70	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+3_10	75	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+3_18	83	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+5_5	112	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+8_5	178	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+8_6	179	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+8_7	180	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_9	219	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_55	265	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_61	271	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_79	289	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_80	290	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_82	292	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_83	293	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_87	297	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_88	298	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_121	331	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_176	386	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_182	392	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_196	406	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_203	413	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_222	432	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_230	440	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_239	449	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_272	482	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_358	568	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_373	583	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_386	596	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_391	601	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_403	613	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_414	624	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_415	625	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_443	653	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_550	760	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+11_553	763	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+14_2	781	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_14	819	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_16	821	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_22	827	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_42	847	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_53	858	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_61	866	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_92	897	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_107	912	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_132	937	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_151	956	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_161	966	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_172	977	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_175	980	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_183	988	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_184	989	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_236	1041	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_253	1058	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_261	1066	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_266	1071	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_279	1084	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_302	1107	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_317	1122	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_334	1139	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_337	1142	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_338	1143	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_367	1172	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_404	1209	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_429	1234	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_433	1238	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_443	1248	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_444	1249	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_454	1259	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+22_472	1277	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_22	1317	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_23	1318	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_26	1321	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_27	1322	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_30	1325	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_58	1353	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_68	1363	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_69	1364	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_78	1373	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_112	1407	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_134	1429	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_147	1442	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_157	1452	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_163	1458	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_186	1481	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_187	1482	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_199	1494	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_201	1496	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_205	1500	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_262	1557	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_265	1560	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_268	1563	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_284	1579	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_286	1581	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_304	1599	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+33_305	1600	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_4	1631	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_9	1636	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_16	1643	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_39	1666	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_40	1667	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_56	1683	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_117	1744	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_132	1759	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_147	1774	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_158	1785	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_159	1786	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_186	1813	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_209	1836	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_215	1842	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_220	1847	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_250	1877	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_266	1893	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_267	1894	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_269	1896	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+35_283	1910	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_3	1919	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_47	1963	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_58	1974	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_109	2025	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_182	2098	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_193	2109	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_197	2113	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_206	2122	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_216	2132	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_220	2136	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+36_235	2151	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+37_22	2174	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+37_45	2197	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+37_61	2213	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_3	2241	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_11	2249	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_22	2260	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_31	2269	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_40	2278	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_53	2291	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_57	2295	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+38_58	2296	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+39_12	2326	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+39_19	2333	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+40_13	2414	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+40_20	2421	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+40_21	2422	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+40_24	2425	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+40_38	2439	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor					
+1_1	1	negative	negative	non_pathogenic	N	-					
+1_6	6	negative	negative	non_pathogenic	N	-					
+1_10	10	negative	negative	non_pathogenic	N	-					
+1_11	11	negative	negative	non_pathogenic	N	-					
+1_12	12	negative	negative	non_pathogenic	N	-					
+1_14	14	negative	negative	non_pathogenic	N	-					
+1_18	18	negative	negative	non_pathogenic	Y	-					
+1_21	21	negative	negative	non_pathogenic	N	-					
+1_25	25	negative	negative	non_pathogenic	N	-					
+1_26	26	negative	negative	non_pathogenic	N	-					
+1_27	27	negative	negative	non_pathogenic	N	-					
+1_32	32	negative	negative	non_pathogenic	N	-					
+1_34	34	negative	negative	non_pathogenic	N	-					
+1_38	38	negative	negative	non_pathogenic	N	-					
+2_2	40	negative	negative	non_pathogenic	N	-					
+2_5	43	negative	negative	non_pathogenic	N	-					
+2_6	44	negative	negative	non_pathogenic	N	-					
+2_7	45	negative	negative	non_pathogenic	N	-					
+2_10	48	negative	negative	non_pathogenic	N	-					
+2_16	54	negative	negative	non_pathogenic	N	-					
+2_25	63	negative	negative	non_pathogenic	N	-					
+3_8	73	negative	negative	non_pathogenic	N	-					
+3_9	74	negative	negative	non_pathogenic	N	-					
+3_17	82	negative	negative	non_pathogenic	Y	-					
+3_20	85	negative	negative	non_pathogenic	N	-					
+3_22	87	negative	negative	non_pathogenic	Y	-					
+4_17	106	negative	negative	non_pathogenic	N	-					
+4_18	107	negative	negative	non_pathogenic	N	-					
+5_8	115	negative	negative	non_pathogenic	N	-					
+5_12	119	negative	negative	non_pathogenic	N	-					
+5_13	120	negative	negative	non_pathogenic	N	-					
+5_14	121	negative	negative	non_pathogenic	N	-					
+5_15	122	negative	negative	non_pathogenic	N	-					
+5_16	123	negative	negative	non_pathogenic	N	-					
+5_18	125	negative	negative	non_pathogenic	N	-					
+5_19	126	negative	negative	non_pathogenic	N	-					
+5_20	127	negative	negative	non_pathogenic	Y	-					
+5_21	128	negative	negative	non_pathogenic	N	-					
+5_23	130	negative	negative	non_pathogenic	N	-					
+5_24	131	negative	negative	non_pathogenic	N	-					
+5_26	133	negative	negative	non_pathogenic	N	-					
+5_27	134	negative	negative	non_pathogenic	N	-					
+5_28	135	negative	negative	non_pathogenic	N	-					
+5_29	136	negative	negative	non_pathogenic	N	-					
+5_30	137	negative	negative	non_pathogenic	N	-					
+5_31	138	negative	negative	non_pathogenic	N	-					
+5_32	139	negative	negative	non_pathogenic	N	-					
+5_33	140	negative	negative	non_pathogenic	N	-					
+5_34	141	negative	negative	non_pathogenic	N	-					
+5_35	142	negative	negative	non_pathogenic	N	-					
+5_36	143	negative	negative	non_pathogenic	N	-					
+5_37	144	negative	negative	non_pathogenic	N	-					
+5_38	145	negative	negative	non_pathogenic	N	-					
+5_39	146	negative	negative	non_pathogenic	N	-					
+5_40	147	negative	negative	non_pathogenic	N	-					
+5_41	148	negative	negative	non_pathogenic	N	-					
+6_1	149	negative	negative	non_pathogenic	N	-					
+6_2	150	negative	negative	non_pathogenic	N	-					
+6_3	151	negative	negative	non_pathogenic	N	-					
+6_4	152	negative	negative	non_pathogenic	N	-					
+6_5	153	negative	negative	non_pathogenic	N	-					
+6_6	154	negative	negative	non_pathogenic	N	-					
+6_7	155	negative	negative	non_pathogenic	N	-					
+6_8	156	negative	negative	non_pathogenic	N	-					
+6_9	157	negative	negative	non_pathogenic	N	-					
+6_10	158	negative	negative	non_pathogenic	N	-					
+6_11	159	negative	negative	non_pathogenic	N	-					
+6_13	161	negative	negative	non_pathogenic	N	-					
+7_3	164	negative	negative	non_pathogenic	N	-					
+7_4	165	negative	negative	non_pathogenic	N	-					
+7_5	166	negative	negative	non_pathogenic	N	-					
+7_6	167	negative	negative	non_pathogenic	N	-					
+7_10	171	negative	negative	non_pathogenic	N	-					
+8_1	174	negative	negative	non_pathogenic	N	-					
+8_11	184	negative	negative	non_pathogenic	N	-					
+9_5	189	negative	negative	non_pathogenic	N	-					
+9_6	190	negative	negative	non_pathogenic	N	-					
+9_9	193	negative	negative	non_pathogenic	N	-					
+9_10	194	negative	negative	non_pathogenic	N	-					
+10_3	203	negative	negative	non_pathogenic	N	-					
+10_4	204	negative	negative	non_pathogenic	N	-					
+10_5	205	negative	negative	non_pathogenic	N	-					
+10_7	207	negative	negative	non_pathogenic	N	-					
+10_9	209	negative	negative	non_pathogenic	N	-					
+11_1	211	negative	negative	non_pathogenic	N	-					
+11_3	213	negative	negative	non_pathogenic	N	-					
+11_4	214	negative	negative	non_pathogenic	N	-					
+11_5	215	negative	negative	non_pathogenic	N	-					
+11_6	216	negative	negative	non_pathogenic	N	-					
+11_13	223	negative	negative	non_pathogenic	N	-					
+11_16	226	negative	negative	non_pathogenic	N	-					
+11_20	230	negative	negative	non_pathogenic	N	-					
+11_21	231	negative	negative	non_pathogenic	N	-					
+11_22	232	negative	negative	non_pathogenic	N	-					
+11_23	233	negative	negative	non_pathogenic	N	-					
+11_29	239	negative	negative	non_pathogenic	N	-					
+11_30	240	negative	negative	non_pathogenic	N	-					
+11_31	241	negative	negative	non_pathogenic	N	-					
+11_36	246	negative	negative	non_pathogenic	N	-					
+11_37	247	negative	negative	non_pathogenic	N	-					
+11_38	248	negative	negative	non_pathogenic	N	-					
+11_65	275	negative	negative	non_pathogenic	N	-					
+11_66	276	negative	negative	non_pathogenic	N	-					
+11_68	278	negative	negative	non_pathogenic	N	-					
+11_72	282	negative	negative	non_pathogenic	N	-					
+11_73	283	negative	negative	non_pathogenic	N	-					
+11_74	284	negative	negative	non_pathogenic	N	-					
+11_75	285	negative	negative	non_pathogenic	N	-					
+11_77	287	negative	negative	non_pathogenic	N	-					
+11_91	301	negative	negative	non_pathogenic	N	-					
+11_92	302	negative	negative	non_pathogenic	N	-					
+11_93	303	negative	negative	non_pathogenic	N	-					
+11_94	304	negative	negative	non_pathogenic	N	-					
+11_95	305	negative	negative	non_pathogenic	N	-					
+11_99	309	negative	negative	non_pathogenic	N	-					
+11_100	310	negative	negative	non_pathogenic	N	-					
+11_107	317	negative	negative	non_pathogenic	N	-					
+11_108	318	negative	negative	non_pathogenic	N	-					
+11_109	319	negative	negative	non_pathogenic	N	-					
+11_120	330	negative	negative	non_pathogenic	Y	-					
+11_124	334	negative	negative	non_pathogenic	N	-					
+11_126	336	negative	negative	non_pathogenic	N	-					
+11_127	337	negative	negative	non_pathogenic	N	-					
+11_128	338	negative	negative	non_pathogenic	N	-					
+11_129	339	negative	negative	non_pathogenic	N	-					
+11_134	344	negative	negative	non_pathogenic	N	-					
+11_138	348	negative	negative	non_pathogenic	N	-					
+11_141	351	negative	negative	non_pathogenic	N	-					
+11_142	352	negative	negative	non_pathogenic	N	-					
+11_149	359	negative	negative	non_pathogenic	N	-					
+11_151	361	negative	negative	non_pathogenic	N	-					
+11_152	362	negative	negative	non_pathogenic	N	-					
+11_156	366	negative	negative	non_pathogenic	N	-					
+11_157	367	negative	negative	non_pathogenic	N	-					
+11_160	370	negative	negative	non_pathogenic	N	-					
+11_161	371	negative	negative	non_pathogenic	N	-					
+11_162	372	negative	negative	non_pathogenic	N	-					
+11_167	377	negative	negative	non_pathogenic	N	-					
+11_173	383	negative	negative	non_pathogenic	N	-					
+11_179	389	negative	negative	non_pathogenic	N	-					
+11_181	391	negative	negative	non_pathogenic	N	-					
+11_186	396	negative	negative	non_pathogenic	N	-					
+11_187	397	negative	negative	non_pathogenic	N	-					
+11_193	403	negative	negative	non_pathogenic	N	-					
+11_194	404	negative	negative	non_pathogenic	N	-					
+11_202	412	negative	negative	non_pathogenic	N	-					
+11_204	414	negative	negative	non_pathogenic	N	-					
+11_205	415	negative	negative	non_pathogenic	N	-					
+11_210	420	negative	negative	non_pathogenic	N	-					
+11_214	424	negative	negative	non_pathogenic	N	-					
+11_215	425	negative	negative	non_pathogenic	N	-					
+11_220	430	negative	negative	non_pathogenic	N	-					
+11_221	431	negative	negative	non_pathogenic	N	-					
+11_223	433	negative	negative	non_pathogenic	N	-					
+11_226	436	negative	negative	non_pathogenic	N	-					
+11_228	438	negative	negative	non_pathogenic	N	-					
+11_233	443	negative	negative	non_pathogenic	Y	-					
+11_234	444	negative	negative	non_pathogenic	Y	-					
+11_240	450	negative	negative	non_pathogenic	N	-					
+11_242	452	negative	negative	non_pathogenic	N	-					
+11_249	459	negative	negative	non_pathogenic	N	-					
+11_252	462	negative	negative	non_pathogenic	N	-					
+11_253	463	negative	negative	non_pathogenic	N	-					
+11_254	464	negative	negative	non_pathogenic	N	-					
+11_255	465	negative	negative	non_pathogenic	N	-					
+11_258	468	negative	negative	non_pathogenic	N	-					
+11_260	470	negative	negative	non_pathogenic	N	-					
+11_270	480	negative	negative	non_pathogenic	N	-					
+11_273	483	negative	negative	non_pathogenic	N	-					
+11_274	484	negative	negative	non_pathogenic	N	-					
+11_275	485	negative	negative	non_pathogenic	N	-					
+11_279	489	negative	negative	non_pathogenic	N	-					
+11_280	490	negative	negative	non_pathogenic	N	-					
+11_289	499	negative	negative	non_pathogenic	N	-					
+11_291	501	negative	negative	non_pathogenic	N	-					
+11_292	502	negative	negative	non_pathogenic	N	-					
+11_294	504	negative	negative	non_pathogenic	N	-					
+11_295	505	negative	negative	non_pathogenic	N	-					
+11_297	507	negative	negative	non_pathogenic	N	-					
+11_298	508	negative	negative	non_pathogenic	N	-					
+11_300	510	negative	negative	non_pathogenic	N	-					
+11_305	515	negative	negative	non_pathogenic	N	-					
+11_307	517	negative	negative	non_pathogenic	N	-					
+11_313	523	negative	negative	non_pathogenic	N	-					
+11_317	527	negative	negative	non_pathogenic	N	-					
+11_324	534	negative	negative	non_pathogenic	N	-					
+11_328	538	negative	negative	non_pathogenic	N	-					
+11_334	544	negative	negative	non_pathogenic	N	-					
+11_339	549	negative	negative	non_pathogenic	N	-					
+11_341	551	negative	negative	non_pathogenic	N	-					
+11_343	553	negative	negative	non_pathogenic	N	-					
+11_344	554	negative	negative	non_pathogenic	N	-					
+11_347	557	negative	negative	non_pathogenic	Y	-					
+11_349	559	negative	negative	non_pathogenic	N	-					
+11_359	569	negative	negative	non_pathogenic	N	-					
+11_362	572	negative	negative	non_pathogenic	N	-					
+11_368	578	negative	negative	non_pathogenic	N	-					
+11_370	580	negative	negative	non_pathogenic	N	-					
+11_377	587	negative	negative	non_pathogenic	N	-					
+11_394	604	negative	negative	non_pathogenic	N	-					
+11_397	607	negative	negative	non_pathogenic	N	-					
+11_405	615	negative	negative	non_pathogenic	N	-					
+11_406	616	negative	negative	non_pathogenic	N	-					
+11_408	618	negative	negative	non_pathogenic	N	-					
+11_410	620	negative	negative	non_pathogenic	N	-					
+11_411	621	negative	negative	non_pathogenic	N	-					
+11_412	622	negative	negative	non_pathogenic	N	-					
+11_418	628	negative	negative	non_pathogenic	N	-					
+11_425	635	negative	negative	non_pathogenic	N	-					
+11_429	639	negative	negative	non_pathogenic	Y	-					
+11_431	641	negative	negative	non_pathogenic	N	-					
+11_434	644	negative	negative	non_pathogenic	N	-					
+11_436	646	negative	negative	non_pathogenic	N	-					
+11_441	651	negative	negative	non_pathogenic	N	-					
+11_444	654	negative	negative	non_pathogenic	N	-					
+11_447	657	negative	negative	non_pathogenic	N	-					
+11_450	660	negative	negative	non_pathogenic	N	-					
+11_453	663	negative	negative	non_pathogenic	N	-					
+11_454	664	negative	negative	non_pathogenic	N	-					
+11_457	667	negative	negative	non_pathogenic	N	-					
+11_465	675	negative	negative	non_pathogenic	N	-					
+11_466	676	negative	negative	non_pathogenic	N	-					
+11_472	682	negative	negative	non_pathogenic	N	-					
+11_473	683	negative	negative	non_pathogenic	N	-					
+11_474	684	negative	negative	non_pathogenic	N	-					
+11_476	686	negative	negative	non_pathogenic	N	-					
+11_477	687	negative	negative	non_pathogenic	N	-					
+11_478	688	negative	negative	non_pathogenic	N	-					
+11_483	693	negative	negative	non_pathogenic	N	-					
+11_485	695	negative	negative	non_pathogenic	N	-					
+11_487	697	negative	negative	non_pathogenic	N	-					
+11_489	699	negative	negative	non_pathogenic	N	-					
+11_490	700	negative	negative	non_pathogenic	N	-					
+11_491	701	negative	negative	non_pathogenic	N	-					
+11_492	702	negative	negative	non_pathogenic	N	-					
+11_497	707	negative	negative	non_pathogenic	Y	-					
+11_499	709	negative	negative	non_pathogenic	N	-					
+11_501	711	negative	negative	non_pathogenic	N	-					
+11_503	713	negative	negative	non_pathogenic	N	-					
+11_505	715	negative	negative	non_pathogenic	N	-					
+11_507	717	negative	negative	non_pathogenic	N	-					
+11_508	718	negative	negative	non_pathogenic	N	-					
+11_510	720	negative	negative	non_pathogenic	N	-					
+11_513	723	negative	negative	non_pathogenic	N	-					
+11_514	724	negative	negative	non_pathogenic	N	-					
+11_515	725	negative	negative	non_pathogenic	N	-					
+11_516	726	negative	negative	non_pathogenic	N	-					
+11_517	727	negative	negative	non_pathogenic	N	-					
+11_522	732	negative	negative	non_pathogenic	N	-					
+11_523	733	negative	negative	non_pathogenic	N	-					
+11_527	737	negative	negative	non_pathogenic	N	-					
+11_530	740	negative	negative	non_pathogenic	N	-					
+11_531	741	negative	negative	non_pathogenic	N	-					
+11_532	742	negative	negative	non_pathogenic	N	-					
+11_534	744	negative	negative	non_pathogenic	N	-					
+11_535	745	negative	negative	non_pathogenic	N	-					
+11_536	746	negative	negative	non_pathogenic	N	-					
+11_544	754	negative	negative	non_pathogenic	N	-					
+11_547	757	negative	negative	non_pathogenic	N	-					
+11_548	758	negative	negative	non_pathogenic	N	-					
+12_9	774	negative	negative	non_pathogenic	N	-					
+13_1	775	negative	negative	non_pathogenic	N	-					
+14_1	780	negative	negative	non_pathogenic	N	-					
+14_4	783	negative	negative	non_pathogenic	N	-					
+15_2	786	negative	negative	non_pathogenic	N	-					
+15_3	787	negative	negative	non_pathogenic	N	-					
+15_4	788	negative	negative	non_pathogenic	N	-					
+16_1	789	negative	negative	non_pathogenic	N	-					
+16_2	790	negative	negative	non_pathogenic	N	-					
+18_1	796	negative	negative	non_pathogenic	N	-					
+19_1	797	negative	negative	non_pathogenic	N	-					
+19_3	799	negative	negative	non_pathogenic	N	-					
+20_2	802	negative	negative	non_pathogenic	N	-					
+21_1	804	negative	negative	non_pathogenic	N	-					
+22_1	806	negative	negative	non_pathogenic	N	-					
+22_4	809	negative	negative	non_pathogenic	N	-					
+22_6	811	negative	negative	non_pathogenic	N	-					
+22_7	812	negative	negative	non_pathogenic	N	-					
+22_8	813	negative	negative	non_pathogenic	Y	-					
+22_10	815	negative	negative	non_pathogenic	N	-					
+22_11	816	negative	negative	non_pathogenic	Y	-					
+22_18	823	negative	negative	non_pathogenic	N	-					
+22_21	826	negative	negative	non_pathogenic	N	-					
+22_23	828	negative	negative	non_pathogenic	N	-					
+22_24	829	negative	negative	non_pathogenic	N	-					
+22_25	830	negative	negative	non_pathogenic	N	-					
+22_26	831	negative	negative	non_pathogenic	N	-					
+22_27	832	negative	negative	non_pathogenic	N	-					
+22_33	838	negative	negative	non_pathogenic	N	-					
+22_38	843	negative	negative	non_pathogenic	N	-					
+22_39	844	negative	negative	non_pathogenic	N	-					
+22_43	848	negative	negative	non_pathogenic	N	-					
+22_44	849	negative	negative	non_pathogenic	N	-					
+22_46	851	negative	negative	non_pathogenic	N	-					
+22_50	855	negative	negative	non_pathogenic	N	-					
+22_55	860	negative	negative	non_pathogenic	N	-					
+22_56	861	negative	negative	non_pathogenic	N	-					
+22_57	862	negative	negative	non_pathogenic	N	-					
+22_58	863	negative	negative	non_pathogenic	N	-					
+22_59	864	negative	negative	non_pathogenic	N	-					
+22_60	865	negative	negative	non_pathogenic	N	-					
+22_62	867	negative	negative	non_pathogenic	N	-					
+22_66	871	negative	negative	non_pathogenic	N	-					
+22_67	872	negative	negative	non_pathogenic	N	-					
+22_73	878	negative	negative	non_pathogenic	N	-					
+22_74	879	negative	negative	non_pathogenic	Y	-					
+22_79	884	negative	negative	non_pathogenic	N	-					
+22_81	886	negative	negative	non_pathogenic	N	-					
+22_82	887	negative	negative	non_pathogenic	N	-					
+22_83	888	negative	negative	non_pathogenic	N	-					
+22_88	893	negative	negative	non_pathogenic	N	-					
+22_94	899	negative	negative	non_pathogenic	N	-					
+22_95	900	negative	negative	non_pathogenic	N	-					
+22_98	903	negative	negative	non_pathogenic	N	-					
+22_110	915	negative	negative	non_pathogenic	N	-					
+22_111	916	negative	negative	non_pathogenic	N	-					
+22_114	919	negative	negative	non_pathogenic	N	-					
+22_120	925	negative	negative	non_pathogenic	N	-					
+22_121	926	negative	negative	non_pathogenic	N	-					
+22_122	927	negative	negative	non_pathogenic	N	-					
+22_124	929	negative	negative	non_pathogenic	N	-					
+22_133	938	negative	negative	non_pathogenic	N	-					
+22_136	941	negative	negative	non_pathogenic	N	-					
+22_139	944	negative	negative	non_pathogenic	N	-					
+22_140	945	negative	negative	non_pathogenic	N	-					
+22_141	946	negative	negative	non_pathogenic	N	-					
+22_153	958	negative	negative	non_pathogenic	N	-					
+22_154	959	negative	negative	non_pathogenic	N	-					
+22_156	961	negative	negative	non_pathogenic	N	-					
+22_159	964	negative	negative	non_pathogenic	N	-					
+22_165	970	negative	negative	non_pathogenic	N	-					
+22_169	974	negative	negative	non_pathogenic	N	-					
+22_176	981	negative	negative	non_pathogenic	N	-					
+22_178	983	negative	negative	non_pathogenic	N	-					
+22_179	984	negative	negative	non_pathogenic	N	-					
+22_180	985	negative	negative	non_pathogenic	N	-					
+22_181	986	negative	negative	non_pathogenic	N	-					
+22_182	987	negative	negative	non_pathogenic	N	-					
+22_187	992	negative	negative	non_pathogenic	N	-					
+22_189	994	negative	negative	non_pathogenic	N	-					
+22_191	996	negative	negative	non_pathogenic	N	-					
+22_192	997	negative	negative	non_pathogenic	N	-					
+22_194	999	negative	negative	non_pathogenic	N	-					
+22_196	1001	negative	negative	non_pathogenic	N	-					
+22_204	1009	negative	negative	non_pathogenic	N	-					
+22_206	1011	negative	negative	non_pathogenic	N	-					
+22_207	1012	negative	negative	non_pathogenic	N	-					
+22_212	1017	negative	negative	non_pathogenic	N	-					
+22_216	1021	negative	negative	non_pathogenic	N	-					
+22_218	1023	negative	negative	non_pathogenic	Y	-					
+22_220	1025	negative	negative	non_pathogenic	N	-					
+22_223	1028	negative	negative	non_pathogenic	N	-					
+22_224	1029	negative	negative	non_pathogenic	N	-					
+22_225	1030	negative	negative	non_pathogenic	N	-					
+22_227	1032	negative	negative	non_pathogenic	N	-					
+22_228	1033	negative	negative	non_pathogenic	N	-					
+22_235	1040	negative	negative	non_pathogenic	N	-					
+22_247	1052	negative	negative	non_pathogenic	Y	-					
+22_249	1054	negative	negative	non_pathogenic	N	-					
+22_252	1057	negative	negative	non_pathogenic	Y	-					
+22_265	1070	negative	negative	non_pathogenic	N	-					
+22_267	1072	negative	negative	non_pathogenic	N	-					
+22_270	1075	negative	negative	non_pathogenic	N	-					
+22_271	1076	negative	negative	non_pathogenic	N	-					
+22_273	1078	negative	negative	non_pathogenic	N	-					
+22_274	1079	negative	negative	non_pathogenic	N	-					
+22_277	1082	negative	negative	non_pathogenic	N	-					
+22_283	1088	negative	negative	non_pathogenic	N	-					
+22_287	1092	negative	negative	non_pathogenic	N	-					
+22_288	1093	negative	negative	non_pathogenic	N	-					
+22_292	1097	negative	negative	non_pathogenic	N	-					
+22_293	1098	negative	negative	non_pathogenic	N	-					
+22_300	1105	negative	negative	non_pathogenic	N	-					
+22_301	1106	negative	negative	non_pathogenic	N	-					
+22_308	1113	negative	negative	non_pathogenic	N	-					
+22_309	1114	negative	negative	non_pathogenic	N	-					
+22_310	1115	negative	negative	non_pathogenic	N	-					
+22_311	1116	negative	negative	non_pathogenic	N	-					
+22_313	1118	negative	negative	non_pathogenic	N	-					
+22_318	1123	negative	negative	non_pathogenic	N	-					
+22_319	1124	negative	negative	non_pathogenic	N	-					
+22_326	1131	negative	negative	non_pathogenic	N	-					
+22_329	1134	negative	negative	non_pathogenic	N	-					
+22_332	1137	negative	negative	non_pathogenic	N	-					
+22_347	1152	negative	negative	non_pathogenic	N	-					
+22_348	1153	negative	negative	non_pathogenic	N	-					
+22_351	1156	negative	negative	non_pathogenic	N	-					
+22_353	1158	negative	negative	non_pathogenic	N	-					
+22_355	1160	negative	negative	non_pathogenic	N	-					
+22_356	1161	negative	negative	non_pathogenic	N	-					
+22_371	1176	negative	negative	non_pathogenic	N	-					
+22_372	1177	negative	negative	non_pathogenic	N	-					
+22_373	1178	negative	negative	non_pathogenic	N	-					
+22_377	1182	negative	negative	non_pathogenic	N	-					
+22_380	1185	negative	negative	non_pathogenic	N	-					
+22_383	1188	negative	negative	non_pathogenic	N	-					
+22_384	1189	negative	negative	non_pathogenic	N	-					
+22_393	1198	negative	negative	non_pathogenic	N	-					
+22_394	1199	negative	negative	non_pathogenic	N	-					
+22_398	1203	negative	negative	non_pathogenic	N	-					
+22_408	1213	negative	negative	non_pathogenic	N	-					
+22_410	1215	negative	negative	non_pathogenic	N	-					
+22_411	1216	negative	negative	non_pathogenic	N	-					
+22_412	1217	negative	negative	non_pathogenic	N	-					
+22_413	1218	negative	negative	non_pathogenic	N	-					
+22_414	1219	negative	negative	non_pathogenic	Y	-					
+22_421	1226	negative	negative	non_pathogenic	N	-					
+22_425	1230	negative	negative	non_pathogenic	N	-					
+22_426	1231	negative	negative	non_pathogenic	N	-					
+22_436	1241	negative	negative	non_pathogenic	N	-					
+22_438	1243	negative	negative	non_pathogenic	N	-					
+22_440	1245	negative	negative	non_pathogenic	N	-					
+22_449	1254	negative	negative	non_pathogenic	N	-					
+22_453	1258	negative	negative	non_pathogenic	N	-					
+22_460	1265	negative	negative	non_pathogenic	N	-					
+22_461	1266	negative	negative	non_pathogenic	N	-					
+22_462	1267	negative	negative	non_pathogenic	N	-					
+22_475	1280	negative	negative	non_pathogenic	N	-					
+22_476	1281	negative	negative	non_pathogenic	N	-					
+23_1	1282	negative	negative	non_pathogenic	N	-					
+24_2	1284	negative	negative	non_pathogenic	N	-					
+25_1	1285	negative	negative	non_pathogenic	N	-					
+25_2	1286	negative	negative	non_pathogenic	N	-					
+28_2	1291	negative	negative	non_pathogenic	N	-					
+29_1	1292	negative	negative	non_pathogenic	N	-					
+31_1	1294	negative	negative	non_pathogenic	N	-					
+32_1	1295	negative	negative	non_pathogenic	N	-					
+33_3	1298	negative	negative	non_pathogenic	N	-					
+33_4	1299	negative	negative	non_pathogenic	N	-					
+33_5	1300	negative	negative	non_pathogenic	N	-					
+33_7	1302	negative	negative	non_pathogenic	N	-					
+33_8	1303	negative	negative	non_pathogenic	N	-					
+33_9	1304	negative	negative	non_pathogenic	N	-					
+33_10	1305	negative	negative	non_pathogenic	N	-					
+33_12	1307	negative	negative	non_pathogenic	N	-					
+33_14	1309	negative	negative	non_pathogenic	N	-					
+33_15	1310	negative	negative	non_pathogenic	N	-					
+33_16	1311	negative	negative	non_pathogenic	N	-					
+33_19	1314	negative	negative	non_pathogenic	N	-					
+33_33	1328	negative	negative	non_pathogenic	N	-					
+33_34	1329	negative	negative	non_pathogenic	N	-					
+33_36	1331	negative	negative	non_pathogenic	N	-					
+33_37	1332	negative	negative	non_pathogenic	N	-					
+33_38	1333	negative	negative	non_pathogenic	N	-					
+33_44	1339	negative	negative	non_pathogenic	N	-					
+33_48	1343	negative	negative	non_pathogenic	N	-					
+33_50	1345	negative	negative	non_pathogenic	N	-					
+33_51	1346	negative	negative	non_pathogenic	N	-					
+33_52	1347	negative	negative	non_pathogenic	N	-					
+33_59	1354	negative	negative	non_pathogenic	N	-					
+33_60	1355	negative	negative	non_pathogenic	N	-					
+33_62	1357	negative	negative	non_pathogenic	N	-					
+33_64	1359	negative	negative	non_pathogenic	N	-					
+33_70	1365	negative	negative	non_pathogenic	N	-					
+33_71	1366	negative	negative	non_pathogenic	N	-					
+33_75	1370	negative	negative	non_pathogenic	N	-					
+33_76	1371	negative	negative	non_pathogenic	N	-					
+33_79	1374	negative	negative	non_pathogenic	Y	-					
+33_81	1376	negative	negative	non_pathogenic	N	-					
+33_84	1379	negative	negative	non_pathogenic	N	-					
+33_96	1391	negative	negative	non_pathogenic	Y	-					
+33_98	1393	negative	negative	non_pathogenic	N	-					
+33_99	1394	negative	negative	non_pathogenic	N	-					
+33_100	1395	negative	negative	non_pathogenic	N	-					
+33_106	1401	negative	negative	non_pathogenic	N	-					
+33_109	1404	negative	negative	non_pathogenic	N	-					
+33_113	1408	negative	negative	non_pathogenic	N	-					
+33_116	1411	negative	negative	non_pathogenic	N	-					
+33_119	1414	negative	negative	non_pathogenic	Y	-					
+33_129	1424	negative	negative	non_pathogenic	N	-					
+33_133	1428	negative	negative	non_pathogenic	Y	-					
+33_136	1431	negative	negative	non_pathogenic	N	-					
+33_138	1433	negative	negative	non_pathogenic	N	-					
+33_144	1439	negative	negative	non_pathogenic	N	-					
+33_146	1441	negative	negative	non_pathogenic	N	-					
+33_156	1451	negative	negative	non_pathogenic	N	-					
+33_168	1463	negative	negative	non_pathogenic	N	-					
+33_176	1471	negative	negative	non_pathogenic	N	-					
+33_181	1476	negative	negative	non_pathogenic	Y	-					
+33_183	1478	negative	negative	non_pathogenic	N	-					
+33_192	1487	negative	negative	non_pathogenic	N	-					
+33_193	1488	negative	negative	non_pathogenic	N	-					
+33_196	1491	negative	negative	non_pathogenic	N	-					
+33_198	1493	negative	negative	non_pathogenic	N	-					
+33_209	1504	negative	negative	non_pathogenic	N	-					
+33_212	1507	negative	negative	non_pathogenic	N	-					
+33_214	1509	negative	negative	non_pathogenic	N	-					
+33_216	1511	negative	negative	non_pathogenic	N	-					
+33_222	1517	negative	negative	non_pathogenic	N	-					
+33_224	1519	negative	negative	non_pathogenic	N	-					
+33_226	1521	negative	negative	non_pathogenic	N	-					
+33_228	1523	negative	negative	non_pathogenic	Y	-					
+33_229	1524	negative	negative	non_pathogenic	N	-					
+33_232	1527	negative	negative	non_pathogenic	N	-					
+33_233	1528	negative	negative	non_pathogenic	N	-					
+33_234	1529	negative	negative	non_pathogenic	N	-					
+33_236	1531	negative	negative	non_pathogenic	N	-					
+33_240	1535	negative	negative	non_pathogenic	N	-					
+33_246	1541	negative	negative	non_pathogenic	N	-					
+33_249	1544	negative	negative	non_pathogenic	N	-					
+33_255	1550	negative	negative	non_pathogenic	N	-					
+33_263	1558	negative	negative	non_pathogenic	N	-					
+33_269	1564	negative	negative	non_pathogenic	N	-					
+33_270	1565	negative	negative	non_pathogenic	N	-					
+33_278	1573	negative	negative	non_pathogenic	N	-					
+33_279	1574	negative	negative	non_pathogenic	N	-					
+33_280	1575	negative	negative	non_pathogenic	N	-					
+33_281	1576	negative	negative	non_pathogenic	N	-					
+33_282	1577	negative	negative	non_pathogenic	N	-					
+33_285	1580	negative	negative	non_pathogenic	N	-					
+33_294	1589	negative	negative	non_pathogenic	N	-					
+33_296	1591	negative	negative	non_pathogenic	N	-					
+33_297	1592	negative	negative	non_pathogenic	Y	-					
+33_302	1597	negative	negative	non_pathogenic	N	-					
+33_303	1598	negative	negative	non_pathogenic	N	-					
+33_311	1606	negative	negative	non_pathogenic	N	-					
+33_319	1614	negative	negative	non_pathogenic	N	-					
+33_320	1615	negative	negative	non_pathogenic	N	-					
+33_321	1616	negative	negative	non_pathogenic	N	-					
+33_323	1618	negative	negative	non_pathogenic	N	-					
+33_324	1619	negative	negative	non_pathogenic	N	-					
+33_325	1620	negative	negative	non_pathogenic	N	-					
+33_328	1623	negative	negative	non_pathogenic	N	-					
+34_1	1626	negative	negative	non_pathogenic	N	-					
+34_2	1627	negative	negative	non_pathogenic	N	-					
+35_5	1632	negative	negative	non_pathogenic	N	-					
+35_6	1633	negative	negative	non_pathogenic	N	-					
+35_7	1634	negative	negative	non_pathogenic	N	-					
+35_10	1637	negative	negative	non_pathogenic	N	-					
+35_11	1638	negative	negative	non_pathogenic	N	-					
+35_17	1644	negative	negative	non_pathogenic	N	-					
+35_18	1645	negative	negative	non_pathogenic	N	-					
+35_21	1648	negative	negative	non_pathogenic	N	-					
+35_22	1649	negative	negative	non_pathogenic	Y	-					
+35_25	1652	negative	negative	non_pathogenic	N	-					
+35_26	1653	negative	negative	non_pathogenic	N	-					
+35_27	1654	negative	negative	non_pathogenic	N	-					
+35_31	1658	negative	negative	non_pathogenic	N	-					
+35_34	1661	negative	negative	non_pathogenic	N	-					
+35_36	1663	negative	negative	non_pathogenic	N	-					
+35_41	1668	negative	negative	non_pathogenic	N	-					
+35_42	1669	negative	negative	non_pathogenic	N	-					
+35_46	1673	negative	negative	non_pathogenic	N	-					
+35_47	1674	negative	negative	non_pathogenic	N	-					
+35_50	1677	negative	negative	non_pathogenic	N	-					
+35_53	1680	negative	negative	non_pathogenic	N	-					
+35_54	1681	negative	negative	non_pathogenic	N	-					
+35_57	1684	negative	negative	non_pathogenic	N	-					
+35_62	1689	negative	negative	non_pathogenic	N	-					
+35_76	1703	negative	negative	non_pathogenic	Y	-					
+35_85	1712	negative	negative	non_pathogenic	N	-					
+35_86	1713	negative	negative	non_pathogenic	N	-					
+35_89	1716	negative	negative	non_pathogenic	N	-					
+35_93	1720	negative	negative	non_pathogenic	N	-					
+35_94	1721	negative	negative	non_pathogenic	N	-					
+35_95	1722	negative	negative	non_pathogenic	N	-					
+35_96	1723	negative	negative	non_pathogenic	N	-					
+35_97	1724	negative	negative	non_pathogenic	N	-					
+35_99	1726	negative	negative	non_pathogenic	N	-					
+35_101	1728	negative	negative	non_pathogenic	N	-					
+35_105	1732	negative	negative	non_pathogenic	N	-					
+35_106	1733	negative	negative	non_pathogenic	N	-					
+35_108	1735	negative	negative	non_pathogenic	N	-					
+35_109	1736	negative	negative	non_pathogenic	N	-					
+35_110	1737	negative	negative	non_pathogenic	N	-					
+35_112	1739	negative	negative	non_pathogenic	N	-					
+35_113	1740	negative	negative	non_pathogenic	N	-					
+35_116	1743	negative	negative	non_pathogenic	N	-					
+35_120	1747	negative	negative	non_pathogenic	Y	-					
+35_126	1753	negative	negative	non_pathogenic	Y	-					
+35_129	1756	negative	negative	non_pathogenic	N	-					
+35_133	1760	negative	negative	non_pathogenic	N	-					
+35_139	1766	negative	negative	non_pathogenic	N	-					
+35_149	1776	negative	negative	non_pathogenic	N	-					
+35_151	1778	negative	negative	non_pathogenic	N	-					
+35_154	1781	negative	negative	non_pathogenic	N	-					
+35_157	1784	negative	negative	non_pathogenic	N	-					
+35_161	1788	negative	negative	non_pathogenic	N	-					
+35_162	1789	negative	negative	non_pathogenic	N	-					
+35_163	1790	negative	negative	non_pathogenic	N	-					
+35_166	1793	negative	negative	non_pathogenic	Y	-					
+35_171	1798	negative	negative	non_pathogenic	N	-					
+35_172	1799	negative	negative	non_pathogenic	N	-					
+35_173	1800	negative	negative	non_pathogenic	N	-					
+35_175	1802	negative	negative	non_pathogenic	N	-					
+35_177	1804	negative	negative	non_pathogenic	N	-					
+35_179	1806	negative	negative	non_pathogenic	N	-					
+35_182	1809	negative	negative	non_pathogenic	N	-					
+35_193	1820	negative	negative	non_pathogenic	N	-					
+35_205	1832	negative	negative	non_pathogenic	N	-					
+35_206	1833	negative	negative	non_pathogenic	N	-					
+35_219	1846	negative	negative	non_pathogenic	N	-					
+35_224	1851	negative	negative	non_pathogenic	N	-					
+35_225	1852	negative	negative	non_pathogenic	N	-					
+35_228	1855	negative	negative	non_pathogenic	N	-					
+35_229	1856	negative	negative	non_pathogenic	N	-					
+35_230	1857	negative	negative	non_pathogenic	N	-					
+35_231	1858	negative	negative	non_pathogenic	N	-					
+35_240	1867	negative	negative	non_pathogenic	N	-					
+35_243	1870	negative	negative	non_pathogenic	N	-					
+35_246	1873	negative	negative	non_pathogenic	N	-					
+35_253	1880	negative	negative	non_pathogenic	Y	-					
+35_254	1881	negative	negative	non_pathogenic	N	-					
+35_255	1882	negative	negative	non_pathogenic	N	-					
+35_258	1885	negative	negative	non_pathogenic	N	-					
+35_263	1890	negative	negative	non_pathogenic	N	-					
+35_264	1891	negative	negative	non_pathogenic	N	-					
+35_273	1900	negative	negative	non_pathogenic	N	-					
+35_275	1902	negative	negative	non_pathogenic	N	-					
+35_276	1903	negative	negative	non_pathogenic	N	-					
+35_278	1905	negative	negative	non_pathogenic	N	-					
+35_280	1907	negative	negative	non_pathogenic	N	-					
+35_282	1909	negative	negative	non_pathogenic	N	-					
+35_286	1913	negative	negative	non_pathogenic	N	-					
+35_287	1914	negative	negative	non_pathogenic	N	-					
+36_1	1917	negative	negative	non_pathogenic	Y	-					
+36_2	1918	negative	negative	non_pathogenic	N	-					
+36_4	1920	negative	negative	non_pathogenic	N	-					
+36_5	1921	negative	negative	non_pathogenic	N	-					
+36_7	1923	negative	negative	non_pathogenic	N	-					
+36_13	1929	negative	negative	non_pathogenic	N	-					
+36_14	1930	negative	negative	non_pathogenic	N	-					
+36_23	1939	negative	negative	non_pathogenic	N	-					
+36_24	1940	negative	negative	non_pathogenic	N	-					
+36_29	1945	negative	negative	non_pathogenic	N	-					
+36_34	1950	negative	negative	non_pathogenic	N	-					
+36_44	1960	negative	negative	non_pathogenic	Y	-					
+36_53	1969	negative	negative	non_pathogenic	N	-					
+36_55	1971	negative	negative	non_pathogenic	N	-					
+36_56	1972	negative	negative	non_pathogenic	N	-					
+36_64	1980	negative	negative	non_pathogenic	N	-					
+36_65	1981	negative	negative	non_pathogenic	N	-					
+36_70	1986	negative	negative	non_pathogenic	N	-					
+36_72	1988	negative	negative	non_pathogenic	N	-					
+36_75	1991	negative	negative	non_pathogenic	N	-					
+36_106	2022	negative	negative	non_pathogenic	N	-					
+36_107	2023	negative	negative	non_pathogenic	N	-					
+36_111	2027	negative	negative	non_pathogenic	N	-					
+36_114	2030	negative	negative	non_pathogenic	N	-					
+36_120	2036	negative	negative	non_pathogenic	N	-					
+36_121	2037	negative	negative	non_pathogenic	N	-					
+36_134	2050	negative	negative	non_pathogenic	N	-					
+36_135	2051	negative	negative	non_pathogenic	N	-					
+36_149	2065	negative	negative	non_pathogenic	N	-					
+36_156	2072	negative	negative	non_pathogenic	N	-					
+36_159	2075	negative	negative	non_pathogenic	N	-					
+36_160	2076	negative	negative	non_pathogenic	N	-					
+36_161	2077	negative	negative	non_pathogenic	N	-					
+36_162	2078	negative	negative	non_pathogenic	N	-					
+36_165	2081	negative	negative	non_pathogenic	N	-					
+36_166	2082	negative	negative	non_pathogenic	N	-					
+36_170	2086	negative	negative	non_pathogenic	N	-					
+36_171	2087	negative	negative	non_pathogenic	N	-					
+36_172	2088	negative	negative	non_pathogenic	N	-					
+36_173	2089	negative	negative	non_pathogenic	N	-					
+36_177	2093	negative	negative	non_pathogenic	N	-					
+36_180	2096	negative	negative	non_pathogenic	N	-					
+36_190	2106	negative	negative	non_pathogenic	N	-					
+36_192	2108	negative	negative	non_pathogenic	N	-					
+36_204	2120	negative	negative	non_pathogenic	N	-					
+36_207	2123	negative	negative	non_pathogenic	N	-					
+36_208	2124	negative	negative	non_pathogenic	N	-					
+36_211	2127	negative	negative	non_pathogenic	N	-					
+36_213	2129	negative	negative	non_pathogenic	N	-					
+36_217	2133	negative	negative	non_pathogenic	N	-					
+36_225	2141	negative	negative	non_pathogenic	N	-					
+36_229	2145	negative	negative	non_pathogenic	N	-					
+36_231	2147	negative	negative	non_pathogenic	N	-					
+36_233	2149	negative	negative	non_pathogenic	N	-					
+36_236	2152	negative	negative	non_pathogenic	N	-					
+37_4	2156	negative	negative	non_pathogenic	N	-					
+37_14	2166	negative	negative	non_pathogenic	N	-					
+37_17	2169	negative	negative	non_pathogenic	N	-					
+37_23	2175	negative	negative	non_pathogenic	N	-					
+37_24	2176	negative	negative	non_pathogenic	N	-					
+37_33	2185	negative	negative	non_pathogenic	N	-					
+37_37	2189	negative	negative	non_pathogenic	N	-					
+37_43	2195	negative	negative	non_pathogenic	N	-					
+37_50	2202	negative	negative	non_pathogenic	N	-					
+37_51	2203	negative	negative	non_pathogenic	N	-					
+37_52	2204	negative	negative	non_pathogenic	N	-					
+37_54	2206	negative	negative	non_pathogenic	N	-					
+37_56	2208	negative	negative	non_pathogenic	N	-					
+37_64	2216	negative	negative	non_pathogenic	N	-					
+37_66	2218	negative	negative	non_pathogenic	N	-					
+37_77	2229	negative	negative	non_pathogenic	N	-					
+37_78	2230	negative	negative	non_pathogenic	N	-					
+37_81	2233	negative	negative	non_pathogenic	N	-					
+37_84	2236	negative	negative	non_pathogenic	N	-					
+37_85	2237	negative	negative	non_pathogenic	N	-					
+37_86	2238	negative	negative	non_pathogenic	N	-					
+38_2	2240	negative	negative	non_pathogenic	N	-					
+38_4	2242	negative	negative	non_pathogenic	N	-					
+38_6	2244	negative	negative	non_pathogenic	N	-					
+38_8	2246	negative	negative	non_pathogenic	N	-					
+38_9	2247	negative	negative	non_pathogenic	N	-					
+38_12	2250	negative	negative	non_pathogenic	Y	-					
+38_13	2251	negative	negative	non_pathogenic	N	-					
+38_14	2252	negative	negative	non_pathogenic	N	-					
+38_16	2254	negative	negative	non_pathogenic	N	-					
+38_17	2255	negative	negative	non_pathogenic	N	-					
+38_18	2256	negative	negative	non_pathogenic	N	-					
+38_20	2258	negative	negative	non_pathogenic	N	-					
+38_26	2264	negative	negative	non_pathogenic	N	-					
+38_33	2271	negative	negative	non_pathogenic	N	-					
+38_43	2281	negative	negative	non_pathogenic	N	-					
+38_47	2285	negative	negative	non_pathogenic	N	-					
+38_49	2287	negative	negative	non_pathogenic	N	-					
+38_60	2298	negative	negative	non_pathogenic	N	-					
+38_61	2299	negative	negative	non_pathogenic	N	-					
+38_62	2300	negative	negative	non_pathogenic	N	-					
+38_64	2302	negative	negative	non_pathogenic	N	-					
+38_74	2312	negative	negative	non_pathogenic	N	-					
+39_1	2315	negative	negative	non_pathogenic	N	-					
+39_2	2316	negative	negative	non_pathogenic	N	-					
+39_3	2317	negative	negative	non_pathogenic	N	-					
+39_4	2318	negative	negative	non_pathogenic	Y	-					
+39_5	2319	negative	negative	non_pathogenic	N	-					
+39_6	2320	negative	negative	non_pathogenic	N	-					
+39_7	2321	negative	negative	non_pathogenic	N	-					
+39_13	2327	negative	negative	non_pathogenic	N	-					
+39_14	2328	negative	negative	non_pathogenic	N	-					
+39_23	2337	negative	negative	non_pathogenic	N	-					
+39_25	2339	negative	negative	non_pathogenic	N	-					
+39_26	2340	negative	negative	non_pathogenic	N	-					
+39_34	2348	negative	negative	non_pathogenic	Y	-					
+39_35	2349	negative	negative	non_pathogenic	N	-					
+39_39	2353	negative	negative	non_pathogenic	N	-					
+39_41	2355	negative	negative	non_pathogenic	N	-					
+39_43	2357	negative	negative	non_pathogenic	N	-					
+39_44	2358	negative	negative	non_pathogenic	N	-					
+39_46	2360	negative	negative	non_pathogenic	N	-					
+39_47	2361	negative	negative	non_pathogenic	N	-					
+39_48	2362	negative	negative	non_pathogenic	N	-					
+39_49	2363	negative	negative	non_pathogenic	N	-					
+39_50	2364	negative	negative	non_pathogenic	N	-					
+39_51	2365	negative	negative	non_pathogenic	N	-					
+39_53	2367	negative	negative	non_pathogenic	N	-					
+39_54	2368	negative	negative	non_pathogenic	N	-					
+39_55	2369	negative	negative	non_pathogenic	N	-					
+39_56	2370	negative	negative	non_pathogenic	N	-					
+39_58	2372	negative	negative	non_pathogenic	N	-					
+39_62	2376	negative	negative	non_pathogenic	N	-					
+39_63	2377	negative	negative	non_pathogenic	N	-					
+39_64	2378	negative	negative	non_pathogenic	N	-					
+39_65	2379	negative	negative	non_pathogenic	N	-					
+39_70	2384	negative	negative	non_pathogenic	N	-					
+39_71	2385	negative	negative	non_pathogenic	N	-					
+39_72	2386	negative	negative	non_pathogenic	N	-					
+39_73	2387	negative	negative	non_pathogenic	N	-					
+39_74	2388	negative	negative	non_pathogenic	N	-					
+39_76	2390	negative	negative	non_pathogenic	N	-					
+39_77	2391	negative	negative	non_pathogenic	N	-					
+39_81	2395	negative	negative	non_pathogenic	N	-					
+39_82	2396	negative	negative	non_pathogenic	N	-					
+39_83	2397	negative	negative	non_pathogenic	N	-					
+39_84	2398	negative	negative	non_pathogenic	N	-					
+39_85	2399	negative	negative	non_pathogenic	N	-					
+40_2	2403	negative	negative	non_pathogenic	N	-					
+40_3	2404	negative	negative	non_pathogenic	N	-					
+40_4	2405	negative	negative	non_pathogenic	N	-					
+40_5	2406	negative	negative	non_pathogenic	N	-					
+40_8	2409	negative	negative	non_pathogenic	N	-					
+40_9	2410	negative	negative	non_pathogenic	N	-					
+40_10	2411	negative	negative	non_pathogenic	N	-					
+40_11	2412	negative	negative	non_pathogenic	N	-					
+40_15	2416	negative	negative	non_pathogenic	N	-					
+40_16	2417	negative	negative	non_pathogenic	N	-					
+40_18	2419	negative	negative	non_pathogenic	N	-					
+40_19	2420	negative	negative	non_pathogenic	N	-					
+40_32	2433	negative	negative	non_pathogenic	N	-					
+40_34	2435	negative	negative	non_pathogenic	N	-					
+40_37	2438	negative	negative	non_pathogenic	N	-					
+40_39	2440	negative	negative	non_pathogenic	N	-					

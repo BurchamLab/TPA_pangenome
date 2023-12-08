@@ -1,0 +1,27 @@
+seq_name	strain	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes	amr_annotation
+NZ_JACANE010000015.1	DF92-3	3854	No terminal repeats	7	11	0.9949	NA	1	6.6443	MOBQ	NA	
+NZ_JACANE010000014.1	DF92-3	4332	No terminal repeats	5	11	0.9949	NA	0	4.2864	NA	NA	
+NZ_JACANE010000009.1	DF92-3	82502	No terminal repeats	91	11	0.9906	NA	18	36.5807	T_virB9;MOBH;t4cp1;F_traL;F_traE;F_traK;F_traB;F_traV;virb4;F_traW;F_traU	NA	
+NZ_JACANE010000027.1	DF92-3	1081	No terminal repeats	3	11	0.9885	NA	1	2.2268	NA	NA	
+NZ_JACANE010000011.1	DF92-3	42723	No terminal repeats	37	11	0.9876	NA	5	9.5053	T_virB1;F_traG;F_traH;F_traF	NA	
+NZ_JACANE010000022.1	DF92-3	1622	No terminal repeats	3	11	0.9867	NA	1	1.7183	NA	NA	
+NZ_JACANE010000031.1	DF92-3	944	No terminal repeats	2	11	0.9789	NA	1	1.5453	NA	NA	
+NZ_JACANE010000012.1	DF92-3	7267	No terminal repeats	6	11	0.9388	NA	0	0.6031	NA	NA	
+NZ_JACANE010000017.1	DF92-3	2591	No terminal repeats	3	11	0.8439	NA	0	0.7742	NA	NF012174	Tet(A)/Tet(B)/Tet(C) family tetracycline efflux MFS transporter
+NZ_JACAND010000035.1	DF95-5	3566	No terminal repeats	3	11	0.9961	NA	3	4.4682	MOBQ	NA	
+NZ_JACAND010000027.1	DF95-5	15105	DTR	18	11	0.9934	NA	3	5.4196	MOBP1	NA	
+NZ_JACAND010000036.1	DF95-5	3484	No terminal repeats	4	11	0.9861	NA	0	0.6275	NA	NA	
+NZ_JACAND010000037.1	DF95-5	2681	No terminal repeats	4	11	0.8319	NA	0	0.7742	NA	NF012174	Tet(A)/Tet(B)/Tet(C) family tetracycline efflux MFS transporter
+NZ_JACAND010000032.1	DF95-5	5276	No terminal repeats	3	11	0.8172	NA	0	0	NA	NA	
+NZ_JACAND010000033.1	DF95-5	4782	No terminal repeats	5	11	0.8154	NA	0	2.4015	NA	NA	
+NZ_JACAND010000030.1	DF95-5	7671	No terminal repeats	4	11	0.7571	NA	0	1.4533	NA	NF000107	aminoglycoside O-phosphotransferase APH(4)-Ia
+NZ_JACANB010000023.1	DF46-2-2	5318	No terminal repeats	4	11	0.9918	NA	0	4.4077	NA	NA	
+NZ_JACANB010000016.1	DF46-2-2	14981	No terminal repeats	12	11	0.9507	NA	0	4.629	NA	NF000107;NF012174	aminoglycoside O-phosphotransferase APH(4)-Ia; Tet(A)/Tet(B)/Tet(C) family tetracycline efflux MFS transporter
+NZ_JACANB010000017.1	DF46-2-2	13688	No terminal repeats	11	11	0.9318	NA	0	0.8183	NA	NA	
+NZ_JACANB010000013.1	DF46-2-2	27257	No terminal repeats	18	11	0.9019	NA	0	3.4741	NA	NA	
+NZ_JACANB010000019.1	DF46-2-2	9820	No terminal repeats	10	11	0.8826	NA	0	0.6829	NA	NF000225;NF000088;NF000051	aminoglycoside 6'-N-acetyltransferase;viomycin phosphotransferase;macrolide efflux MFS transporter Mef(B)
+NZ_JACANB010000022.1	DF46-2-2	6268	ITR	5	11	0.8334	NA	0	0.4006	NA	NA	
+NZ_JACANB010000024.1	DF46-2-2	5276	No terminal repeats	3	11	0.8134	NA	0	0	NA	NA	
+NZ_JACANB010000021.1	DF46-2-2	6899	No terminal repeats	5	11	0.7674	NA	0	0	NA	NA	
+												
+						0.017053729						

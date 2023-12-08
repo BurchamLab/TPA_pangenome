@@ -1,0 +1,2 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+NZ_CP012365.1|provirus_2347740_2396545	48806	No	NA	66	31	2	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.01	

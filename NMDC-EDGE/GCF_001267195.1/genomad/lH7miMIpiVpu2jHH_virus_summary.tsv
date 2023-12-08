@@ -1,0 +1,2 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+NZ_CP012359.1|provirus_342725_366191	23467	Provirus	342725-366191	37	11	0.8955	NA	6	24.5886	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes

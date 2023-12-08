@@ -1,0 +1,12 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+NZ_CP012358.1|provirus_339791_385821	46031	No	NA	62	31	2	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.01	
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+NZ_CP012359.1|provirus_342725_366191	23467	No	NA	38	13	2	Medium-quality	Genome-fragment	50.4	AAI-based (medium-confidence)	0.0	1.0	
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+NZ_CP012365.1|provirus_2347740_2396545	48806	No	NA	66	31	2	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.01	
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+NZ_JACANB010000003.1|provirus_245263_253142	7880	No	NA	13	3	0	High-quality	High-quality	92.61	AAI-based (medium-confidence)	0.0	1.0	
+NZ_JACANB010000008.1|provirus_23582_71415	47834	No	NA	64	25	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+NZ_JACAND010000026.1	15177	No	NA	18	3	1	Low-quality	Genome-fragment	5.02	AAI-based (medium-confidence)	0.0	1.0	
+none found
