@@ -1,0 +1,119 @@
+{
+"Date":"10/7/2023_17:40:50",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"NZ_CP012360_1_Thiopseudomonas_alkaliphila_strain_C6918_chromosome__complete_genome",
+"Version":"NZ_CP012360_1_Thiopseudomonas_alkaliphila_strain_C6918_chromosome__complete_genome",
+"Description":"Unknown",
+"AT":52.4916815633687,
+"Length":2312033,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "NZ_CP012360_1_Thiopseudomonas_alkaliphila_strain_C6918_chromosome__complete_genome_1",
+"Start": 1135810,
+"End": 1135923,
+"DR_Consensus": "TCCGGCATCTCAGGAGCCAATGCACGGC",
+"Repeat_ID": "Unknown",
+"DR_Length": 28,
+"Spacers": 1,
+"Potential_Orientation": "ND",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 96.4285714285714,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 1135710,
+"End": 1135809,
+"Sequence": "TACTGAATGTACTCGCCCAGCTGGGCAAACAAGCATACAACCAACACCAACCCTTGCCCGAAGATTAATCCACTGTTTCTTGCTTAGGTGCCGGACTTGA",
+"Leader": 0,
+"AT": 51
+},
+ {
+"Type": "DR",
+"Start": 1135810,
+"End": 1135837,
+"Sequence": "TCCGGCATCTCAGGAGCCAATGCACGGC"
+},
+{
+"Type": "Spacer",
+"Start": 1135838,
+"End": 1135895,
+"Sequence": "CGCGAACCCAAACACAGCAAACCCCAAATCCAACCCCAACCCGTCGTGCCGGATTTAG"
+},
+{
+"Type": "DR",
+"Start": 1135896,
+"End": 1135923,
+"Sequence": "TCCGGCATCTCAGGAGCCAGTGCACGGC"
+},
+{
+"Type": "RightFLANK",
+"Start": 1135924,
+"End": 1136023,
+"Sequence": "GGTGAACCAAAGCACATCCAAGCCCTGCCACGAAGCTATCCATACTCTGCGGCCCGAGATGCTGAAACAAGTTCAGCAGGACGGGGATGTTTGGGCGTGA",
+"Leader": 0,
+"AT": 44
+}
+]
+},
+{
+"Name": "NZ_CP012360_1_Thiopseudomonas_alkaliphila_strain_C6918_chromosome__complete_genome_2",
+"Start": 1470962,
+"End": 1471094,
+"DR_Consensus": "CGTCGTGCCGGATTTAGTCCGGCATCTCAGGAGCCAATGCACGGC",
+"Repeat_ID": "R2965",
+"DR_Length": 45,
+"Spacers": 1,
+"Potential_Orientation": "+",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 97.7777777777778,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 1470862,
+"End": 1470961,
+"Sequence": "AGTTCAGCACGACGAAGGTGTGAGCGGGTGGAGTGTGGGGGAAAGTGATATTTCTTTGATTGTTTTGCCGTATATCGCAGATCAAACCAATTAAAGCACT",
+"Leader": 1,
+"AT": 55
+},
+ {
+"Type": "DR",
+"Start": 1470962,
+"End": 1471006,
+"Sequence": "CGTCGTGCCGGATTTAGTCCGGCATCTCAGGAGCCAATGCACGGC"
+},
+{
+"Type": "Spacer",
+"Start": 1471007,
+"End": 1471049,
+"Sequence": "TGTGAACCCAAACACAGCAAACCCCAAACCCAACTCCCCAATC"
+},
+{
+"Type": "DR",
+"Start": 1471050,
+"End": 1471094,
+"Sequence": "CGTCGTGCCGGATTTAGTCCGGCATCTCAGGACCCAATGCACGGC"
+},
+{
+"Type": "RightFLANK",
+"Start": 1471095,
+"End": 1471194,
+"Sequence": "CGCGAACCCAAACACATCCAAGCCCTGCCACGAACTTATCCGTACTCTGCAGCCCAAGATGCTGAAACAAATTCAGCACGACAAAGCTGTTTGAGGGGGG",
+"Leader": 0,
+"AT": 47
+}
+]
+}]
+,
+"Cas":[]
+
+}
+]
+}

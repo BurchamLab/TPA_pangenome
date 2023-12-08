@@ -1,0 +1,131 @@
+{
+"Date":"10/7/2023_17:43:8",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"NZ_CP012365_1_Thiopseudomonas_alkaliphila_strain_E5571_chromosome",
+"Version":"NZ_CP012365_1_Thiopseudomonas_alkaliphila_strain_E5571_chromosome",
+"Description":"Unknown",
+"AT":52.7001967852704,
+"Length":2397029,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "NZ_CP012365_1_Thiopseudomonas_alkaliphila_strain_E5571_chromosome_1",
+"Start": 1437027,
+"End": 1437134,
+"DR_Consensus": "TATTGTTTATTGTTTATTGTTTATT",
+"Repeat_ID": "Unknown",
+"DR_Length": 25,
+"Spacers": 2,
+"Potential_Orientation": "-",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 74.2877166464743,
+"Conservation_Spacers": 41.1764705882353,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 1436927,
+"End": 1437026,
+"Sequence": "AAAGTGGCATTTTTGCCAGATATCCCAATGGTGGCGTGATTTTAATTTAATTGCAGGTGCAAGTTGATTAAATGTGAAATTTAGCGATTTTAGCCAATAG",
+"Leader": 0,
+"AT": 65
+},
+ {
+"Type": "DR",
+"Start": 1437027,
+"End": 1437051,
+"Sequence": "GATTATTTGTTATTTGTTATTTGTT"
+},
+{
+"Type": "Spacer",
+"Start": 1437052,
+"End": 1437067,
+"Sequence": "ATTTGTGCAAGTAGCA"
+},
+{
+"Type": "DR",
+"Start": 1437068,
+"End": 1437092,
+"Sequence": "TATTGTTTATTGTTTATTGTTTATT"
+},
+{
+"Type": "Spacer",
+"Start": 1437093,
+"End": 1437109,
+"Sequence": "GTTTATTGTTTATTGTT"
+},
+{
+"Type": "DR",
+"Start": 1437110,
+"End": 1437134,
+"Sequence": "TATTGTTTATTGTTTATTGTTTATT"
+},
+{
+"Type": "RightFLANK",
+"Start": 1437135,
+"End": 1437234,
+"Sequence": "GTTTATTGTTTATTGTTTATTAGGAGTCAGGAATTAAAAATTAAAAATTAAAAATTAAAAATTAAAAATTAAAAATTAAAAATTAAAAGAGCTTGCGCCA",
+"Leader": 1,
+"AT": 83
+}
+]
+},
+{
+"Name": "NZ_CP012365_1_Thiopseudomonas_alkaliphila_strain_E5571_chromosome_2",
+"Start": 2224917,
+"End": 2225146,
+"DR_Consensus": "CCCCAATCCGTCGTGCCGGATTCAGTCCGGCATCTCAGGAGCCAACGCACAGCCG",
+"Repeat_ID": "Unknown",
+"DR_Length": 55,
+"Spacers": 1,
+"Potential_Orientation": "+",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 96.3636363636364,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 2224817,
+"End": 2224916,
+"Sequence": "CTATTAGTTGTTTAATAGCTCTGCCTAATTAGAAACCGCTCCATCATAGCAGCCCCTAGCAAGCGAATGAAAAACATTAATCCATCAATCCTAAGTCTAG",
+"Leader": 1,
+"AT": 61
+},
+ {
+"Type": "DR",
+"Start": 2224917,
+"End": 2224971,
+"Sequence": "CCCCAATCCGTCGTGCCGGATTCAGTCCGGCATCTCAGGAGCCAATGCACAGCCG"
+},
+{
+"Type": "Spacer",
+"Start": 2224972,
+"End": 2225091,
+"Sequence": "TGAACCCAAACACAGCAAACCCCAAACCCAACCCCCAATCCGTCGTGCCGGATTCAGTCCGGCATCTCAGGAGCCAACGCACAGCCGCGAACCCAAACACAGCAAACCCCAAACCCAACT"
+},
+{
+"Type": "DR",
+"Start": 2225092,
+"End": 2225146,
+"Sequence": "CCCCAATCCGTCGTGCCGGATTCAGTCCGGCATCTCAGGACCCAACGCACAGCCG"
+},
+{
+"Type": "RightFLANK",
+"Start": 2225147,
+"End": 2225246,
+"Sequence": "TGAACCCAAGCACCCCAACGCCCTGCCATGAACCTATCCATACTCTGCGGCCTGAGATGCTGAAACAAGTTCAGCACGACGGGGATGTTTGAAGGAGGGG",
+"Leader": 0,
+"AT": 44
+}
+]
+}]
+,
+"Cas":[]
+
+}
+]
+}

@@ -1,0 +1,14 @@
+############################################
+NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome ( Unknown ) 
+--------------------------------------------
+### System: CAS-TypeIF (UserReplicon_CAS-TypeIF_1)
+#SequenceID	Cas-type/subtype	Gene status	System	Type	Begin	End	Strand	Other_information
+NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome_1396	cas1_TypeIF	mandatory	CAS-TypeIF	CDS	1481995	1482972	+	ID=1_1396;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.463;conf=100.00;score=126.51;cscore=110.01;sscore=16.51;rscore=10.53;uscore=1.29;tscore=4.68;
+NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome_1397	cas3-cas2_TypeIF	mandatory	CAS-TypeIF	CDS	1482969	1486316	+	ID=1_1397;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.477;conf=99.99;score=390.46;cscore=383.74;sscore=6.72;rscore=-0.73;uscore=0.74;tscore=4.68;
+NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome_1398	csy1_TypeIF	mandatory	CAS-TypeIF	CDS	1486395	1487744	+	ID=1_1398;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.473;conf=100.00;score=140.22;cscore=124.28;sscore=15.94;rscore=11.28;uscore=-0.03;tscore=4.68;
+NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome_1399	csy2_TypeIF	mandatory	CAS-TypeIF	CDS	1487741	1488706	+	ID=1_1399;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.471;conf=100.00;score=90.38;cscore=73.87;sscore=16.51;rscore=10.53;uscore=-2.11;tscore=4.68;
+NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome_1400	csy3_TypeIF	mandatory	CAS-TypeIF	CDS	1488726	1489754	+	ID=1_1400;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.455;conf=99.99;score=179.23;cscore=158.46;sscore=20.77;rscore=14.40;uscore=0.62;tscore=4.68;
+NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome_1401	cas6_TypeIF	mandatory	CAS-TypeIF	CDS	1489759	1490322	+	ID=1_1401;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.486;conf=99.99;score=42.76;cscore=33.34;sscore=9.42;rscore=3.40;uscore=0.10;tscore=4.68;
+####Summary system CAS-TypeIF:begin=1481995;end=1490322:{sequenceID=NZ_CP012359_1_Thiopseudomonas_alkaliphila_strain_C6819_chromosome__complete_genome} : [cas1_TypeIF (1481995,1482972,+); cas3-cas2_TypeIF (1482969,1486316,+); csy1_TypeIF (1486395,1487744,+); csy2_TypeIF (1487741,1488706,+); csy3_TypeIF (1488726,1489754,+); cas6_TypeIF (1489759,1490322,+)]
+
+

@@ -1,0 +1,16 @@
+############################################
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome ( Unknown ) 
+--------------------------------------------
+### System: CAS-TypeIE (UserReplicon_CAS-TypeIE_1)
+#SequenceID	Cas-type/subtype	Gene status	System	Type	Begin	End	Strand	Other_information
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1360	cas3_TypeI	accessory	CAS	CDS	1481319	1483889	+	ID=1_1360;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.454;conf=99.99;score=324.36;cscore=308.77;sscore=15.59;rscore=10.55;uscore=0.38;tscore=4.66;
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1361	cse1_TypeIE	mandatory	CAS-TypeIE	CDS	1483898	1485397	+	ID=1_1361;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.439;conf=100.00;score=154.11;cscore=132.98;sscore=21.13;rscore=14.39;uscore=0.89;tscore=4.66;
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1362	cse2_TypeIE	mandatory	CAS-TypeIE	CDS	1485397	1485933	+	ID=1_1362;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.464;conf=100.00;score=77.27;cscore=54.00;sscore=23.27;rscore=14.39;uscore=2.94;tscore=4.66;
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1363	cas6_TypeIE	mandatory	CAS-TypeIE	CDS	1485930	1486574	+	ID=1_1363;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.447;conf=100.00;score=60.15;cscore=39.80;sscore=20.35;rscore=14.39;uscore=-1.51;tscore=4.66;
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1364	cas7_TypeIE	mandatory	CAS-TypeIE	CDS	1486605	1487636	+	ID=1_1364;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.444;conf=100.00;score=149.98;cscore=129.13;sscore=20.85;rscore=11.43;uscore=3.82;tscore=4.66;
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1365	cas5_TypeIE	mandatory	CAS-TypeIE	CDS	1487645	1488367	+	ID=1_1365;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.490;conf=100.00;score=94.88;cscore=78.13;sscore=16.75;rscore=10.55;uscore=0.35;tscore=4.66;
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1366	cas1_TypeIE	mandatory	CAS-TypeIE	CDS	1488360	1489247	+	ID=1_1366;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450;conf=100.00;score=82.92;cscore=86.41;sscore=-3.49;rscore=-8.22;uscore=-1.17;tscore=4.66;
+NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome_1367	cas2_TypeIE	mandatory	CAS-TypeIE	CDS	1489225	1489518	+	ID=1_1367;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.412;conf=89.18;score=9.18;cscore=5.69;sscore=3.49;rscore=10.55;uscore=-0.34;tscore=-6.73;
+####Summary system CAS-TypeIE:begin=1481319;end=1489518:{sequenceID=NZ_CP012363_1_Thiopseudomonas_alkaliphila_strain_E1086_chromosome__complete_genome} : [cas3_TypeI (1481319,1483889,+); cse1_TypeIE (1483898,1485397,+); cse2_TypeIE (1485397,1485933,+); cas6_TypeIE (1485930,1486574,+); cas7_TypeIE (1486605,1487636,+); cas5_TypeIE (1487645,1488367,+); cas1_TypeIE (1488360,1489247,+); cas2_TypeIE (1489225,1489518,+)]
+
+

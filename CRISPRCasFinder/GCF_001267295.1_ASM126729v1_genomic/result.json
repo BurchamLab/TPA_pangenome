@@ -1,0 +1,18 @@
+{
+"Date":"10/7/2023_17:42:33",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"NZ_CP012364_1_Thiopseudomonas_alkaliphila_strain_E1148_chromosome__complete_genome",
+"Version":"NZ_CP012364_1_Thiopseudomonas_alkaliphila_strain_E1148_chromosome__complete_genome",
+"Description":"Unknown",
+"AT":52.5530453349845,
+"Length":2377259,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[]
+
+}
+]
+}

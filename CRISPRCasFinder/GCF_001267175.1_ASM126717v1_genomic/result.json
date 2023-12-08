@@ -1,0 +1,69 @@
+{
+"Date":"10/7/2023_17:38:29",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"NZ_CP012358_1_Thiopseudomonas_alkaliphila_strain_B4199_chromosome__complete_genome",
+"Version":"NZ_CP012358_1_Thiopseudomonas_alkaliphila_strain_B4199_chromosome__complete_genome",
+"Description":"Unknown",
+"AT":52.6365550388107,
+"Length":2494031,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "NZ_CP012358_1_Thiopseudomonas_alkaliphila_strain_B4199_chromosome__complete_genome_1",
+"Start": 2379332,
+"End": 2379445,
+"DR_Consensus": "TCCGGCATCTCAGGAGCCAATGCACGGC",
+"Repeat_ID": "Unknown",
+"DR_Length": 28,
+"Spacers": 1,
+"Potential_Orientation": "ND",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 96.4285714285714,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 2379232,
+"End": 2379331,
+"Sequence": "TACTGAATGTACTCGCCCAGCTGGGCAAACAAGCATACAACCAACACCAACCCTTGCCCGAAGATTAATCCACTGTTTCTTGCTTAGGTGCCGGACTTGA",
+"Leader": 0,
+"AT": 51
+},
+ {
+"Type": "DR",
+"Start": 2379332,
+"End": 2379359,
+"Sequence": "TCCGGCATCTCAGGAGCCAATGCACGGC"
+},
+{
+"Type": "Spacer",
+"Start": 2379360,
+"End": 2379417,
+"Sequence": "CGCGAACCCAAACACAGCAAACCCCAAATCCAACCCCAACCCGTCGTGCCGGATTTAG"
+},
+{
+"Type": "DR",
+"Start": 2379418,
+"End": 2379445,
+"Sequence": "TCCGGCATCTCAGGAGCCAGTGCACGGC"
+},
+{
+"Type": "RightFLANK",
+"Start": 2379446,
+"End": 2379545,
+"Sequence": "GGTGAACCAAAGCACATCCAAGCCCTGCCACGAAGCTATCCATACTCTGCGGCCCGAGATGCTGAAACAAGTTCAGCAGGACGGGGATGTTTGGGCGTGA",
+"Leader": 0,
+"AT": 44
+}
+]
+}]
+,
+"Cas":[]
+
+}
+]
+}
