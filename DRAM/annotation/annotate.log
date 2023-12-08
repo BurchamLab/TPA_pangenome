@@ -1,0 +1,155 @@
+2023-08-13 10:19:36,131 - The log file is created at pangenome/annotation/annotate.log.
+2023-08-13 10:19:36,133 - 10 FASTAs found
+2023-08-13 10:19:36,250 - Starting the Annotation of Bins with database configuration: 
+ 
+
+KOfam db:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+KOfam KO list:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+Pfam db:
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+    Description_Db_Updated: 08/12/2023, 00:24:53
+dbCAN db:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Description_Db_Updated: 08/12/2023, 00:24:56
+MEROPS peptidase db:
+    Description_Db_Updated: 08/12/2023, 00:24:53
+    Citation: N. D. Rawlings, A. J. Barrett, P. D. Thomas, X. Huang, A. Bateman, and R. D. Finn, "The merops database of proteolytic enzymes, their substrates and inhibitors in 2017 and a comparison with peptidases in the panther database," Nucleic acids research, vol. 46, no. D1, pp. D624–D632, 2018.
+
+Pfam hmm dat:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+dbCAN family activities:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 08/10/2023, 14:11:35
+    Origin: Downloaded by DRAM
+dbCAN subfamily EC numbers:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 08/10/2023, 14:11:35
+    Origin: Downloaded by DRAM
+VOG annotations:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Thannesberger, H.-J. Hellinger, I. Klymiuk, M.-T. Kastner, F. J. Rieder, M. Schneider, S. Fister, T. Lion, K. Kosulin, J. Laengle et al., "Viruses comprise an extensive pool of mobile genetic elements in eukaryote cell cultures and human clinical samples," The FASEB Journal, vol. 31, no. 5, pp. 1987–2000, 2017.
+    Version: latest
+    Download Time: 08/10/2023, 14:11:36
+    Origin: Downloaded by DRAM
+
+Genome summary form:
+    Branch: master
+    Download Time: 08/10/2023, 14:11:44
+    Origin: Downloaded by DRAM
+Module step form:
+    Branch: master
+    Download Time: 08/10/2023, 14:11:52
+    Origin: Downloaded by DRAM
+ETC module database:
+    Branch: master
+    Download Time: 08/10/2023, 14:11:53
+    Origin: Downloaded by DRAM
+Function heatmap form:
+    Branch: master
+    Download Time: 08/10/2023, 14:11:52
+    Origin: Downloaded by DRAM
+AMG database:
+    Branch: master
+    Download Time: 08/10/2023, 14:11:53
+    Origin: Downloaded by DRAM
+2023-08-13 10:19:36,251 - Retrieved database locations and descriptions
+2023-08-13 10:19:36,251 - Annotating GCF_001267275.1_ASM126727v1_genomic
+2023-08-13 10:19:50,441 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 10:19:52,210 - Getting hits from kofam
+2023-08-13 10:32:08,343 - Getting forward best hits from peptidase
+2023-08-13 10:32:16,452 - Getting reverse best hits from peptidase
+2023-08-13 10:32:18,775 - Getting descriptions of hits from peptidase
+2023-08-13 10:32:21,181 - Getting hits from pfam
+2023-08-13 10:32:39,667 - Getting hits from dbCAN
+2023-08-13 10:32:47,868 - Merging ORF annotations
+2023-08-13 10:33:01,344 - Annotating GCF_001267175.1_ASM126717v1_genomic
+2023-08-13 10:33:16,021 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 10:33:17,357 - Getting hits from kofam
+2023-08-13 10:45:15,708 - Getting forward best hits from peptidase
+2023-08-13 10:45:19,071 - Getting reverse best hits from peptidase
+2023-08-13 10:45:20,473 - Getting descriptions of hits from peptidase
+2023-08-13 10:45:20,783 - Getting hits from pfam
+2023-08-13 10:45:28,258 - Getting hits from dbCAN
+2023-08-13 10:45:35,607 - Merging ORF annotations
+2023-08-13 10:45:48,587 - Annotating GCF_001267315.1_ASM126731v1_genomic
+2023-08-13 10:46:02,559 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 10:46:03,815 - Getting hits from kofam
+2023-08-13 10:58:19,006 - Getting forward best hits from peptidase
+2023-08-13 10:58:22,779 - Getting reverse best hits from peptidase
+2023-08-13 10:58:24,120 - Getting descriptions of hits from peptidase
+2023-08-13 10:58:24,368 - Getting hits from pfam
+2023-08-13 10:58:31,560 - Getting hits from dbCAN
+2023-08-13 10:58:38,138 - Merging ORF annotations
+2023-08-13 10:58:49,446 - Annotating GCF_030329025.1_ASM3032902v1_genomic
+2023-08-13 10:59:02,838 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 10:59:04,321 - Getting hits from kofam
+2023-08-13 11:12:14,232 - Getting forward best hits from peptidase
+2023-08-13 11:12:17,512 - Getting reverse best hits from peptidase
+2023-08-13 11:12:18,715 - Getting descriptions of hits from peptidase
+2023-08-13 11:12:18,952 - Getting hits from pfam
+2023-08-13 11:12:27,091 - Getting hits from dbCAN
+2023-08-13 11:12:33,893 - Merging ORF annotations
+2023-08-13 11:12:46,757 - Annotating GCF_001267295.1_ASM126729v1_genomic
+2023-08-13 11:13:00,803 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 11:13:01,958 - Getting hits from kofam
+2023-08-13 11:25:03,958 - Getting forward best hits from peptidase
+2023-08-13 11:25:11,391 - Getting reverse best hits from peptidase
+2023-08-13 11:25:12,688 - Getting descriptions of hits from peptidase
+2023-08-13 11:25:12,865 - Getting hits from pfam
+2023-08-13 11:25:21,408 - Getting hits from dbCAN
+2023-08-13 11:25:28,646 - Merging ORF annotations
+2023-08-13 11:25:40,277 - Annotating GCF_030328955.1_ASM3032895v1_genomic
+2023-08-13 11:25:54,747 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 11:25:55,989 - Getting hits from kofam
+2023-08-13 11:38:10,984 - Getting forward best hits from peptidase
+2023-08-13 11:38:14,798 - Getting reverse best hits from peptidase
+2023-08-13 11:38:16,238 - Getting descriptions of hits from peptidase
+2023-08-13 11:38:16,596 - Getting hits from pfam
+2023-08-13 11:38:31,858 - Getting hits from dbCAN
+2023-08-13 11:38:39,603 - Merging ORF annotations
+2023-08-13 11:38:51,695 - Annotating GCF_001267255.1_ASM126725v1_genomic
+2023-08-13 11:39:05,116 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 11:39:06,322 - Getting hits from kofam
+2023-08-13 11:51:05,481 - Getting forward best hits from peptidase
+2023-08-13 11:51:08,729 - Getting reverse best hits from peptidase
+2023-08-13 11:51:09,865 - Getting descriptions of hits from peptidase
+2023-08-13 11:51:09,944 - Getting hits from pfam
+2023-08-13 11:51:17,454 - Getting hits from dbCAN
+2023-08-13 11:51:24,775 - Merging ORF annotations
+2023-08-13 11:51:34,816 - Annotating GCF_030328995.1_ASM3032899v1_genomic
+2023-08-13 11:51:48,602 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 11:51:49,888 - Getting hits from kofam
+2023-08-13 12:04:30,604 - Getting forward best hits from peptidase
+2023-08-13 12:04:36,713 - Getting reverse best hits from peptidase
+2023-08-13 12:04:38,169 - Getting descriptions of hits from peptidase
+2023-08-13 12:04:38,555 - Getting hits from pfam
+2023-08-13 12:04:46,949 - Getting hits from dbCAN
+2023-08-13 12:04:54,534 - Merging ORF annotations
+2023-08-13 12:05:07,993 - Annotating GCF_001267215.1_ASM126721v1_genomic
+2023-08-13 12:05:21,458 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 12:05:23,003 - Getting hits from kofam
+2023-08-13 12:17:55,848 - Getting forward best hits from peptidase
+2023-08-13 12:17:59,219 - Getting reverse best hits from peptidase
+2023-08-13 12:18:00,282 - Getting descriptions of hits from peptidase
+2023-08-13 12:18:00,288 - Getting hits from pfam
+2023-08-13 12:18:07,605 - Getting hits from dbCAN
+2023-08-13 12:18:15,064 - Merging ORF annotations
+2023-08-13 12:18:27,324 - Annotating GCF_001267195.1_ASM126719v1_genomic
+2023-08-13 12:18:40,624 - Turning genes from prodigal to mmseqs2 db
+2023-08-13 12:18:41,925 - Getting hits from kofam
+2023-08-13 12:31:10,292 - Getting forward best hits from peptidase
+2023-08-13 12:31:14,380 - Getting reverse best hits from peptidase
+2023-08-13 12:31:16,111 - Getting descriptions of hits from peptidase
+2023-08-13 12:31:16,229 - Getting hits from pfam
+2023-08-13 12:31:31,425 - Getting hits from dbCAN
+2023-08-13 12:31:38,756 - Merging ORF annotations
+2023-08-13 12:31:51,330 - Annotations complete, processing annotations
+2023-08-13 12:31:52,108 - Completed annotations
